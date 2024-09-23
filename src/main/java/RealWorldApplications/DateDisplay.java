@@ -7,7 +7,7 @@ public class DateDisplay {
 
     public static void main(String[] args) {
         // Starting and ending dates
-        LocalDate startDate = LocalDate.of(2024, 9, 22);
+        LocalDate startDate = LocalDate.of(2024, 9, 24);
         LocalDate endDate = LocalDate.of(2024, 11, 20);
 
         // Formatter for the output in the desired format
