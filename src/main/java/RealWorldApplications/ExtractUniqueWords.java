@@ -15,7 +15,7 @@ public class ExtractUniqueWords {
                 "Monthly Grocery\n" +
                 "Monthly Grocery\n" +
                 "Homecoming expenditure\n" +
-                "Jockey Underwears(Pack of 2)\n" +
+                "Jockey Underwear's(Pack of 2)\n" +
                 "Jockey Boxer Shorts(Pack of 2)\n" +
                 "Jockey Vest(Pack of 2)\n" +
                 "Louis Philips Shirt\n" +
