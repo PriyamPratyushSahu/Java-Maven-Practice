@@ -1,7 +1,7 @@
 package RealWorldApplications;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class ExtractUniqueWords {
     public static void main(String[] args) {
@@ -11,29 +11,16 @@ public class ExtractUniqueWords {
                 "Apple iPad EMI bill\n" +
                 "Multi Asset Fund SIP\n" +
                 "Large Cap SIP\n" +
-                "Debt Fund SIP\n" +
-                "Monthly Grocery\n" +
-                "Monthly Grocery\n" +
-                "Homecoming expenditure\n" +
-                "Jockey Underwear's(Pack of 2)\n" +
-                "Jockey Boxer Shorts(Pack of 2)\n" +
-                "Jockey Vest(Pack of 2)\n" +
-                "Louis Philips Shirt\n" +
-                "Louis Philips Shirt\n" +
-                "Bus Fare Other\n" +
-                "Bus Fare Other\n" +
-                "Books\n" +
-                "Outside food\n" +
-                "Milk\n";
+                "Debt Fund SIP\n";
 
         // Step 2: Split the string into an array
         String[] allItemsArray = allItems.split("\n");
 
-        // Step 3: Use a HashSet to store unique items
-        Set<String> uniqueItems = new HashSet<>(Arrays.asList(allItemsArray));
+        // Step 3: Use a TreeSet to store unique items and sort them in ascending order
+        Set<String> uniqueItems = new TreeSet<>(Arrays.asList(allItemsArray));
 
-        // Step 4: Print the unique items
-        System.out.println("Unique items in the expense list:");
+        // Step 4: Print the unique items in ascending order
+        //System.out.println("Unique items in the expense list (sorted in ascending order):");
         for (String item : uniqueItems) {
             System.out.println(item);
         }
