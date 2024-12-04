@@ -38,6 +38,7 @@ public class ExtractWishlistRobust {
             // Do nothing, just wait
         } while (LocalTime.now().isBefore(endTime));
     }
+
     void loginAndScrollToEnd() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int ch;
@@ -80,6 +81,7 @@ public class ExtractWishlistRobust {
         }
         System.out.println("Reached the end of the page!");
     }
+
     void extractInfo() throws IOException {
         bookListTitle = driver.findElements(By.xpath("//*[@data-id='H15GSZNFJH64']//a[@title]"));
         //List<WebElement>  priceElement = driver.findElements(By.xpath("//span[@class='a-price-whole']"));
@@ -111,7 +113,7 @@ public class ExtractWishlistRobust {
             totalPrice += price;
 
 
-            newData[j][0] = String.valueOf(j+1);
+            newData[j][0] = String.valueOf(j + 1);
             newData[j][1] = bookListTitle.get(i).getAttribute("title");
             newData[j][2] = switchWindowExtractURL(i);
             newData[j][3] = "₹ " + price;
@@ -119,6 +121,7 @@ public class ExtractWishlistRobust {
 
         }
     }
+
     String switchWindowExtractURL(int i) {
         Actions actions = new Actions(driver);
         String str;
@@ -148,8 +151,9 @@ public class ExtractWishlistRobust {
 
         // Switch back to the original window
         driver.switchTo().window(originalWindow);
-        return  str;
+        return str;
     }
+
     void writeInWorkbook() {
         // Load the existing workbook
         Workbook workbook = null;
@@ -242,7 +246,7 @@ public class ExtractWishlistRobust {
         long minuteDifference = duration.toMinutes();
         System.out.println("Minute Difference: " + minuteDifference + " minute(s)");
 
-        }
-
     }
+
+}
 
