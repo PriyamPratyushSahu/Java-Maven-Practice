@@ -14,6 +14,7 @@ public class ExtractUniqueWords {
         // Step 3: Use a TreeSet to store unique items and sort them in ascending order
         Set<String> uniqueItems = new TreeSet<>(Arrays.asList(allItemsArray));
 
+        uniqueItems.remove("Item");                                 //0
         uniqueItems.remove("House Rent");                           //1
         uniqueItems.remove("Travel Fare Office");                   //2
         uniqueItems.remove("Travel Fare Others");                   //3
