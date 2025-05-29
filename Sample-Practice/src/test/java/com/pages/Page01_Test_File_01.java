@@ -13,8 +13,8 @@ import org.openqa.selenium.support.PageFactory;
 
 
 
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+
 import java.io.File;
 import java.io.FileInputStream;
 
@@ -27,8 +27,7 @@ Properties prop;
 FileInputStream fs;
 File fetch_file;
 FileInputStream excel_file;
-XSSFWorkbook work_file;
-XSSFSheet sheet;
+
 
 	public Page01_Test_File_01(WebDriver driver)
 	{
@@ -52,8 +51,8 @@ XSSFSheet sheet;
 		 
 		  fetch_file = new File("src\\test\\resources\\Excel Files\\All_Excel_Files.xlsx");
 			excel_file = new FileInputStream(fetch_file);
-			work_file = new XSSFWorkbook(excel_file);
-			sheet = work_file.getSheet("Login_Sheet");
+			/*work_file = new XSSFWorkbook(excel_file);
+			sheet = work_file.getSheet("Login_Sheet");*/
 			
 		System.out.println("One_Property File is loaded");
 	}

@@ -15,8 +15,8 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+
 import java.io.File;
 import java.io.FileInputStream;
 
@@ -29,8 +29,7 @@ Properties prop;
 FileInputStream fs;
 File fetch_file;
 FileInputStream excel_file;
-XSSFWorkbook work_file;
-XSSFSheet sheet;
+
 
 	public Page07_Test_File_07(WebDriver driver)
 	{

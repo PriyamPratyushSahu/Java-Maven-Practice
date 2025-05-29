@@ -13,8 +13,8 @@ import org.openqa.selenium.support.PageFactory;
 
 
 
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+
 import java.io.File;
 import java.io.FileInputStream;
 
@@ -27,8 +27,7 @@ Properties prop;
 FileInputStream fs;
 File fetch_file;
 FileInputStream excel_file;
-XSSFWorkbook work_file;
-XSSFSheet sheet;
+
 
 	public Page04_Test_File_04(WebDriver driver)
 	{
