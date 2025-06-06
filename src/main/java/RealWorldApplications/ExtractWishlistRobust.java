@@ -26,7 +26,6 @@ public class ExtractWishlistRobust {
     //List<WebElement>  priceElement = driver.findElements(By.xpath("//span[@class='a-price-whole']"));
     static List<WebElement> priceElement;
     static int listSize;
-    static String str;
     static String[][] newData;
     static int totalPrice;
 
@@ -82,7 +81,7 @@ public class ExtractWishlistRobust {
         System.out.println("Reached the end of the page!");
     }
 
-    void extractInfo() throws IOException {
+    void extractInfo() {
         bookListTitle = driver.findElements(By.xpath("//*[@data-id='H15GSZNFJH64']//a[@title]"));
         //List<WebElement>  priceElement = driver.findElements(By.xpath("//span[@class='a-price-whole']"));
         priceElement = driver.findElements(By.cssSelector("li[data-id='H15GSZNFJH64']"));
@@ -238,7 +237,7 @@ public class ExtractWishlistRobust {
         ew.writeInWorkbook();
 
         driver.quit();
-        System.out.println("Total Price: " + totalPrice);
+        System.out.println("Total Price: ₹" + totalPrice);
 
         LocalDateTime endTime = LocalDateTime.now();
         System.out.println("End Time: " + endTime);
