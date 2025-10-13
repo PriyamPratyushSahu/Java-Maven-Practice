@@ -1,0 +1,2133 @@
+Mrunal’s Economy for UPSC Prelims-2025-26 (PCB13-RAFTAAR)
+ Pillar1A1: Money: Barter to Bitcoins
+Table of Contents
+ 10 Brief Info about Economy course (PCB13-Raftaar) 🏛 ......................................................................4
+ 10.2 Myths about Economy for UPSC Prelims.................................................................................................4
+ 10.3  PYQ Analysis: Increased diversity in Economy topics in Prelims 🏛💳 .................................................5
+ 10.3.1  PYQ Analysis: Marks Distribution in UPSC Prelims and Mains 🏛💳 ..................................................................7
+ 10.4  Barter system & its disadvantages: ( 🍅🌽  वस्तुविववि मयप्रणाली)..................................................................8
+ 10.5 Money: Functions of ( 📏  पैसेकेकेय)...........................................................................................................8
+ 10.6  Money: Evolution & Types ( 💵    मद्राकेउत्क्रांति वप्रकेर)..............................................................................9
+ 10.6.1 Commodity Money / 🥜 वस्तु मुद्रा (Intrinsic value: अंतुर्भूतु मुल्य? Yes).........................................................................9
+ 10.6.2 Metallic Money / 🥇 धातु मुद्रा (Intrinsic value? Yes)...................................................................................................9
+ 10.6.3  Metallic Money  Full Bodied vs Token Coins 💪 → ......................................................................................................9
+ 10.6.4  Intrinsic value of a coin vs paper currency note? ( 💍📔 अंतुर्भूतु मुल्य).......................................................................9
+ 10.6.5  Fiat money ( 💵 वधानि क मुद्रा):......................................................................................................................................10
+ 10.6.6 Legal Tender ( 💵⚖️ वधानि क नि निवदा)............................................................................................................................10
+ 10.6.7 Legal Tender ( 💵⚖️ वधानि क नि निवदा)- Limited and Unlimited..................................................................................12
+ 10.6.8 RBI’s App to help the blind identify currency notes ( 👩‍🦯🤳🏻 त्रही / दिदाव्य-चक्षुओं क नि ए)..........................................13
+ 10.6.9  Currency related General Knowledge: 💵 ................................................................................................................13
+ 10.6.10   “I promise to pay the bearer…”: Meaning of this promise? 💵 ..........................................................................13
+ 10.6.11 Currency Note is not a promissory note?..............................................................................................................14
+ 10.7  Demonetization of Fiat Money ( 💵 विवमद्राकेरणा: Previously 1946, 1978).................................................14
+ 10.8  ₹2000 WITHDRAWN but continued as legal tender 💵 ........................................................................14
+ 10.8.1  ₹2000 NOT DEMONETIZED but WITHDRAWN from circulation 💵 ............................................................14
+ 10.8.2  ₹ 2000 withdrawn- WHY? ( 💵 क्य च से हीटाय गय)..............................................................................................14
+ 10.8.3  Money Types: Gresham law: good vs bad money | soft vs hard currency 💰🤮 .................................................15
+ 10.8.4 Zimbabwe's Gold Coin ‘Mosi-oa-Tunya’.................................................................................................................15
+ 10.8.5  Redenomination: Iran’s Toman Currency 🤫💸👜🥚 ...........................................................................................15
+ 10.9 Bank Money / Deposit Money 🐷🔖 .........................................................................................................15
+ 10.9.1  Paper orders: Cheque, Demand Draft (DD) 🐷🔖 ..................................................................................................15
+ 10.9.2 Demand Draft and Overdraft 🔖 ................................................................................................................................16
+ 10.9.3  Cheque  NPCi’s Cheque Truncation System (CTS) & Positive Pay Mechanism 🐷🔖 → .................................16
+ 10.9.4  CTS - Faster settlement in just few hours (2024) 🐷🔖 ..........................................................................................17
+ 10.10  Electronic Orders / Digital payment 🐷💸📡 ........................................................................................17
+ 10.10.1 CBS ( full form: Core Banking Solution /system) 💸📡 ........................................................................................17
+ 10.10.2  NEFT vs RTGS vs IMPS 📡 .....................................................................................................................................18
+ 10.10.3  LPSS- lightweight payment and settlement system 📡 .........................................................................................19
+ 10.10.4  RBI: beneficiary account name look-up facility for NEFT / RTGS (2024) 🕵🏻‍♀️ ...................................................19
+ 10.10.5  RBI’s Next Generation Treasury Application (NGTA), 2020-Oct 💸📡 ...........................................................19
+ 10.10.6  RBI's Next-Gen RTGS to comply with ISO-XML standards 📡🚩👶🏻 ................................................................20
+ 10.11  National Payment Corporation of India(NPCi) 🕵🏻 ..............................................................................20
+ 10.12  NPCI → UPI (Unified Payment Interface) 🕵🏻🤳 .................................................................................20
+ 10.12.1  UPI: daily transaction limits 🛍️ ..............................................................................................................................21
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 1
+10.12.2  UPI: Push vs Pull Transactions 🤌 ..........................................................................................................................21
+ 10.12.3  UPI Delegated Payments to create secondary accounts (2024-Aug) 🧑‍🧒 ............................................................21
+ 10.12.4 RBI transaction limits on UPI123, UPI Lite (2024–10).......................................................................................21
+ 10.12.5  UPI-Lite (on-device wallet) 🛍️ ...............................................................................................................................22
+ 10.12.6 UPI Lite vs UPI Lite-X (offline payment)..............................................................................................................22
+ 10.12.7  Conversational payments in UPI 🛍️💬 ..................................................................................................................22
+ 10.13  Pre-sanctioned credit line 🔪 .................................................................................................................23
+ 10.13.1  UPI: Pre-sanctioned credit line/Overdraft in UPI (2023-Apr) 🔪🛍️ .................................................................23
+ 10.13.2  UPI: Benefits of UPI-overdraft facility= BNPL 🔪🛍️ ...........................................................................................23
+ 10.13.3  UPI: Interoperable Card-less Cash Withdrawal (ICCW) 🛍️ ...............................................................................24
+ 10.13.4  UPI: facility for depositing /withdrawing money 🪙🏧 .......................................................................................24
+ 10.13.5  NPCI  UPI BHIM Full form: Bharat Interface for Money (2016) 🕵🏻🤳 → ........................................................24
+ 10.13.6   NPCI  Rupay Card Payment Gateway (2012) 🕵🏻💳 → ........................................................................................25
+ 10.13.7  Credit Card Network portability order by RBI (2024) 💳🔄 ...............................................................................25
+ 10.13.8  NPCI other notable initiatives 🕵🏻 ...........................................................................................................................26
+ 10.13.9 NACH-ABPS : Hybrid / Mixed mode in MGNREGA 🕵🏻 .....................................................................................26
+ 10.14  Direct Benefit Transfer (DBT)  E-Rupi by NPCi (2021) 🤳🏻💸👟 → ....................................................27
+ 10.14.1 e-RUPI vouchers: scope expanded (2023).............................................................................................................27
+ 10.14.2 Interoperability Problem ( 💸🤳🏻🤷🏻‍♂️🤳🏻 इंटारऑपरनि नि टा)............................................................................................28
+ 10.15 QR Codes: compulsory to implement UPI/Bharat QR from 2022 🤳🏻💸 ..............................................28
+ 10.15.1 rMQR (Rectangular Micro QR Code) 🤳🏻💸 ...........................................................................................................28
+ 10.15.2  Card Types based on Security Features: ( 💳 सेरक्षु प्रणा क निहीसे से कर्ड क प्रकर)................................................29
+ 10.16  Credit & Debit Cards (also called ‘Plastic Money’) 💳 .........................................................................29
+ 10.16.1   Card Tokenization (from 1/Oct/2022) 💳📧 .......................................................................................................30
+ 10.16.2  CVC Less transactions 💳 ........................................................................................................................................31
+ 10.16.3  Auto-Debit/E-mandates and Additional Factor of Authentication (AFA) 💳 .................................................31
+ 10.17   Card/tech for Transport / Travel 💳🚕 .................................................................................................31
+ 10.17.1   National Common Mobility Card (NCMC, 2019) 💳🚕 ....................................................................................31
+ 10.17.2  SBI’s Nation First Transit Card (2023) 🚝💳 ........................................................................................................31
+ 10.17.3   FASTag/NETC for paying toll fees at highways (2017) 💳🚕 ............................................................................32
+ 10.18  MDR: Full form: Merchant Discount Rate ( 💳  व्यापैरिरकेछूटदर)...........................................................32
+ 10.18.1  MDR Subsidy by MEITY 💳 ....................................................................................................................................32
+ 10.18.2 FAQ: Does Rupay cards have MDR charge or not? 🙋🏼‍♀️ .........................................................................................33
+ 10.18.3  Interchange fee by NPCi on sellers for prepaid wallets(2023-March)..............................................................33
+ 10.18.4   ATM and its Types 💳🏧 ........................................................................................................................................33
+ 10.19   Measures to promote Cashless Economy 💸📡🤳🏻📈 ...........................................................................34
+ 10.19.1   Payments Infrastructure Development Fund (PIDF) by RBI 🕵️‍♂️💳📯 ..............................................................34
+ 10.20 Global Money Transfer 🌐🤝 ..................................................................................................................34
+ 10.20.1 UPI facility to foreign tourists coming to India (2023)........................................................................................34
+ 10.20.2 Nostro-Vostro / Rupee-Ruble / Rupee-Rial Agreement?....................................................................................35
+ 10.20.3  RUPAY Cards- International acceptance 💳 .........................................................................................................35
+ 10.20.4  UPI in Srilanka, Mauritius etc. (2024) 🛍️ ..............................................................................................................35
+ 10.20.5  UPI@Global: India-UAE: LCSS: UPI-IPP linkage (2023-Aug) 🛍️ .....................................................................35
+ 10.20.6   UAE’s JAYWAN card (=RUPAY) & AANI (=UPI) based on NPCi’s model 🌏💳 ........................................36
+ 10.20.7  UPI@global  Project Nexus Indian-UPI connect with some Asian nations (2024) 🌏 → ....................................36
+ 10.20.8  Financial Messaging Systems: SWIFT- Russia gets banned 💸📞 ......................................................................36
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 2
+10.21  Payment System Operators? 👨‍⚖️📜🗓 ....................................................................................................37
+ 10.21.1 New Umbrella Entity (NUE) for Retail Payments System (2019) 👨‍⚖️ .................................................................37
+ 10.21.2  Third Party Application Providers (TPAPs): Google Pay, Whatsapp Pay 🤳🏻 ...................................................38
+ 10.22   Digital Payment Regulatory bodies ( 🕵️‍♂️💳 वि यत्रणासेस्थाएँ)...................................................................38
+ 10.22.1   Digital Transactions Ombudsman (DTO-2019 / 🕵️‍♂️💳 कप्रहीर).......................................................................38
+ 10.22.2  RBI: BPSS (Statutory body) 🕵️‍♂️ ................................................................................................................................39
+ 10.22.3 Payment Regulatory Board (PRB) 🕵️‍♂️ ......................................................................................................................39
+ 10.23  Digital Payment related Index / Competitions/Reports by RBI 🐯📊 .................................................39
+ 10.24  Crypto-Currency & Blockchain Technology 🔗💮 ...............................................................................39
+ 10.24.1  Virtual currency → MEME Coins e.g. Trumpcoin → .............................................................................................40
+ 10.24.2 Hot Wallet vs Cold Wallet 👝 ..................................................................................................................................41
+ 10.24.3 : Crypto-Winter in Bitcoin Prices ( 🔗💮📉🥶☃️ र्भूव निगर)...................................................................................41
+ 10.24.4  Bitcoin crosses historic $100K mark (2024-Dec) ₿ ..............................................................................................41
+ 10.24.5  Virtual currency → USA Bitcoin Strategic Reserve Fund (2025) → ......................................................................41
+ 10.24.6  Bitcoin Halving = 50% reduction in the reward to miners (2024) 💮 ................................................................41
+ 10.24.7 : Crypto-scams - Recent Global Scams 🔗💮📉🥶☃️ ...........................................................................................41
+ 10.24.8 :Crypto currency observations by EcoSurvey’23 🔗💮 📙 .....................................................................................42
+ 10.24.9 : Cryptocurrency Profit pe 30% Tax and 1% TDS in Budget-2022 🔗💮🍋 👜🥻 ..............................................43
+ 10.25  Cryptocurrency Banned in other nations? ⚖️🔗💮✋ ..........................................................................43
+ 10.25.1 Crypto currencies as legal tender is in some countries........................................................................................43
+ 10.25.2 : Cryptocurrency Permitted in Other Nations/Groups 🔗💮🤩 ..........................................................................43
+ 10.26  Cryptocurrency → global regulations 🔗💮🥇 .......................................................................................44
+ 10.26.1 Global Regulations  MICA regulation by EU (2023) → .......................................................................................44
+ 10.26.2 Global Regulations  CARF Framework by OECD (2022) → ...............................................................................44
+ 10.26.3  Cryptocurrency  Stable-coins 🔗💮🥇 → ..............................................................................................................44
+ 10.26.4 World Coin Project (2021–22)................................................................................................................................44
+ 10.27  Central Bank Digital Currency (CBDC) 🐯🔗💮   केद्रायबैंकेवि जि टलीमद्रा...............................................45
+ 10.27.1  Zhande-walle Babushono ke liye special instruction: ( 🚩👶🏻 अंनि मु सेच )..........................................................45
+ 10.27.2  Indian CBDC symbol (e₹) 💮 ..................................................................................................................................45
+ 10.27.3  (e₹) CBDC wholesale vs Retail 💮 ..........................................................................................................................45
+ 10.27.4 (e₹) Indian CBDC = digital token of legal tender 💮 ............................................................................................46
+ 10.27.5  CBDC → Permanent deletion of transactions to keep e₹ anonymous like cash → .............................................47
+ 10.27.6  (e₹)  Settlement finality 💮 → ..................................................................................................................................47
+ 10.27.7 (e₹) Indian CBDC = no interest earning ( 💮 ही निमु ग ब्यज।).............................................................................47
+ 10.27.8 (e₹) CBDC - programability & offline features 💮 .................................................................................................47
+ 10.27.9 E-Rupee vs E-Rupi....................................................................................................................................................48
+ 10.27.10 = Benefits of CBDC ( 🐯🔗💮👌🥰 कद्राय क निर्डनिजटा मुद्रा क फायदा)........................................................................48
+ 10.27.11 =  Challenges of CBDC ( 🐯🔗💮✋🥵 च नितुय)..................................................................................................48
+ 10.27.12   (e₹) CBDC - Interoperability permitted with UPI QR Codes 💮📲 ................................................................49
+ 10.27.13   (e₹) CBDC wallets: Non-banks can also create wallets (2024-April) 💮📲 ....................................................49
+ 10.28 ≠  Fungibility? 💠❇️ ................................................................................................................................49
+ 10.28.1 (e₹): Fungibility of CBDC 💮 ...................................................................................................................................50
+ 10.28.2  Non-fungible token (NFT: 💠 ग़ैर-फ़ंज टाक ).....................................................................................................51
+ 10.28.3 NFT-Charms? ( 💠🤩 आकर्षणा)...................................................................................................................................52
+ 10.28.4 NFT-Challenges: ( 💠😰 च नितुय).............................................................................................................................52
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 3
+10.28.5  Mains Answer Writing ✍️ .......................................................................................................................................52
+ 10.28.6  Epilogue- Babushone want only concepts not facts 🙋🏼‍♀️ ........................................................................................52
+ 10🏛BRIEF INFO ABOUT ECONOMY COURSE (PCB13-RAFTAAR)
+ Economy Area Covered? Comment, if any
+ Prelims  Yes ✅ Yes- theory, current, NCERT, Budget, Economic Survey,
+MCQ, PYQ- everything covered.
+ Mains No ✋🚨
+ Separate course for it. You've Two Options:
+(A) Either wait for next Live Mains-course (QEP6) in Jun’25 OR
+ (B) finish from Past Recorded Course (QEP5) Click Me.
+ Micro Economics  No ✋🚨 UPSC asked only 2 question in last 13 years. Finish
+from Recorded Course of 2023-May. Click Me-FRESHER ke liye 2025-26 strategy / roadmap / planner video:
+https://unacademy.com/class/comprehensive-strategy-for-upsc-cse-20252026/92QMBPIK-Repeaters / 2024 Failed ke liye strategy: Youtu.be/400cFX2b7eg?si=lxL2pWVejMYjRDBb  -Syllabus, Strategy, Booklist, Cut-off: https://mrunal.org/syllabus -Economy: how much I’ll teach, what books do you’ve to read on your own etc. mrunal.org/pcb12 -Basically this PCB-Raftaar Course deals only with Prelims-Specific Economy. -Only for serious competitive exam mindset candidates shd attend this. Non-serious/
+argumentative-PhD mentality Babushona types should avoid my courses & enjoy their life.-Old Students (PCB1to12) Need NOT Sit again. They shld see FREE UPDATEs [Win##] at
+Mrunal.org/win25 as per the table given in it.
+10.2MYTHS ABOUT ECONOMY FOR UPSC PRELIMS
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 4
+I’m not making Memes for everything, otherwise pages will increase so just accept following:
+ Myths Reality
+ In Economy, ONLY concepts are important for UPSC. Both facts and concepts are asked.
+if something is not asked in the last 3 years, then such topic
+will never be asked.
+ UPSC examiner asks trend
+breaking questions.
+if some economy topic is older than one year, then it is not
+important. Only last one year current affairs is important.
+ UPSC asked many Economy MCQs
+from events older than one year.
+ We've to read economic-times, business line, etc newspapers. NOT required.
+ 10.3  PYQ A 🏛💳 NALYSIS: INCREASED DIVERSITY IN ECONOMY TOPICS IN PRELIMS
+ • From table given below, you can see that the diversity and variety of economy MCQs
+questions has increased/changed in recent Prelims, so it is inevitable that handouts will get
+lengthy.  जब प्रश्नों की वि वि धता और जटि लता बढ़ रही ही ता ये लजमी ही टिकी ज्यादा नो स लम्बे बनोनो पड़ेंगे.
+• So, please do not be fooled by the "negative-PR toolkit" circulated by Delhi-offline coaching
+mafia against my notes via timepass vloggers and bikaau-royal-entry toppers.
+ • Black background cell = NOTHING asked from said topic in that year.
+ Pillar 2024 2023 2022 2021 2020
+ 1A1_Digital
+Payment &
+Bitcoin
+ e₹ by RBI • CBDC &
+SWIFT • NFT ke features • NOTHING
+asked
+ • Blockchain
+Technology
+1A2_Monetary
+policy
+ • Central Banks
+globally hiking
+loan interest
+rates
+ • RBI responsible to
+control inflation
+ • Money
+multiplier
+increases when
+ • Indian Bond
+Yield influenced
+by what factors
+ • expansionist
+monetary
+policy
+ • multiplier If
+you
+withdraw 1
+00 000 in
+cash
+ 1B1_Classificatio
+ n Bank NBFC
+ Foreign Banks • • Credit rating
+agencies
+• Lender of last
+resort means
+what
+ • District
+Central
+Cooperative
+Banks
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 5
+ Pillar 2024 2023 2022 2021 2020
+ • UCBs regulation (DCCBs)
+ 1B2_NPA/Bad
+Loan Burning
+Issues
+ Syndicated lending • • BBB • Appointment of
+RBI Governor
+ • Interest
+Coverage
+Ratio
+ 1C_Sharemarket,
+ companies act,
+CSR
+ (1) US treasury bonds
+(2) C-Bond
+participants (3) CSR
+(4) ETF (5) CBLO (6)
+Debt-platform
+ • InVITS pe
+Income Tax &
+SARFAESI Act
+ • Capital markets
+ke sub-markets
+ • Beta in
+Sharemarket
+ • intangible
+investments
+ • Capital
+Expenditures of
+a company
+• IIB pe Income Tax
+ • Convertible Bonds
+• Stock Market:
+NDS-OM &
+CDSL
+ • Call Money
+& other
+instruments
+ • non
+financial
+debt
+ 1D1_Insurance • • • • • cyber
+insurance
+ 1D2_Pension • PM-Shram Yogi • • • Causal Workers
+get EPFO or not •
+ 1D3_ Financial
+inclusion • • SHG ko Loans • • • Kisan Credit
+Card scheme
+ 2B_FC
+BlackMoney •
+ • 15th FC
+Horizontal
+Formula
+ • Vodafone indirect
+transfer
+ • Black Money is
+bad why? •
+ 2D_FRBM Deficit
+Disinvestment • • • G-Sec and
+Household Savings • • FRBM Docx
+ 3A_BoP import
+export FDI/FPI • Apple import
+ • Switzerland
+Gold export
+ • India ka global
+export data &
+PLI
+ • Tea Board ka Dubai
+Office
+ • FDI types of
+instruments
+ • FDI
+Meaning
+ • India
+import
+export data
+ • Indo
+SriLanka
+Trade
+ • WTI Oil
+Contract
+ 3B_ currency
+exchange • • RBI s
+Sterilization
+ • NEER-REER
+ • currency exchange
+and RBI Action
+ • ECB & Fed
+Tapering
+ • Devaluation
+ • “Gold
+Tranche”
+(Reserve
+Tranche)
+ • GFC- what
+NOT to do
+ 3C_intl.org
+agreements •
+ • USA-EU Trade
+and technology
+Council
+ • EU s Stability
+Growth Pact
+ • IMF Loan facility
+ • G20 Common
+Framework
+ • AIIB-MTCR-SCO
+ • • TRIMS
+Agreement
+ 4A_AGRO
+ (1) farmer capital (2)
+Land records
+(3) Grains
+• Small Farmer
+Large Field
+ • Nigerseed pe
+• •
+ • price of rice
+affected by
+ • public
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 6
+ Pillar 2024 2023 2022 2021 2020
+ council MSP
+ investment
+in agri
+ • MSP All/
+NEVER
+ 4B_Mfg Services
+E-Commerce
+MSME IPR
+ • Sectors
+classification • MSME & PSL • Videshi e
+commerce firms • •
+ 4C_NITI PC FYP;
+unemployment
+ • Venezuela
+Economic
+model
+ •
+ • Vietnam economy
+growth
+• Organisation
+looking after
+industry dispute
+ •
+ • 1991
+economic
+liberalizatio
+ n impact on
+rural area
+ 4D_GDP • • • real sector in the
+economy
+ • Counter-cyclic
+policy to combat
+recession
+ •
+ 4E_Inflation • • •
+ • Demand-Pull
+inflation
+ • Printing money
+causes inflation
+ • CPI vs WPI
+ 5A_Infra-Energy
+Water • •
+ • Coal Controller s
+Organization
+(CCO)
+• •
+ 5B_Infra
+Transport
+ • Greenfield
+Airports
+ • Private Port etc
+ • Infra Corridors • • •
+ 5C_Infra-Rural
+Urban • • S3i ke Infra
+sectors • Sanitation Coalition• • MPLADS
+ 6A_HRD-Health
+Hunger
+Malnutrition
+ • (1) TFR  (2)
+PM-Surakshit
+Matritva  (3)
+nations  pop. ↓
+ • Janani Suraksha
+Yojna
+ • Anaemia Mukt
+Bharat
+ • Ayushman Bharat
+Digital Mission • •
+ 7_Microeconomi
+ cs • • • • substitute &
+inferior goods •
+ TOTAL 20 MCQs 20+ MCQ## 20+ MCQ 14 MCQ 20+
+• Free Download Topicwise PYQ booklet at https://unacademy.com/content/upsc/downloads/
+• ## Note on above table: Every teacher always wants to show that more number of questions are
+asked from his subjects. E.g. Economy teacher will say WTO = economy topic whereas IR
+teacher may disagree. No need to get into ‘emotional-fanboy-outrage’ around it.
+10.3.1 🏛💳 PYQ Analysis: Marks Distribution in UPSC Prelims and Mains
+ 6 Pillars of
+economy
+ Prelims P1 (GS 100 🔠❓MCQs) Mains GSM-1-2-3 (750 Marks)
+ Utility in exam
+ 2018
+ 2019
+ 2020
+ 2021
+ 2022
+ 2023
+ 2024
+ 2018
+ 2019
+ 2020
+ 2021
+ 2022
+ 2023*
+ 2024
+ 💳
+ 1_Money
+Banking,
+Finance &
+Insurance
+ 7 7 9 6 8 7 1
+ 0 0 0 15 15 0 0 0 Most useful in Prelims
+but less in Mains
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 7
+🍋
+ 2_Budget,
+FC, GST,
+FRBM
+ 4 1 1 1 3 1 0 25 25 15 20 0 15 0 Second lowest utility
+after 5_Infra
+ 💱3_Intl_T
+ rade, BoP
+ 4 7 7 2 4 3 1 30 0 15 15 0 0 0 Third lowest utility after
+2_Budget.
+ 🛒
+ 4_Sectors,
+GDP,
+Inflation,
+Microecon
+ omics
+ 3 8 5 5 4 4 5 50 65 55 60 85 11
+ 0 60 Useful for both prelims
+and Mains.
+ 🏗5_Infra 1 3 1 0 2 4 1 15 15 15 30 20 10 35 Lowest utility among 6
+pillars.
+ 👩🏻 🎓
+ 6_HRD
+ 6 2 0 0 0 2 3 60 75 85 45 20 95 45 More useful in Mains
+than Pre
+ Total 25
+ Q 28Q 23Q 14Q 21
+Q
+ 21
+Q
+ 20
+Q
+ 180
+ m
+ 180
+ m
+ 200
+ m
+ 185
+ m
+ 125
+ m
+ 230
+ m
+ 140
+ m--
+�
+�Economy Pillar #1-A1) Money: Barter to Bitcoin
+ 10.4🍅🌽  BARTER SYSTEM & ITS DISADVANTAGES: (वस्तु विववि मय प्रणाली)
+ Barter system was introduced by Mesopotamian tribes. It has following challenges: (चुनोविताये )- 😰Double co-incidence of Wants (आश्यकीताओ की दाहीर सयेगे नोही हीगे ता व्यापर असभ).- 😰Search Cost & Transaction cost is high.  (सही दामी पर चुज ढूँढूँनो  लनोदानो की लगेता बढ़ जता ही)- 😰Storage of perishable commodities is difficult, results in loss of value.  (नोश नो स्तुओ की मील्यहीस)- 😰Doesn’t encourage specialization and division of labour (श्रमी वि भजनो की प्रत्साटिहीता नोही कीरता).
+ 10.5📏MONEY: FUNCTIONS OF (पस की कीये)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 8
+10.6 💵 MONEY: EVOLUTION & TYPES (मद्रा की उत्क्रांवि व प्रकीर)
+ Commodity
+Money
+ Metallic
+Money
+ Paper /Token /
+Representative /
+Fiat Money
+ Bank Money,
+Deposit Money
+ 10.6.1 🥜Commodity Money /  वस्तु मद्रा (Intrinsic value: अंर्भू मल्य? Yes)
+  Iron Nails, Bear Pelts, Cocoa Beans, Whale Teeth, Gold Nuggets
+  Problems? Perishable, not uniform, not pure, foreigners may not accept.
+न
+ ोश नो, एकीसमीनो नोही, शद्ध नोही, अस्वीकीर भ कीर सकीता ही.
+ 10.6.2 🥇Metallic Money / धा मद्रा (Intrinsic value? Yes)
+  Traders & Kings stamped their marks on gold nuggets for uniformity & trust. (सनो पर अपनो
+च
+ िचुन्ह/छाप लगे दाता – ताटिकी लगे की उसकी शद्धता प येक़ीनो ही)
+  Indo Greek kings & Kushana kings issued gold coins, but Gupta Gold coins most spectacular-
+king is playing Veena, shooting animals, standing with wife.(इनो रजओनो सनो की सिसक्के विनोकील थे)
+  Delhi Sultanate Kings: Silver Tanka. Sher Shah Suri Rupiyah silver coin. Akbar: Muhr.
+ 👩
+ 🏻🎓 Further SELF STUDY: History of Indian coins from History Lecture/Notes.
+ 10.6.3 💪 Metallic Money → Full Bodied vs Token Coins
+ Table 1: Types of Coins
+ 💪 Full Bodied Coins
+ Token Coins (प्र कीकीत्मकी)
+ Gupta Coin: ~8 gm GOLD
+ 50 paisa modern coin: ~4 gm steel
+ Intrinsic Value (अताभता मील्य) is Equal to or
+MORE  than its Face Value (अटिकीता मील्य)
+ LESS.  (धता एकीदामी सस्तु ल इस्तुमील कीरता ही ये बहुता ही
+क
+ ीमी जनो की धता इस्तुमील कीरता ही)
+ Challenge?
+  Debasement: ↓decreasing the amount of
+metal in coins. Usually happens when
+king’s rule gets weak/poor e.g. Aurangzeb,
+Roman Kings. (सिसक्के मी धता की मीत्रा की कीमी टिकीये
+जए ताब लगे की उस रज की शसनो स वि श्वास कीमी हीनो
+लगेता ही)
+  1330s: Tughlaq's Token coin
+experimentation = #EPICFAIL (Why? Read
+in History).
+  Modern Indian coins are token coins.
+Cupronickel metal used to discourage
+melting.
+ Coinage Act 2011 prohibits melting of
+coins. (सिसक्के विपघलनो एकी अपरध ही)
+ 🚩👶🏻FAQ by Zhande-walle Babushone:  I’ve 25 jaat ke Qs about whether “X” can be called “Y” &
+Trump’s decision to cancel Penny coin. Ans.  As Coaching teacher, I hv finished the topic as per its
+exam-utility. Further Ph.D doubts Ask chatGPT.
+10.6.4 💍📔 Intrinsic value of a coin vs paper currency note? (अंर्भू मल्य)
+ PRECIOUS METAL COINS (धा की सि क्के)
+ PAPER CURRENCY (कीग़ज़ी मद्रा/ ट)
+ Metal has INTRINSIC VALUE i.e. Metallic
+You can't use currency-note's paper as a
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 9
+PRECIOUS METAL COINS (धा की सि क्के) PAPER CURRENCY (कीग़ज़ी मद्रा/ ट)
+ money =Use it as "money", or you can melt the
+metal  → use that metal for making jewellery /
+weapons because metal itself has its value /
+usages. (उस मीद्रा की धता विपघल  कीर कीछा और चुज भ बनो
+सकीता ही. क्योटिकी धता की अपनो : अताभता मील्य / उपयेगिगेता ही.)
+ notebook or diary.
+So currency notes have no intrinsic value. (उसकी
+कीगेज की उपयेगिगेता कीछा नोही ही, क्योटिकी उसप छापई कीर दा ही.)
+ 10.6.5 💵 Fiat money (वधावि की मद्रा):
+Fiat Money MUST fulfil two conditions SIMULTANEOUSLY: दा शता की एकीसथे पलनो :
+ 1. It MUST BE in the form of Physical Currency Coin / Physical Currency Notes / VirtualCoin/
+DigitalCoin/ CryptoCoin which can measure value AND simultaneously   और थ ही थ
+2. It MUST BE issued by the order of a King / Queen / Government / Central Bank.
+ Govt issues all coins upto ₹ 1,000, using powers of powers of Coinage Act 2011.
+ Presently, govt issues Rs.50 paisa to Rs.20 coins.
+Rs.20 coin: 12-sided Polygon shape (Dodecagon आकीर: बरही बजओ ल चुताष्कोण ही)
+ ₹ 1 Note signed by Finance Secretary (वि त्त सचिचु )
+₹ 1 note doesn’t contain “I promise to pay bearer…”
+ RBI issues: Currency notes other than ₹ 1 Note under RBI Act 1934.
+ Currency notes have Governor’s sign: “I promise to pay bearer…”
+ 😤 FAQ: why is it like this!!!??? WHY CAN’T RBI ISSUE BOTH coins & currency notes!!?
+ Ans. Send your suggestion to PM, to merge above two laws. Until it’s implemented, remember table
+for passing exam. प्रधनोमीत्रा की कीगेज लिलखो- दानो कीनोनो की एकीकीरण कीरनो की लिलए. जब ताकी ही नोही हीता  handout  र ।
+10.6.6 💵⚖️Legal Tender (वधावि की वि विवदा)
+ To become a ‘legal tender’, a given coin/currency MUST fulfil two conditions SIMULTANEOUSLY:
+एकी सथे दा शता की पर कीरनो हीगे.
+ 1. It must be a FIAT MONEY (ज हीमीनो ऊपर की सक्शनो मी पढ़). AND SIMULTANEOUSLY   और थ ही थ
+2. It must be legally valid for all debts & transactions throughout the country. Other party can’t
+refuse to accept. (लनोदार उसकी अस्वीकीर नोही कीर सकीता)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 10
+Table 2: fiat money and legal tender in India
+ ITEM
+ A) Is it in form
+of a physical
+coin OR physical
+Note OR Digital
+Coin that can
+measure ‘value’?
+ B) Is it issued by
+Central Bank /
+Govt  / King /
+Queen
+ C) Result: Is it
+Fiat money?
+ (YES If Both
+Cell A+B give
+✅+✅)
+ D) At present, is it
+legally valid for
+transaction in
+India as per
+Coinage Act or
+RBI Act?
+ E) Is it
+LEGAL
+Tender in
+India (Yes, IF
+C+D give
+✅+✅)
+ ₹ Indian Rupee:
+Coins & Notes,
+CBDC
+ ✅ ✅ ✅ ✅ ✅
+ Demonetized
+(विवमद्राकी ) ₹500,₹1000 ✅ ✅ ✅ ✋ ✋
+ Dollar$, Yuan, Yen,
+Euro etc ✅ ✅ ✅ ✋ ✋
+ G-Sec, T-Bill
+ (what is this-Ans.
+explained in video)
+ ✋ ✅ ✋ ✋ ✋
+ Shares, Bonds, DD,
+Cheque, ATM, Cards,
+Kirana coin, Casino
+coin, Filmstar-Notes
+ ✋ ✋ ✋ ✋ ✋
+ Marshall Island: SOV
+ Venezuela: Petro coin ✅ ✅ ✅ ✋ ✋
+ Bitcoins ✅ ✋ ✋ ✋## ✋
+ ##Bitcoin is not a Fiat money, yet it is legal tender in El-Salvador nation. But it is an exception.
+(विब-कीइनो की अल-सल्वाडोर दाश मी धविनोकी विनोवि दा हीनो कील एकी अप दा ही,  पर दाविनोये की लिलए विनोयेमी/व्याख्या नोही ही।)
+Commemorative Coins = Fiat money yes but not legal tender unless notified by
+RBI/Government to be used as legal tenders. (स्मृविताचिचुन्ह रूप सिसक्के- समीन्य भगेतानो मी इस्तुमील नोटिही ही सकीता,
+सिस ये की सरकीर/आरबआई उसकी अनोमीविता दा।)
+ 😤 FAQ: we can use cheque / credit card to pay fees. So, why are they not fiat money/legal tender?
+�
+� FAQ: I did not understand this thing and/or I want to engage in intellectual/lawyer debate why
+“X” thing is legal tender? Ans.  watch lecture’s recorded video again at 1X speed, more peacefully.
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 11
+10.6.7 💵⚖️Legal Tender (वधावि की वि विवदा)- Limited and Unlimited
+ Table 3: Fiat Money: Two types of legal tenders
+ A) 🚯Limited legal tenders
+ ( मिम वधावि की वि विवदा)
+ B) ∞ Unlimited legal tenders:
+(अं मिम वधावि की वि विवदा)
+ Recipient can refuse accepting payment beyond a
+limit (एकी हीदा स ज्यादा छा पस स्वीकीरनो स समीनो ल मीनो कीर
+सकीता ही)
+ Coinage Act 2011
+ 
+ Paper Note: Rs. 1 (एकी रुपए की कीग़ज़ी नो )
+  Coins Rs. 1 / above → upto Rs.1000
+ Coins 50 paisa x 20 coins → upto Rs.10
+  Below 50 paisa coins are withdrawn (in 2011)
+No such restriction.**
+  RBI Act 1934 - Section 26: Every bank
+note is legal tender in India.
+ They can be used for settling any amount
+of debt in India**, lender can’t refuse to
+accept it.
+ So, 10 paisa, 25 paisa are ✋not legal tenders.
+(10 पस और 25 पस धविनोकी विनोवि दा नोही ही। 50 पस
+धविनोकी विनोवि दा ही)
+**Although in real life, Finance Act 2017: “Cash transactions for less than Rs.2 lakh only.  Beyond that
+use Cheque, DD, NEFT etc. else penalty.” This rule is to discourage tax-evasion / black money. For
+more Ref: 📑Pillar#2. But for MCQs, simply accept that bank notes = unlimited legal tenders. (हालांकि
+व
+ ास्तविवा जीवान में लां धन / रचोर र न वास्त  नगदी लांनदीन पर छ सीमें  बादी र हा, कि न्तु MCQ  लिलांए जी पढ़ाया वा स्वी र)
+ 🚩👶🏻 FAQ# my shopkeeper doesn’t accept 50 paisa. Then how it is legal tender? मर दाकी दार ही ली 50
+प
+ ै की सि क्के।  आपै की कीही की ही व वधावि की वि विवदा ही?
+Ans. as per RBI  notification, 50 paisa is legal tender. So, accept it for MCQ & move to next topic.
+Further, feel free to file police case against shopkeeper, if you have plenty of free time/outrage for it.
+�
+�👶🏻 FAQ ₹1 one rupee paper note is limited legal tender or unlimited legal tender?  Ans. Read
+above table carefully. it's given in it in the left column.
+�
+�❓ MCQ: Which correctly describes the meaning of legal tender money?  (Pre-2018)
+(a) The money which is tendered in courts of law to defray the fee of legal cases
+ (b) The money which a creditor is under compulsion to accept in settlement of his claims
+ (c) The bank money in the form of cheques, drafts, bills of exchange, etc.
+ (d) The metallic money in circulation in a country
+ 🔠❓ MCQ: Consider the following statements  (Asked in UPSC-CDS-2011-II)
+1. In India the minimum denomination coin acceptable for transaction is 50 paise.
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 12
+2. Coins below 50 praise is not a legal tender for payment.
+Which of the statements given above is/are correct?
+(a) Only 1
+ (b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+10.6.8 👩 🦯🤳🏻RBI’s App to help the blind identify currency notes ( त्रही / दिदाव्य-चक्षुओं की लिलीए)
+ 80 lakh people in India are blind . To help them identify currency notes:
+  Old series of Gandhi notes have square (50), triangle (100) shaped markings.
+  New series of Gandhi notes have bleed lines, raised printing of Gandhi etc.
+ But, so many varieties of notes, difficult for VH persons to remember size & shapes so,
+ 2020-Jan: RBI launched ‘Mobile Aided Note Identifier (=MANI)’ App.
+  Mobile camera scan & identifies the note (Even if it’s half folded), gives audio notification in
+Hindi/English, also works offline
+ But can’t validate whether note is genuine or fake (Counterfeit जल नो नोही पकीड़ें सकीता येही ऐप),
+ If a user is both blind and deaf, the app will tell him by giving vibrations.(मीबइल कीपनो)
+ 10.6.9 💵 Currency related General Knowledge:
+Which note has what colour, which note has Red Fort / Sun Temple photo etc? General Knowledge
+Less important for UPSC-exams, more IMP for Non-UPSC Exams. So I’m removing it from Raftaar
+Handout. You can learn such general knowledge from https://paisaboltahai.rbi.org.in/
+New rupee
+symbol
+ ₹: selected through a competition by Dept of Economic Affairs in 2010. Designed by
+D.Udaya Kumar, a Professor @IIT Guwahati.
+ Nation
+Symbol--
+ Lion Emblem: Sarnath Pillar, Uttar Pradesh स लिलये गेये ही
+ “Satyamev Jayate”: slogan from Mundaka Upanishad स लिलये गेये ही
+Languages While Constitution’s 8th Schedule has 22 languages, but currency note has only 17.
+(15 on Reverse +  Hindi & English on frontside (obverse) = 17)
+�
+�FAQ: Why it is like this? Ans. Either some Indian languages have similar fonts
+and/or send suggestion to RBI.
+ Museum museum on numismatics and trade at Kolkata. (सिसक्केशस्त्र और व्यापर की सग्रहीलये)
+ 10.6.10 💵 “I promise to pay the bearer…”: Meaning of this promise?
+ Colonia era: Promised to convert into full bodied gold or silver bars / coins worth
+the equal value in weight. E.g. 1 US Dollar = ~14 grams of gold. 1 British pound =
+~73 grams of gold.
+(in my handout ‘~’ means ‘approximate’)
+  Modern era: Conversion into other Bank notes and “token coins” of equal face value. ₹ 2000 =
+500 x 4 Nos.= 100 x 20 Nos etc.
+ Not inflation adjusted value. Not linked with weight of gold or silver.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 13
+ Currency note is zero interest, anonymous bearer bond / Promissory Note.
+ 10.6.11 Currency Note is not a promissory note?
+ Doubt: according to some website, currency note is not a promissory note under the negotiable
+instrument act. then what is write?
+ Doubt
+ as per academic books on
+economy?
+ as per the law (Negotiable
+Instruments Act)
+ Is currency note a
+promissory note?
+ Yes it has the features of
+promissory note.
+ No. It is not.
+ FAQ: Then what should I tick in MCQ? Ans. Depends on the context and options given in the MCQ.
+ 10.7 💵 DEMONETIZATION OF FIAT MONEY (विवमद्राकीरणा:  PREVIOUSLY 1946, 1978)
+ Definition? Demonetization means the REMOVAL of legal tender status  of currency notes.  (टिकीस मीद्रा
+क
+ ी धविनोकी-विनोवि दा की दाज/ क़ीनोनोनो धता की रद्द कीरनो- उस वि मीद्राकीरण ये नो बदा कीहीता ही)
+  8/Nov/2016: Finance Ministry →  Dept of Economic Affairs →  notification to ban the
+“Specified Bank Notes” (SBN) of Mahatma Gandhi series ₹ 500 and 1000.
+  Specified Bank Notes (Cessation of Liabilities) Act 2017= (1) RBI not required to honor “I
+promise to pay…” promise for 500-1000 ke banned notes. (2) It is illegal to keep banned notes
+(500,1000) except for research or numismatics-hobby or museum (with some terms-conditions).
+  SC Judgement on Demonetization ? Ans. REFER📑pillar#2: taxation  → black money.
+ 10.8 💵 ₹2000 WITHDRAWN BUT CONTINUED AS LEGAL TENDER
+ 2016-Nov: RBI introduced ₹2000 note, to meet the currency requirement of the economy in an faster
+manner after demonetisation of ₹500 and ₹1000 (नो की टिकील्लता पर कीरनो की लिलए इसकी छाप ज रही थे)
+2018–19: printing of ₹2000 banknotes was stopped.
+2023-May-23rd: RBI ordered people to get it exchanged with other notes.
+ 10.8.1 💵 ₹2000 NOT DEMONETIZED but WITHDRAWN from circulation
+2023-June: Reporter asked : Will the RBI withdraw the legal tender of  ₹2000 note after September
+30? (इसका वि मुद्रीकारण नहीं हुआ. बस चलन मु इस हींटा दि या गया हीं)
+RBI Governor replied: “There is no such idea.” That means
+Question
+ interpretation
+ is ₹2000 fiat money?
+ Yes
+ is ₹2000 legal tender?
+ Yes
+ is ₹2000 in withdrawn from circulation?
+ Yes
+ is ₹2000 DEMONETIZED?
+NOT YET.^^
+ • ^^As of 2025-Jan: this is the status, as per RBI official website
+10.8.2 💵 ₹ 2000 withdrawn- WHY? (क्यों चली  हीटय गय)
+ We will only prepare the official reasons given by the RBI.
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 14
+ 2000 Notes were issued as a temporary measure to address shortage of currency. Now there is
+adequate supply of other currency notes e.g. 100/200/500.
+  This note is not commonly used for transactions. ( स भ भगेतानो मी इसकी उपयेगे कीमी ही हीता ही)
+  RBIs clean note policy: to ensure availability of good quality banknotes to the members of public.
+ 2000 note’s paper has a lifespan of 4–5 yrs. Since most of these notes were printed in 2016–2017.
+So by 2022–23 its paper quality may start to deteriorate. (चुर पचु र्षों मी कीगेज स भ खोरब ही जता ही)
+  THERE IS NO MENTION of fighting black money/ corruption / fake notes by ISI-Pakistan.
+ 10.8.3
+ 💰🤮
+ Money Types: Gresham law: good vs bad money | soft vs hard currency
+  Wait till we reach Pillar 3B: currency exchange. Presently, we’re in Pillar 1A1.
+  If unable to hold patience, watch https://youtu.be/x7rcf13JGh8?si=rkIwvohe38Gbw_FR
+ 10.8.4 Zimbabwe's Gold Coin ‘Mosi-oa-Tunya’
+  Wait till we reach Pillar 3B: currency exchange. Presently, we’re in Pillar 1A1.
+ 10.8.5 🤫💸👜🥚 Redenomination: Iran’s Toman Currency
+  Removed for #RAFTAAR. Those who want to waste time/satisfy curiosity can learn it from old
+course (PCB6) at https://unacademy.com/course/mrunals-economy-course-for-upsc-prelims
+mains-2022-52/I1OWWV6Y (मीर की अब ये परक्षा की नोजरिरये स बहुता कीमी की नोही लगेता, इसलिलए विपकी ही टिदाये ही)
+ Commodity
+Money
+ Metallic
+Money
+ Paper /Token /
+Representative /
+Fiat Money
+ Bank Money,
+Deposit Money
+ 10.9 🐷🔖BANK MONEY / DEPOSIT MONEY
+ 10.9.1 🐷🔖 Paper orders: Cheque, Demand Draft (DD)
+ Law
+ Viceroy Ripon’s Negotiable Instruments Act, 1881: Primary Objective? Cheque
+लफ़ क़ीनोनो).
+ dishonor & forgery (परक्राम्य लिलखोता असिधविनोयेमी: बकी खोता मी अप्रप्त रकीमी की चुलता चुकी अस्वीकीर हीनो/जलसज की
+ख
+ ़
+ ि
+ Chequ
+ e----
+ 3 parties in a cheque: 1) Drawer (Sender), 2) Drawee (Bank), 3) Payee (Recipient)
+ Types of cheques: 1) Stale: Not deposited in 3 months of issuance (3 मीहीनो मी नोही डोल
+त
+ ा बस/अस्वीकीये हीगे), 2) Post-dated: Deposit after a specific date,
+3) Ante-Dated: notimp for IAS exam.
+ Open / bearer cheque:  No ‘crossing’. Anyone can encash.
+ IFSC
+ IFSC code: Indian Financial System Code- 11 alphanumeric numbers to identify the
+bank branch, just like PINCODE identifies an area. (कीनो स बकी ब्रांचु ही उस चिचुन्हिन्हता कीरता ही)
+ MICR MICR code: Magnetic Ink Character Recognition. 9 digits code written in Iron Oxide
+ink for automated clearance. (चुम्बेकीये स्याही स चुकी की नोम्बेर की जचुनो की लिलए।)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 15
+10.9.2 🔖Demand Draft and Overdraft
+Overdraft: When person has insufficient bank balance, still he may withdraw money from his
+account (as a loan). Such facility is called Overdraft. Pradhan Mantri Jan-Dhan account has
+Overdraft upto Rs 10,000/- with certain conditions. (More in Pillar1D: Financial Inclusion).
+o Overdraft is mainly for short-term operating expenses. (अस्थाई रूप स लघु अ धि का लिलए कार्ज)
+o Loans is mainly for longer term higher value expenses. ( घु अ धि का लिलए मुटा रकामु का कार्ज )
+ 10.9.3 🐷🔖 Cheque → NPCi’s Cheque Truncation System (CTS) & Positive Pay Mechanism
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 16
+Benefit (first SEE THE DIAGRAM)
+ NPCi’s Mechanism
+ Cheque Truncation
+System (CTS)
+ Positive Pay
+Mechanism
+ If SBI sent the copy of cheque in post/courier = more time wasted.
+CTS IS FASTER because SBI sending scanned image online.
+ If Mrunal (recipient) manipulated the cheque numbers e.g. using magic
+marker/eraser to write ₹5,00,000 in place  of ₹50,000 YET Roman
+(Sender) will be protected because both images will not match  → then
+cheque will be rejected by his bank.
+  🙋🏼 FAQ: I still DID NOT understand this. Ans. Watch The video lecture again at 1x speed.
+  🤔FAQ: I’ve 500 counter arguments about how James Bond villain can misuse it? Ans. NOTIMP
+ 10.9.4 🐷🔖  CTS - Faster settlement in just few hours (2024)
+ BEFORE
+ After 2024 reform
+ CTS clearance/settlement took upto 1–2 working days. Bcoz
+Bankers may not send 1–1 cheque’s scanned copy to other bank.
+Banker would do it in bulk/batches.
+ called T+1 Settlement Cycle
+ Settlement within few hours.
+ called ‘on-realisation-settlement’
+ 10.10🐷💸📡 ELECTRONIC ORDERS / DIGITAL PAYMENT
+ Payment & Settlement System Act 2007 empowers RBI to regulate card payment, e-payment related
+products and services. (भगेतानो और विनोप नो प्रणल असिधविनोयेमी 2007)
+ 10.10.1 💸📡CBS ( full form: Core Banking Solution /system)
+  It is a banking software with web-platform for centralized data management & branch-less
+banking. E.g. Finacle software; BanCS software; E-Kuber (used in RBI)
+ 🚩👶🏻🎓 FAQ I didn’t understand this. Ans. Watch lecture, sufficiently explained in it.
+ 🚩👶🏻🎓 FAQ: What is the difference between Core Banking Solution (CBS) versus Core Banking
+System (CBS)? Ans. Fundamentally it is the same thing. Dictionary word difference/legal
+pedantry/academic pedantry/hairsplittery= notimp4exam. #🕰थेड़ें-पढ़-आगे-बढ़
+�
+�❓MCQ: The term ‘Core Banking Solutions’ correct term? (UPSC Prelims-2016)
+ 1. It is a networking of a bank’s branches which enables customers to operate their accounts
+regardless of where they open their accounts.
+ 2. It is an effort to increase RBI’s control over commercial banks through computerization.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 17
+3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by
+another bank.
+ Answer Codes: (a) 1 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
+ 10.10.2 NEFT vs RTGS vs IMPS 📡
+ Table 4: Digital Payment Systems- transaction limits may differ, depending on banks
+ RBI's centralised payment systems (CPS)## NPCi’s IMPS
+ 👩 💻 Type RBI’s RTGS: Real Time
+Gross Settlement
+ ⏰RBI’s NEFT: National
+Electronic Funds
+Transfer
+ Immediate
+Payment Service
+ 💸 Transfer
+Amount
+ Min ₹2 lakh to ₹2000
+crores (SBI). upto ₹10 lakhs (SBI).
+ ₹ 1 to maximum
+₹5 lakhs
+�
+� ♂️  Target
+customers
+ Bizmen wanting high
+value transactions
+instantly
+ Ordinary retail customers
+(आमी जनोता की छा भगेतानो की लिलए ही)
+ 🚛 Settlement
+mechanism
+ 🤩Instant settlement
+(झप / तारता विनोप र)-Settles net amount
+between banks at
+interval of 30 min.
+ 🤩Instant
+settlement
+ ⏰ Timing BEFORE: only weekday office hours.
+ After RBI reforms = available 24/7.
+24/7 on all days
+(टिदानो रता अवि रल रूप स)
+ 💰 Fees BEFORE: fee + GST Tax**
+ After RBI Reforms: Rs.0 fees fee + GST#
+ 👨🏻 ✈️  Who can
+provide this
+facility?-BEFORE-2021: Only Banks can provide this
+facility -2021: RBI announces that non-bank entities can
+also become members of centralized payment
+systems (CPS = NEFT & RTGS). -So, in future, Amazonpay, PhonePe etc could also
+Banks + Prepaid
+Payment
+Instrument (PPI)/
+mobile-wallet
+companies like
+Phonepe,
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 18
+RBI's centralised payment systems (CPS)##
+ NPCi’s IMPS
+ directly allow this
+ Mobikwik etc.
+ # Although some banks don’t charge IMPS fees for transactions upto ₹ ”X”/- (EXACT Fig
+NOTIMP)
+  ##FAQ: 🚩👶🏻🎓 Why doesn’t RBI Merge RTGS & NEFT? Ans. RBI may have some technical
+operational reasons for it. RBI never bothered to disclose it in some big press release or
+newspaper headline. So I never bothered to do James-Bond Google search/PHD on it. Because it
+is an inefficient way of preparing for UPSC. Nonetheless, if u feel morally-outraged then send
+suggestion to RBI Governor. Until implemented, prepare things as given in handout.
+10.10.3 📡 LPSS- lightweight payment and settlement system ----
+ RBI’s (emergency/backup) alternative to NEFT, RTGS and IMPS/UPI.
+ To provide a temporary & portable solution during natural disasters and war. (प्रकीविताकी आपदा ये येद्ध
+क
+ ी चुलता बकी प्रणलिलये बदा ही जए ता अस्थाये रूप स इसकी इस्तुमील कीर सकीता)
+ Can be operated from anywhere by a bare minimum staff.
+How it works, what are the features? NOTIMP.
+ 10.10.4
+ 🕵
+ 🏻
+ ‍
+ ♀
+ ️
+ RBI: beneficiary account name look-up facility for NEFT / RTGS (2024)
+ Can u look up name of the beneficiary b4 sending ₹₹ Before After 2024-Oct Reform
+ UPI Yes
+ Yes
+ IMPS Yes
+ Yes
+ NEFT & RTGS No
+ →
+ Yes**
+ • **When the remitter (sender) enters the beneficiary’s bank account number and IFSC code
+ beneficiary’s name will be displayed to the sender. (
+ न
+ ोबर इप कीरकी नोमी चुकी कीर सकीता ही।)
+ • Benefit?: minimizes errors & frauds in money transfers.
+ 🤩
+ 10.10.5 💸📡 RBI’s Next Generation Treasury Application (NGTA), 2020-Oct
+ Deleting from handout. Because yet to be implemented. This topic didn’t develop much after 2020.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 19
+10.10.6 📡🚩👶🏻RBI's Next-Gen RTGS to comply with ISO-XML standards
+ such faaltu technical things not imp. don't waste time. plz observe PYQs given in HDT.
+ 👨🏫 Mrunal comments before next section: In the digital wallet apps →  companies introduce new features &
+RBI introduces new technical norms on daily basis. We are not here to write a MBA research paper on their
+business-model & RBI regulations. Q.“sir u said x thing can’t be done in phonepe App but now it can be done…as per
+my experience!! Ans. I’ve given simple illustration to explain thing. They keep adding new features in the App.  UPSC
+asking only general broad MCQs from this. #🕰थेड़ें-पढ़-आगे-बढ़
+10.11🕵🏻 NATIONAL PAYMENT CORPORATION OF INDIA(NPCI)
+  2008: NPCi is registered under Company Act as a “Not for Profit Company”. (मीनोफा रटिहीता कीपनो)
+  Originally it was founded by 10 banks with ₹ 100cr capital. Later on in 2020: Paytm, PhonePe,
+Amazon Pay etc also became shareholders of NPCi (ये सब शयेर धरकी नो पज डोलकीर इस कीपनो की बनोये ही)
+  Objective? cost-effective payment solutions / technology for Banks. (रिरयेयेता लगेता पर बटिकीगे क्नोलज)
+  Its UPI-BHIM app & other mechanisms also help in financial inclusion of villagers & poors by
+expanding the reach of banking network.  (गेरब / गे
+ ल की वि त्तये समी शनो मी मीदादा की लिलए अलगे अलगे
+त
+ ाकीनोकी आविष्कोर टिकीए ही)  ✅ More abt financial inclusion  in 📑Pillar# 1D.
+ 🔠  MCQ-EPFO-2023: Consider the following statements:
+Statement I: In India, the RTGS and NEFT payment systems are owned and operated by
+National Payment Corporation of India (NPCI).
+Statement II: National Payment Corporation of India is an entity promoted (=owned) by banks.
+ (a) Both right, st2 explains st1
+ (c) St1 is correct but St2 is wrong.
+ (b) Both right, but st2 doesn’t explain st1
+ (d) st1 is wrong but st2 is right.
+ Above is not 100% technically correct explanation, but it is just to help you visualise the concept.
+ 10.12🕵🏻 🤳NPCI  → UPI (UNIFIED PAYMENT INTERFACE)
+ It is a technology for building digital payment apps based on IMPS with following features:
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 20
+QR Scan & Pay to merchants.
+You can link bank account for direct transfer of money without storing money in ‘wallet’ first.
+(unlike AmazonPay / Mobikwick etc)
+ Such app can have Push transaction (e.g. Remittance to family),  Pull Transaction (e.g. monthly
+bill deduction by Electricity Co.) or even Bill sharing among friends.
+ Examples of UPI based app: SBI’s SBIBuddy/Yono, Axis Bank’s AxisPay and NPCi’s BHIM.
+ UPI 2.0 (2018): Upgraded version of UPI. What are its new features? How is it different than UPI
+1.0? Ans. NOTIMP #RAFTAAR 🏎 🐢
+ NPCI has been signing agreements with organisations in Bhutan, Nepal, Singapore, Europe,
+Mauritius,  Srilanka etc. so that directly Indian tourists in those foreign countries can directly
+spend the money from their Indian bank account by using UPI-Based Apps.
+10.12.1 UPI: daily transaction limits 🛍️
+ Max amount Category of daily transaction
+ ₹1 lakh/day Normal transactions.
+ ₹ 2 lakhs/day Capital Markets (e.g. Mutual Funds) Credit card payments, Loan re-payments/
+EMI, Insurance premium/fees payment etc.
+ ₹5 lakh/day
+ Purchase of G-Sec under Retail Direct Scheme, IPO Subscriptions. What is the
+meaning of the term? (Ref: Pillar#1C) . Medical and educational fees.
+ Tax Payment to Govt (2024-Aug onwards)
+ 10.12.2🤌 UPI: Push vs Pull Transactions
+ UPI based apps allow for both 👉Push transactions and 👉Push transactions.
+ 👉Push transactions 🤌Pull transaction
+ 👉Push = when u send money by your own
+discretion e.g. sending money to a
+relative/friend based on your mood. (आपकी मीज़ी
+ये वि की स आप दा ज पस भजता ही।)
+ 🤌Pull transaction = when you have given
+command that every month electricity
+company should cut the money from my bank
+account → company will pull money without
+requiring u to push/click buttons every month.
+�
+�👶🏻FAQ: Beyond that, whether “X” thing is push/pull?= Ans. NOTIMP #RAFTAAR 🏎 🐢
+ 10.12.3 UPI Delegated Payments to create secondary accounts (2024-Aug) 🧑‍🧒
+ e.g. Father (primary account-UPI) creates a secondary account-UPI daughter. Then she can use
+money from father’s bank account upto Rs.X limit using her mobile.
+ 10.12.4RBI transaction limits on UPI123, UPI Lite (2024–10)
+ UPI Service Before 2024-Oct Reform
+ UPI Lite (per transaction) Rs 500 Rs 1,000
+ UPI Lite (total wallet capacity) Rs 2,000 Rs 5,000
+ UPI 123Pay for non-smart phones (=Basic feature phones) Rs 5,000 Rs 10,000
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 21
+10.12.5 🛍️ UPI-Lite (on-device wallet)
+ User adds money from his bank account to his UPI Lite wallet on his mobile App. (e.g. Google Pay
+App, BHIM App)
+ 🤩 Benefits of UPI-Lite wallet?--
+ 🤩 Faster. Because No need to provide UPI-PIN number during transaction.
+ 🤩 Less chances of transaction failure- even if sender’s bank server is facing technical issues.
+ 10.12.6 UPI Lite vs UPI Lite-X (offline payment)
+UPI Lite
+ UPI Lite X
+ upto ₹500 transaction without using PIN.
+ same.
+ Even if sender’s bank server down it works / if
+Payment App unable to connect with Core
+Banking Solution (CBS) of bank immediately.
+ same.
+ However the App needs internet connectivity.
+ 10.12.7 🛍️💬 Conversational payments in UPI
+doesn’t need internet. Works offline using Near
+Field Communication (NFC)  technology. But,
+User has to come online e.g. in the internet
+connectivity within 4 days of performing an
+offline transaction- for  data synchronisation.
+ It will help users to chat/converse with AI-powered systems to make payments. e.g. similar to
+how Smart speakers function: ‘Hey Siri/Alexa/Google remind me to buy milk on X date.’
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 22
+�
+�Benefit? Voice command make it more convenient for blind persons to use UPI.
+ 10.13 🔪PRE-SANCTIONED CREDIT LINE
+ When a banker allows an account holder to borrow upto a predetermined amount of money, without
+having to apply for a loan, it is called Pre-Sanctioned Credit Line. (इसकी टिहीदा कीरनो की मीतालब नोही ही. मीख्या परक्षा मी
+इस प्रकीर की चुज नोही पछाता)
+ 10.13.1 🔪🛍️ UPI: Pre-sanctioned credit line/Overdraft in UPI (2023-Apr)--
+ RBI allowed Pre-Sanctioned Credit Line / overdraft facility extended to UPI.
+So, even if a person does not have balance in his bank account, still he can PAY using UPI while
+shopping. (and then later, when he gets the salary/pension/income deposited in his bank
+account, then the banker will recover the principal and interest.)
+ 10.13.2 🔪 🛍️UPI: Benefits of UPI-overdraft facility= BNPL--
+ Help customers in “Buy now pay later (BNPL)” format of shopping. (Ref: Pillar#1B1 for more)
+ Poor people require small small amount of money/loans during last weeks of a month. They
+cannot travel to the city’s bank branch for the paperwork and banker may take many days to pass
+application. Consequently, poor villagers borrow from the local moneylender/Shroff/Baniya at
+high interest rate. UPI-Overdraft can help overcoming this to some extend. = helps in Financial
+inclusion of the poor. (गेरब की वि त्तये समी शनो मी मीदादा)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 23
+10.13.3 🛍️ UPI: Interoperable Card-less Cash Withdrawal (ICCW)
+Benefit? If physical card not inserted in ATM machine → ↓ dangers of card cloning, etc scams.
+ 10.13.4  🪙🏧 UPI: facility for depositing /withdrawing money
+ Over the years, following facilities/technology has been developed by NPCi
+ • scan QR code➡️  transfer money from bank account via UPI ➡️ to get coins from machine
+ • deposit cash in Cash Deposit Machines (CDMs) by logging into your bank account via UPI
+(no need to insert debit card in the machine)
+ • withdraw cash from ATM machine  by logging into your bank account via UPI (no need to
+insert debit card in the machine)
+ 10.13.5 🕵🏻 🤳NPCI  → UPI  BHIM Full form: Bharat Interface for Money (2016)
+  Money transfer app designed by NPCi. It works on Android, iOS/Apple mobiles as an APP,
+ Works even on non-smart (=basic feature) phones using *99# USSD- Unstructured
+Supplementary Service Data.
+  Bank to bank / peer to peer transaction using mobile phone (xyz@upi). No need to install
+multiple apps for each bank account (SBIBuddy, AxisPay etc) just one BHIM app to use all such
+bank accounts.
+ (1) App has 3 factor authentication system- as per Indianexpress (2) App has 2 factor
+authentication system as per NPCi website. (
+ 🚩👶🏻
+ FAQ: then which fact is true? Ans. i'd go for
+official website.)
+  Your money stays in bank account and earns interest. It’s not stored in ‘wallet outside your bank
+account’ as it happens in Mobikwick, Phonepe etc. (PS: in later stage, PhonePe etc private apps
+also included UPI type mechanism so storing money in ‘wallet’ became optional but we need not
+engage in Hairsplittery/PHD.)
+  No cards involved so no MDR or such hidden charges.
+ 🔠❓ MCQ. Find Correct Statement(s) [ Prelims-2018]
+ 1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account.
+ 2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of
+authentication.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 24
+Answer codes: (a) 1 only
+ (b) 2 only
+ (c) Both 1 and 2
+(d) Neither 1 nor 2
+ 10.13.6 🕵🏻 💳 NPCI  → Rupay Card Payment Gateway (2012)
+  Rupee + Payment = RuPay card is world’s 7th payment gateway similar to Mastercard, Visacard,
+China’s Union Pay. Rupay charges less fees than other companies.
+  Works in 3 channels: 1) ATM, 2) Point of Sale Device (PoS/card reader machine), 3) Online
+portals.
+ Rupay debit card given free with  PMJDY (Jan Dhan) Bank account (Refer Pill#1D).
+  Rupay has signed collaboration agreements with some digital payments companies in Singapore,
+Japan etc. So, it may be used in those countries. But presently Rupay is not having the widest
+reach across all the countries unlike MasterCard and Visa.
+ 🔠❓ MCQ. Find Correct Statement(s) [Prelims-2017]
+ 1. NPCI helps in promoting the financial inclusion in the country.
+ 2. NPCI has launched RuPay, a card payment scheme.
+ Answer codes: (a) 1 only
+ 🔄
+ (b) 2 only
+ (c) Both 1 and 2
+10.13.7 💳 Credit Card Network portability order by RBI (2024)
+ (d) Neither 1 nor 2
+ Before
+ After 2024 Reform
+ suppose client had SBI visa credit card, then he is
+stuck with Visa network,
+even if Rupay network’s cards are giving better
+discount/cashback offers on railway tickets.
+ • Bank/NBFC required to give CHOICE
+to new customers to select among
+different credit card networks (e.g.
+Mastercard, RuPay, Visa etc.)
+• Existing/old credit card customers can
+also switch networks at the time of
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 25
+Before After 2024 Reform
+ card-renewal, if they wish to.
+ 10.13.8🕵🏻 NPCI other notable initiatives
+ Table 5:  NPCi has built following mechanisms / platforms / systems / apps:
+ BBPS & UPMS-Bharat Bill Payment system for monthly payments of utility bills
+(gas, electricity etc.)-2022-Jan: NPCi ‘s daughter/subsidiary company Bharat BillPay Ltd.
+Company  → launched a Unified Presentment Management System
+(UPMS) →  but technical stuff. NOTIMP4 exam
+ 😤FAQ: How is BBPS vs UPMS similar or different? Ans. NOT IMP 4
+Exam. These are one-liner GK. Not PHD thesis topics!
+ NFS National Financial switch. This technology runs the ATM network
+ CTS Cheque Truncation System (2010) learned in previous section.
+ NETC National Electronic Toll Collection provides technology support to
+the FASTag toll collection. (रजमीगे पर पथेकीर सलनो की लिलए)
+ PAI chatbot Artificial Intelligence (AI) based chatbot to reply to people’s online
+queries about NPCI’s products like FASTag, RuPay, UPI, AePS etc.
+DigiSaathi Helpline
+Number (14431)
+RBI launched with help of NPCi.  - for digital payment & card payments
+problems. The No. is 1800 891 3333 (not imp4exam but personal use)
+ DakPay (2020) Payment App by Department of Post and its India Post Payments Bank
+ BharatQR(2016) Given in next section of this handout. Scroll down
+ E-Rupi (2021) Given in next section of this handout. Scroll down
+ 10.13.9🕵🏻NACH-ABPS : Hybrid / Mixed mode in MGNREGA
+ Both these technologies developed by NPCi. -Mahatma Gandhi National Rural Employment Guarantee Act, 2005: Rural development
+Ministry provides 100 days work to villagers. (Ref: Pillar#6 for more)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 26
+Presently both NACH and ABPS methods used for giving salaries to MGNREGA workers. Thus,
+it’s called Mixed payment mode/hybrid mode for MGNREGA wages.--
+Government wants to shift completely to ABPS method. But due to operational and technical
+issues, deadline keeps getting delayed.
+Some poor people (without Aadhar card) given exemption from ABPS.
+Opposition party alleged that government is "weaponizing the technology"  to deny money to
+poor people without Aadhar card.
+10.14🤳🏻💸👟 DIRECT BENEFIT TRANSFER (DBT) → E-RUPI BY NPCI (2021)
+(Origin) E-rupi is an SMS /QR Code based Prepaid Cashless Electronic Voucher created by
+National Payment Corporation of India (NPCI) using its UPI Platform. [क्योआर कीडो आधरिरता प्रपडो
+न
+ ोगेदारटिहीता इलक्ट्रॉविनोकी रसदा जिजस भरताये रष्ट्रीये भगेतानो विनोगेमी (एनोपसआई) नो अपनो येपआई प्लेफामी की उपयेगे कीर बनोये]--
+It is also supported by finance ministries Department of Financial Services and Health ministry’s
+National Health Authority (NHA) [वि त्त मीत्रालये की वि त्तये स वि भगे और स्वीस्थ्य मीत्रालये की रष्ट्रीये स्वीस्थ्य
+प
+ ्
+ रसिधकीरण नो भ इसकी मीदादा की ही]
+ Can be used to provide 1) Food for mother, child, poor families under various schemes. 1)
+Medicines for TB, Corona etc. 3) Fertilizer subsidies for farmers [खोद्य दा इये उ रकी की सब्सि डो]
+ Even private sector companies can issue it for 1] employees e.g. Gym membership, golf club
+membership, hotel tourism travel. 2] use it for Corporate Social Responsibility (CSR) programs
+(What is CSR? Ans. Big companies have to spend a portion of their profit for social service. Ref
+Pillar#1C2). [विनोज कीपविनोये भ कीमीचुरिरये की वि वि ध चुज की लिलए दा सकीता ही. कीरपर समीजिजकी दायियेत्व अदायेगे मी भ
+इसकी इस्तुमील ही सकीता ही]
+ 10.14.1 e-RUPI vouchers: scope expanded (2023)
+ Before
+ After 2023
+Who can Buy E-Rupi
+codes/vouchers?
+ Government &
+ Companies
+ 1) Government, Companies AND
+ 2) now Individual persons can also buy it (e.g. for
+gifting to their maid/driver etc.)
+ Who can SELL E-Rupi
+codes/vouchers?
+ only Banks can
+sell
+ 1) Banks AND
+2) Non-bank Prepaid Payment Instrument (PPI)
+e.g. AmazonPay, Mobikwick etc.
+ Max e-rupi code-value
+ ₹10,000
+ ₹1 lakh
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 27
+�
+�
+ 🏼♀️ FAQ: I still didn't understand this! Watch this Youtube Short-
+https://youtube.com/shorts/1qoqwvDgbLA?si=VO_aJiHdzisJVCVL
+10.14.2 💸🤳🏻🤷🏻 ♂️ 🤳🏻Interoperability Problem (इंटरऑपैरवि लिलीट)
+ 🚩👶🏻FAQ: What are those technical Rules to improve interoperability? NOTIMP #RAFTAAR.
+ 10.15🤳🏻💸QR CODES: COMPULSORY TO IMPLEMENT UPI/BHARAT QR FROM 2022
+1990s: 2 dimensional (2D) Quick Response (QR) Code system developed in Japan.
+Indian E-payment systems function on 3 types of QR Codes, namely,
+Table 6: ✋Difference between UPI QR vs Bharat QR? NOT.IMP.4.EXAM ⏳📚थोड़ा-पढ़ो-आग-बढ़ो
+ Proprietary QR
+code
+  e.g. Paytm or PhonePe ke exclusive QR codes.
+ 😰Problem? Other companies’ app may not be able to scan and pay it.
+  So, RBI has prohibited companies from launching any new
+proprietary QR code.
+ UPI QR code
+ Generated by UPI app of NPCi. 🤩It can be scanned by all Apps which are
+developed using UPI technology.
+ Bharat QR code
+ Developed by NPCi with help of Visa and Mastercard. 🤩It can be scanned
+by all Apps which are developed using UPI technology.]
+  RBI has ordered Paytm, PhonePe, MobiKwik, Google Pay etcto shift to UPI QR or Bharat QR
+  🤩Benefit? All Payment apps will be able to scan these QR codes  → 'interoperability'.
+10.15.1 🤳🏻💸rMQR (Rectangular Micro QR Code)
+  1990s: JAPANESE ENGINEER Masahiro Hara, designed the square QR code
+  Now he’s working on rMQR (rectangular QR code). rMQR can be printed in narrow spaces
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 28
+10.15.2 💳 Card Types based on Security Features:  ( रक्षु प्रणाली की हिही
+क
+ ीर्ड की प्रकीर)
+ HomeWork: Read about RFID & NFC from Sci-Tech book/internet.
+10.16💳 CREDIT & DEBIT CARDS  (ALSO CALLED ‘PLASTIC MONEY’)
+ Table 7: 💳 Card Types based on Payment modality
+ 1) Credit Card (कीर्ज पै शॉविपैग)
+ 2) Debit Card (अंपै की च की पै इंस्तुमली कीर)
+ If Credit card used for withdrawing money
+from ATM, then it’s a type of ‘borrowing’, so,
+bank levies interest rate.
+ Debit card can be used to withdraw ₹ ₹ from
+ATM from your existing bank balance.
+So, it’s not ‘borrowing’.
+ Credit card vs Overdraft?
+ 1. Credit cards = for shopping. You carry card
+in your pocket. Bank may give u some
+reward-points/gifts if you spend “₹.X” per
+year
+ 2.- for overdraft= you have to manually visit
+the bank branch, fillup form. It’s not in the
+form of a ‘card’. Doesn’t give u points/gifts.
+Debit card vs Overdraft?
+ You should be intelligent enough to self
+understand that much. शिशक्षाकी हीर चुज की स्पूनो फाटिडोगे
+क
+ ीरगे/चुम्मचु स ख़िखोलए ही वि द्यथे की मीनोसिसकी वि कीस की लिलए अच्छी
+बता नोही
+ ✋Further difference
+not.imp.not.here.for.IBPS-exam
+  3) Hybrid Card / Duo Card: Single card with two chips for 1) credit card and 2) debit card. So,
+you don’t have to carry two separate cards. E.g. Indusbank Hybrid card. एकी ही कीडो मी दानो की मीज🤩
+  4) Pre-paid card: It’s a subtype of debit card. Debit card is linked to a given bank account. But
+Pre-paid card can be bought even without having account in the given bank e.g. IRCTC’s UBI
+Prepaid Card can be used for buying rail tickets, meals etc. support provided by Union Bank of
+India (UBI) and NPCi’s Rupay gateway. (इस कीडो की पस दाकी खोरदानो पड़ेंता ही। बकी खोता हीनो जरूर नोही )
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 29
+10.16.1 💳 📧 Card Tokenization (from 1/Oct/2022)
+  Tokenisation = creates a set of numbers called ‘token’ to replace/hide the sensitive card data such
+as the 16-digit account number, expiry date and security code.  (हीटिकीगे स बचुनो स्तु असल कीडो नोबर की
+जगेही कीनो/कील्पविनोकी-नोबर बनोकीर दा दा एस बता ही। ताटिकी वि क्राता की आपकी कीडो की गेप्त जनोकीर गिमील  नोही)
+  This ensures your card information is not disclosed to merchant website= protection from
+hacking. Card owner can generate Tokenization through visiting card-issuer’s/banker’s
+website/App through laptops, desktops, tablet, wearables (smartwatch) etc.
+  From 1/10/2022, this became effective.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 30
+Figure 1: थोप्पड़ा स डर नहीं लगता, Identity theft se lagtaa hai!
+ 10.16.2 💳  CVC Less transactions
+  Normally, during online-transaction, customer has to enter Cardholder Verification Code
+(CVC) EVERYTIME when making payment.
+  but after the RBI’s tokenisation norms, this may not be required every time.
+10.16.3 💳 Auto-Debit/E-mandates and Additional Factor of Authentication (AFA)
+ Outdated/technical- deleting from HDT. Vague idea given in above image.
+ 10.17💳   🚕 CARD/TECH FOR TRANSPORT / TRAVEL
+ 10.17.1 💳 🚕  National Common Mobility Card (NCMC, 2019)
+ • ‘One Nation One Card Model’ by Ministry of Housing & Urban Affairs (MoHUA) with the
+help of NPCi, Bharat Electronics Limited (BEL Company), and some banks. It helps
+developing special cards to pay tickets
+ →
+   Train station/train gate can open automatically,
+upon tapping the card, like in hollywood movies.
+ It has 3 components: (
+ घटकी ही इं की )
+• 1) NCMC Card: To be issued by banks. Nature can be Debit/Credit/Prepaid. Can be used for
+metro, bus, suburban railways, toll, parking, retail shopping etc.
+ • 2) SWEEKAR: Automatic Fare Collection System. (येत्रा टिकीरये सलनो की स्वीचुलिलता प्रणल)
+ 🚝💳
+ • 3) SWAGAT: Swachalit / Automated Gate at railway/bus station.
+10.17.2
+  SBI’s Nation First Transit Card (2023)
+ Enough to know it can be used for paying toll fees, parking fees and doing shopping.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 31
+10.17.3 💳 🚕  FASTag/NETC for paying toll fees at highways (2017)
+ FASTags are prepaid rechargeable tags that allow for automatic toll
+collection at electronic toll collection gates Radio-frequency
+Identification (RFID) technology.
+  2017: National Highways Authority of India (NHAI, a statutory body under Highway ministry)
+launched 2 mobile apps MyFASTag and FASTag Partner to facilitate Electronic Toll Collection
+(इलक्ट्रॉविनोकी मीध्यमी स पथेकीर/ ल सल की लिलए रष्ट्रीये रजमीगे प्रसिधकीरण द्वार अलगे अलगे एप बनो ए गेए ही).
+  NPCi’s has developed National Electronic Toll Collection (NETC) technology to aid this.
+  🤩Benefit? faster traffic movement, tracking stolen cars.
+  From 2021, it became mandatory for all vehicles passing through tolls to have FASTags.
+  2024-25: govt planning to replace Fastag with satellite based toll collection. (Ref: Pillar#5 infra)
+ 10.18💳 MDR: FULL FORM: MERCHANT DISCOUNT RATE (व्यपैरिरकी छूट दार)
+ In above photo, MDR fees % is not actual number but for illustration/example.
+  MDR is the fees that a merchant must pay to his (acquirer) bank for every card transaction.
+ MDR fees is shared among 3 parties 1) customer’s card issuing bank 2) merchant’s acquiring
+bank 3) payment gateway provider. (तानो पक्षा मी इस फास की ब जता ही)
+  MDR hurts merchants’ profit margin, discourages them from adopting Point of Sale (PoS)
+terminals (=card swiping machine)  →  obstacle to digital economy.  (व्यापर की मीनोफा पर असर हीता ही
+इसलिलए ही कीडो मीशनो अपनोनो मी उदासनोता टिदाखोता ही। )
+ Table 8: Steps taken to address MDR issue
+ RBI
+  2017: Imposed ceilings on MDR fees i.e. MDR can’t be more than “x%”
+of the transaction amount. (रिरज़ी बकी द्वार ताये समी स ज्यादा फास नोही मीगे सकीता)
+ 10.18.1 💳 MDR Subsidy by MEITY
+ Instrument UPI NPCI's Rupay
+Debit Card
+ NPCI's Rupay Credit Card
+Mastercard/Visa’s Debit/Debit card etc
+ MDR % on transaction value 0% 0%
+ “x”% (NOT ZERO)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 32
+ 😥 So, if a banker promotes Rupay debit card / UPI App → Banker will not earn MDR fees. So
+bankers promote MasterCard & Visacard to their customers and merchants (instead of
+Rupay/UPI). (बकीर की मीज़ी नोही आता क्योटिकी उस डोविब कीडो  येपआई एप मी MDR की फ़स नोटिही गिमीलगे।)
+  So, 2021-Dec: MEITY (Ministry of Electronics & Information Technology) announced up to
+₹2,000 MDR Subsidy to Merchant's Bank for RuPay debit cards transactions and UPI
+transactions.# (ता सरकीर नो बकीर की बल की तामीकी मीज़ी टिदाल नो की लिलए MDR नोक़ीसनो की एज़ी मी सब्सि डो दागे)
+ 10.18.2
+ 🙋
+ 🏼
+ ‍
+ ♀
+ ️
+ FAQ: Does Rupay cards have MDR charge or not?
+ Read the terms given in handout carefully.
+Rupay credit cards= Yes MDR | meanwhile, Rupay DEBIT cards= ZERO MDR.
+ 🚩👶🏻🎓 FAQ: "I've 500 jaat ke PHD doubts & counter arguments about this MDR subsidy"  Ans.
+Sure. Plz waste your precious time reading egazette.nic.in/WriteReadData/2021/231960.pdf
+�
+�❓MCQ. Which one of the following best describes the term “Merchant Discount Rate”
+sometimes seen in news ? (Pre18 Set-D)
+ A. The incentive given by a bank to a merchant for accepting payments through debit cards
+pertaining to that bank.
+ B. The amount paid back by banks to their customers when they use debit cards for financial
+transactions for purchasing goods or services.
+ C. The charge to a merchant by a bank for accepting payments from his customers through the
+bank’s cards.
+ D. The incentive given by the Government, to merchants for promoting digital payments by their
+customers through Point of Sale (PoS) machines and debit cards.
+ 10.18.3 Interchange fee by NPCi on sellers for prepaid wallets(2023-March)
+ Technical. Deleting.
+10.18.4 💳 🏧  ATM and its Types
+  Automated Teller Machine (ATM) allow bank customer to withdraw money or check balance
+without visiting any branch of a bank. (स्वीचुलिलता रूप स नोकीदा मीद्रा दानो ल येगित्राकी टिडोब्बा)
+  ATM network works on NPCi’s NFS (National Financial Switch) technology.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 33
+Bank label Bank itself owns and operates the ATM network.
+ Brown label Bank owns but operations outsourced (cash refilling truck, guard)
+ Note: Some books offer different definition, but I’ve taken above definition
+from Economic Times Article 2015.(काछ दिकाताब मु व्याख्या अलग हीं मुन इ र स ल हीं)
+ White label-Non-Bank owns & operates. E.g. Muthoot Finance, Tata Comm, Prism  -🚩👶🏻FAQ: What is on-tap licensing system for White-label ATM? Ans.
+Outdated topic for 2024-25.
+Micro-ATM Bankmitra manually makes entries of deposit and withdrawal for customer. He
+uses handheld device for using (debit or ATM) card & Aadhar biometrics
+(fingerprint). NPCi’s AEPS technology gives technological support for this.
+10.19💸📡🤳🏻 📈 MEASURES TO PROMOTE CASHLESS ECONOMY-2019: RBI setup Nandan Nilekani committee. -Budget imposed limits and restrictions on cash transactions (more in Pillar2:Black Money) -+ many small small things for Mains Exam. It's given in Mains Handout. This is Prelims HDT.
+ 10.19.1🕵️ ♂️  💳📯 Payments Infrastructure Development Fund (PIDF) by RBI
+ ₹250cr from RBI + ₹250 cr from (Banks and Card Gateway Operators) → ₹500 cr fund setup.
+ Objective? Provide funding/ subsidy to  encourage merchants in the small towns, villages and
+North Eastern states to adopt point-of-sale (PoS)  card swiping machines. (भगेतानो इफ्रास्ट्रक्चर की लिलए
+विनोसिध/कीर्षों: गे , छा शहीर और उत्तर-प इलकी मी व्यापरिरये की कीडो मीशनो अपनोनो की लिलए मीदादा)
+ 2021: RBI launched it. Presently scheme/fund valid upto Dec, 2025.
+ Scheme description
+ PM SVANidhi Govt helps the street vendor to get Biz loan. (Ref: Pillar#1D for more)
+ PM Vishwakarma Govt helps artisans e.g. carpenter, potter, blacksmith, et cetera. In skill
+training Bank loans. (Ref: Pillar#1D for more)
+ RBI said we’ll gives PIDF-subsidy to above beneficiaries to adopt card machines.
+ 10.20🌐🤝GLOBAL MONEY TRANSFER
+10.20.1UPI facility to foreign tourists coming to India (2023)
+ वि दाश व्याक्ति भरता मी बकी खोता खोलकीर येपआई ल मीबइल ऐप द्वार भरता मी खोरदार कीर सकी ऐस रिरज बकी कीदामी उठा रही ही.
+             BEFORE                       From 2023
+if such non-resident/foreigner came to India, he could not do This facility made available to
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 34
+             BEFORE
+             From 2023
+shopping using UPI money transfer from their NRE/NRO**
+bank account,
+ G20 nations ke tourists coming
+to India.
+ ** Non-Resident Indians/foreigners can open bank accounts in Indian banks. Such accounts are
+known as NRE/NRO/FCNR (Foreign Currency Non-Resident Account). NRE/NRO/FCNR=
+internal difference is not imp. For our exam.
+ 10.20.2 Nostro-Vostro / Rupee-Ruble / Rupee-Rial Agreement?
+ (Ref: Pillar#3: international trade / currency exchange)
+ 10.20.3  💳 RUPAY Cards- International acceptance
+ • 2023-June: RBI allowed international use of RuPay cards. That means an Indian travellers in
+use them abroad for ATM money withdrawal and shopping. 2024: implemented for
+Mauritius.
+10.20.4
+ 🛍
+ ️
+  UPI in Srilanka, Mauritius etc. (2024)
+ • 2024-Feb: UPI facility now available in Sri Lanka, Mauritius.
+ 🛍
+ ️
+ • This will help Indian tourists travelling to Sri Lanka and Mauritius to pay through mobile
+phones. UPI also available at Bhutan, Oman, UAE, South Asian nations, Nepal, France etc.
+ 10.20.5
+  UPI@Global:
+India-UAE: LCSS: UPI-IPP linkage (2023-Aug)
+ 2023: Central banks of India and UAE signed Local Currency Settlement System (LCSS)
+agreement. This will allow importers/exporters/investors/tourists to pay in their respective
+domestic currencies i.e. in Indian rupee (INR) & UAE Dirham (AED). (Without using Dollars.)
+Both nations also trying UPI-IPP linkage for easier Local Currency Settlement System (LCSS).
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 35
+Country → India UAE
+ Mobile based Fast Payment Systems (FPSs) → UPI
+ 🌏 💳
+ Instant Payment Platform (IPP)
+ 📚 More about currency exchange in (Ref: Pillar#3 Currency Exchange)
+ 10.20.6
+UAE’s JAYWAN card (=RUPAY) & AANI (=UPI) based on NPCi’s model
+ • National Payments Corporation of India (NPCI) is collaborating with UAE’s Al Etihad
+Payments (AEP) for creation of domestic card scheme JAYWAN in UAE.
+ • UAE’s JAYWAN is based on the RuPay card. UAE’s AANI is UPI like money transfer tech.
+ • It’ll help UAE to become ‘self-reliant’ (presently dependent on MasterCard visa, et cetera,
+foreign players for running the card system)
+ 🌏
+ MCQ. JAYWAN is the domestic Debit Card of which of the following countries? (CAPF-2024)
+ (a) UAE (b) Egypt (c) Saudi Arabia (d) Nepal
+ 10.20.7
+  UPI@global
+→
+ Project Nexus Indian-UPI connect with some Asian nations (2024)
+ • Objective? To Connect India’s Unified Payments Interface (UPI) with the Fast Payments
+Systems (FPSs) of Malaysia, Philippines, Singapore & Thailand.
+ • Nodal/Coordinator? Bank for International Settlements (BIS, Basel, Switzerland)
+ • Benefit? will help in crossborder payments for Person to Person (P2P) and Person to
+Merchant (P2M) within 60 seconds.
+ 10.20.8 💸 📞 Financial Messaging Systems: SWIFT- Russia gets banned
+ Globally (वश्वि की स्तुर पै पै र्भूर्ज ही)
+ Within India (र्भूर की र्भू र ही पै र्भूर्ज ही!)
+ Society for Worldwide Interbank
+f
+ inancial telecommunication (SWIFT)
+ Structured Financial Messaging System (SFMS)
+ By a Cooperative organization in
+Belgium’s La Hulpe city (1973).
+designed by Tata Consultancy Services (TCS) for
+IDRBT (=Research arm of RBI)
+ To serve the messaging function for
+Banks, NBFCs & brokers who may / may
+not have direct bank relations /
+settlement systems with each other due to
+international borders.
+ to serve the messaging function in NEFT, RTGS, and
+other inter-bank, intra-bank e-transactions
+platforms within India.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 36
+�
+� Nations banned from SWIFT: 1) Iran (Capital Tehran)  2) 2022: Russia got ban, after invading
+Ukraine. This will make it very difficult for the Russian banks/ NBFCs /businessmen to send and
+receive money internationally (येक्रानो-आक्रामीण की ख़ि लफ़ रूस की स्विस्वीफ़्-वि त्तये सदाश प्रणल स प्रविताबसिधता टिकीये गेये ही जिजसकी
+च
+ ुलता रूस बकी वि त्तये सस्थानो और उद्यगेपविताये की अताररष्ट्रीये स्तुर पर पस की लनो मी टिदाक्केता आएगे।)
+ 10.21👨 ⚖️📜🗓 PAYMENT SYSTEM OPERATORS?
+ Payment and Settlement Systems Act, 2007: RBI gives license to Payment System Operators (PSOs).
+Type of PSO
+ Examples
+ Umbrella Entity For Retail Payments → NPCi (learned in previous section)
+ Card Payment Gateway Operator →
+MasterCard, Visa, Rupay
+ Crossborder / International Remittance
+ Western Union, MoneyGram
+Prepaid Payment Instrument (PPI)
+ AmazonPay, Mobikwik, Phonepe, PayU,  etc
+ Payment Aggregators (PAs)
+ T
+ hey help the merchant to collect payment from
+customer digitally e.g. Paytm, Amazon, GooglePay,
+CCBill, CCAvenue, Razerpay, Stripe etc.
+ATM Operators
+ SBI etc's own ATMs
+ White label ATMs by Tata, Muthoot, SREI etc
+ Financial Market Infrastructure
+Provider(📑Ref: HDT-Pillar#1C)
+ Clearing Corporation of India (CCI): provides digital
+infrastructure for share/bond/foreign currency deals etc.
+10.21.1 👨 ⚖️New Umbrella Entity (NUE) for Retail Payments System (2019)
+  Paytm has rival companies like Mobikwick, Phonepe; Mastercard vs Visa; SBI vs Axis Bank;
+ But there is no rival company against NPCi. तामीनो समीये मी NPCi की प्रवितास्पूध कीई नोही ही
+  NPCi is an umbrella entity for retail payments system - it operates in card payment (RuPay),
+Money transfer (IMPS), Mobile Apps (UPI, BHIM), ATM Network (NFS) etc.
+   2020: RBI issued a proposal, “if any Indian company interested to compete in this (NPCi-like)
+retail payment segment, we’ll license them as new umbrella entity (NUE: खोदार भगेतानो की लिलए नोई छातार
+इकीई). Subject to these technical “XYZ” technical eligibility requirements”
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 37
+�
+�Benefits? More companies like NPCi → more competition  → more innovation and cheaper
+services for users. (स्पूध बढ़गे ता नोए आविष्कोर हीगे, टिडोजिजल भगेतानो स ए पहील स भ ज्यादा सस्तु / टिकीफायेता/बहीतार ही)
+  Facebook, Google, Amazon, Flipkart and others had applied for NUE licences. But none of them
+met RBI’s expectations.
+ 2023-Jan: RBI has put this license process on halt/suspension. (जिजनो कीपविनोये नो अज डोल थे उनोकी अनोभ
+और कीविबलिलयेता स रिरज बकी सताष्ट्री नोही थे. इसलिलए अभ रिरज बकी नो इस पर मीमील की ठाडो बस्तु मी डोल टिदाये ही)
+ 10.21.2 🤳🏻 Third Party Application Providers (TPAPs): Google Pay, Whatsapp Pay
+ Now PayTM facing problem because:
+�
+�
+ 🏼
+ ‍
+ ♀
+ ️
+ FAQ: How can NPCi give license? it is not a statutory body unlike RBI.
+ Ans. Don’t mix the word ‘license’ with sarkaari type licenses (Gun /vehicle/bank etc.) Here, the word
+'license' is in context of getting permission from a company. Example, If you want to use Photoshop
+software, you have to “buy” license-key from Adobe company.
+ 10.22🕵️ ♂️  💳 DIGITAL PAYMENT REGULATORY BODIES (वि यत्रणा स्थाए)
+ 10.22.1 🕵️ ♂️  💳 Digital Transactions Ombudsman (DTO-2019 / लीकीप्रहीर)
+  RBI designates senior RBI officials at 21 places across India as DTO. They hear customer
+complaints upto ₹ 20 lakh against prepaid payment instruments, Mobile wallets, Apps,
+NEFT/RTGS and other digital transactions.  (टिडोजिजल लनोदानो शिशकीयेता विनो रण असिधकीर/लकीप्रहीर).
+  They can order the company / bank to fix problem and pay upto additional ₹ 1 lakh for mental
+agony of customer → Higher Appeal to Dy.Gov of RBI. (मीनोसिसकी उत्पीड़ेंनो की लिलए जमीनो/मीआज).
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 38
+ If matter > ₹ 20 lakh, then matter outside his jurisdiction. Victim has to approach courts. (20 लखो
+स असिधकी रकीमी की मीमील हीगे, ता पटिड़ेंता नो न्यये/इसफा की लिलए अदालता/की मी जनो हीगे)
+ 10.22.2 🕵️ ♂️  RBI: BPSS (Statutory body)
+  1998: Narsimham-II Committee on Banking Reforms suggested regulatory framework for e
+banking, card payment etc. Then,
+ 2007: Payment & Settlement Systems Act (भगेतानो और विनोप नो प्रणल असिधविनोयेमी) → RBI → (Statutory)
+Board for Regulation and Supervision of Payment and Settlement Systems (BPSS: भगेतानो और
+व
+ िनोप नो प्रणल की वि विनोयेमीनो और पयेक्षाण की लिलए बडो).
+ All types of payment system providers have to register with RBI’s BPSS- whether bank, non
+bank, wallet/Prepaid Payment Instrument (PPI) etc. (सभ भगेतानो सस्थाओ नो पजकीरण कीर नो अविनो ये)
+ 10.22.3 🕵️ ♂️ Payment Regulatory Board (PRB)
+ Government wanted to setup this body few years ago. But, this is not YET setup, and no new
+developments. So, Outdated for 2025-26. Deleted for  #Prelims-RAFTAAR
+ 10.23🐯📊 DIGITAL PAYMENT RELATED INDEX / COMPETITIONS/REPORTS BY RBI
+ Below table given if preparing for RBI grade-B officer exam etc. I am not spending time in writing the
+ranks because poor cost benefit for #IAS-Prelims-RAFTAAR.
+�
+�📊REPORT
+ RBI's Payment and Settlement Systems in India Vision 2019 – 2021
+ 🐯📊INDEX/Ranking
+ RBI Digital Payments Index– to check level of digital payment in various areas
+of India. (DPI टिडोजिजल भगेतानो सचुकीकी)
+ 🐯📊INDEX/Ranking
+ RBI’s Financial Inclusion Index– to check whether every poor person is having
+access to banking, loan, insurance pension, etc. (वि त्तये समी शनो सचुकीकी)
+ 🐯🏆Competition
+ RBI’s Harbinger Hackathon competition for innovation in digital payment.
+ 2024 competition on 2 themes (1) ‘Zero Financial Frauds’ (2) ‘Being Divyang
+Friendly’.
+ 10.24🔗💮 CRYPTO-CURRENCY & BLOCKCHAIN TECHNOLOGY
+ Note: For easier visualisation, I have wrote “bitcoin” instead of “crypto-currency” at most places.
+ [Definition] Cryptocurrency: is a digital / virtual currency created & stored using blockchain
+technology.टिक्राप्टोमीद्रा एकी टिडोजिजल मीद्रा ही जिजस ब्लॉकीचुनो ताकीनोकी की उपयेगे कीरकी बनोये और सग्रहीता टिकीये जता ही।
+  [Definition] Blockchain: A secured decentralized database/ distributed ledger technology (DLT)
+that maintains a continuously growing list of records / transactions. Old entries can’t be deleted,
+new entries will be visible to all. Mainly used for running cryptocurrency network. But it can also
+store any type of data. (ब्लॉकीचुनो एकी डो बस ही ज रिरकीडो की विनोरतार बढ़ता सचु की वि कीन्द्रीकीता रूप स बनोए रखोता ही।)
+  [Origin] Anarchist groups lost faith in FIAT MONEY because USA’s Subprime Crisis (2007)
+eroded the purchasing power of US Dollar. They also dislike Banks & Card Companies because
+of transaction charges on e-banking, card payments, MDR, interoperability issues. (अशसनो दा
+समीही की सरकीर द्वार जर की मीद्रा नोपसदा। इनो अशसनो दा समीही की बकी और कीडो कीपविनोये स भ नोफारता ही)
+  2009: An anonymous user (अनोमी/अज्ञाता) Satoshi Nakomoto launched a cryptocurrency ‘Bitcoin’.
+ total 21 million Bitcoins, wherein 1 Bitcoin (BTC) = 108 Satoshi (the smallest unit).
+ Other examples: Ethereum, Litecoin, Digicoin, Laxmicoin, Ripple, Dogecoin etc.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 39
+10.24.1
+ →
+ Virtual currency →
+ MEME Coins e.g. Trumpcoin
+ • A meme coin is a cryptocurrency named after characters, celebrities, animals, artwork, etc to
+be humorous, light-hearted
+ • not issued by government. Issued by private coders / individuals.
+ • 2013: Dogecoin (photo of a Japanese dog) is considered to be the first meme coin.
+ • 2025: $TRUMP meme coin (photo of Trump rising a fist). 1 unit of TRUMP meme coin =
+$29 as of 25/jan/2025.
+ Meanwhile,   🚩👶🏻 Zhande-walle Babushone:
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 40
+10.24.2 👝Hot Wallet vs Cold Wallet
+ Just like you store money in Paytm DIGITAL Wallet. You can store Bitcoin and other
+cryptocurrency in Crypto Digital Wallets. Such wallet could be hot wallet or cold wallet.
+  🔥 Hot wallets are connected to the internet, (e.g. an online app)
+  ❄️  Cold wallets are not connected to internet (e.g. a USB pendrive).
+ 10.24.3 🔗💮📉:🥶☃️ Crypto-Winter in Bitcoin Prices (र्भूव मिगर)
+  Between 2021-Nov to 2022-Jun: Bitcoin fell from ~$70,000 to $20,000 → almost 70% loss!  &
+similar situation in many other cryptocurrencies.  Some experts feard the prices will remain
+frozen in this range for upcoming months, hence using the term "Crypto-Winter" to denote it.
+(टिक्राप्टो-मीद्राओ की दामी गिगेर गेए ही और पस ऊपर नोटिही चुढ़ रही, लगेता ही टिक्राप्टो-बज़ीर सदा/ठाडो मी जमी गेये ही)
+ 10.24.4 Bitcoin crosses historic $100K mark (2024-Dec)
+ ₿
+  2024: 1 Bitcoin = ~$60,000 range for major majority of the year.
+  Trump and Elon Musk’s pro-crypto stance
+→
+ and regulations over Bitcoins
+→
+  2024-Dec: 1 Bitcoin = $100,000
+ 10.24.5
+ investors speculated Prez Trump will relax taxes
+ So, Investor started buying more and more bitcoins.
+ Virtual currency → USA Bitcoin Strategic Reserve Fund (2025)
+ →
+  1975: U.S. Strategic Petroleum Reserve was created. The USA government purchases oil when it
+is available at a cheap price.
+ uses it as a buffer against global supply shocks later.
+ →
+  Over the years, USA federal officers seized ~200,000 bitcoins from criminals and tax evaders.
+  2025-Jan: Trump set up a committee to create a US bitcoin strategic reserve fund from it.
+  🤩Benefit? (1) Sell Bitcoins at a profit when its price goes up. (2) Use the profit money for
+welfare programs, etc. (3) Cover the Fiscal debt without raising taxes. (Ref: Pillar#2D for more
+on Fiscal debt)
+ 10.24.6 💮 Bitcoin Halving = 50% reduction in the reward to miners (2024)
+ What does this chart mean? Ans. Watch lecture.
+ 10.24.7 🔗💮📉:🥶☃️  Crypto-scams - Recent Global Scams
+ Following portals/website/online-exchange sites help users buy/sell crypocurrency.
+ Binance
+ Infamous for frauds/scams.
+ FTX
+  Its founder/CEO arrested for scam → 10 lakh+ investors’ money got stuck.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 41
+WazirX
+  This Indian cryptocurrency portal lost  $230+ million in a cyber-attack (2024)
+ 🚩👶🏻FAQ: How were these scams conducted? Ans. Its forensic analysis not important for our exam.
+Ans. Sufficient to know these are the dangers associated with crypto currency. (ऑलीइं प्लेटफॉम र्जही हि प्टो
+मद्रा की खरदा वि की र्ज थ. 10 लीख  अंसिधाकी वि वशॉकी की च लीगय गय/ ग हुआ ही)
+ 🚩👶🏻FAQ:  How is Bitcoin not traceable, we can trace it using XYZ technology?
+✅Ans. Using HTML, we can create Wikipedia website and using HTML we can also create gmail
+website. While everyone can read Wikipedia, I can’t read your gmail, unless I know your username
+password. Blockchain is similar. It depends on designer to make database “open” or
+“private/encrypted”. Beyond that, we are not here for B.Tech (Computer Science) Semester
+exam/James Bond recruitment. We just have to memorize 3-4 negative points for exam.
+ 10.24.8 🔗💮:Crypto currency observations by 📙EcoSurvey’23
+  Cryptocurrencies are primarily held by a few big players/“whales”. So they can manipulate the
+prices by manipulating the supply.
+  Problems related to electricity-consumption, tax-evasion, abnormal fluctuation in prices,
+investors-fraud, no-intrinsic value et cetera.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 42
+ then economic survey, 2023 give various examples of different-different legal provisions in EU,
+Japan, Switzerland, Nigeria etc. But from exam point of view not much benefit chasing it.
+  sufficient to know that coordinated international effort required to regulate the sector. OECD
+and G20 group are working in this direction. More about these intl.orgs in Pillar3B.
+  And ideally, we need strict rules over crypto-market, just like we’ve strict rules over sharemarket
+ (चदा र्ड खिखलीड़ि य  ज्यादा र हि प्टोमद्रा अंपै कीब्जे म की ही. और वही खिखलीर्ड इं की प्लेई/आपैर्ति की वि यत्रित्र कीरकी,
+उ की दाम म छूछू कीर रही ही. हि प्टो मद्रा म वि र्जली की खपै , कीर-चर, आम-वि वशॉकी  धाधाली ही ही. विवभिर्भून्न
+द
+ ाशॉ म इं पैर अंलीग-अंलीग की वि यम/की
+ए गए ही, लीहिकी वश्वि की रूपै  वि यम म एकीरूपै और हीकीर की र्जरूर )
+ 10.24.9 🔗💮:🍋 Cryptocurrency Profit pe 30% Tax and 1% TDS in 👜🥻Budget-2022
+ Refer to Pillar2A: Budget Direct Taxes to learn this matter.
+ 10.25⚖️🔗💮✋ CRYPTOCURRENCY BANNED IN OTHER NATIONS?
+  Nepal, Algeria, Egypt, Morocco, Turkey , Iran etc: Bitcoin is illegal. (कीछा दाश मी टिक्राप्टो मीद्रा रखोनो
+ग
+ ेरकीनोनो ही)
+ Venezuela
+  Chinese prohibited the banks from providing buying/selling/investment services for bitcoin etc
+cryptocurrencies. After this crackdown, Bitcoin prices fallen ↓↓ by 30%
+10.25.1 Crypto currencies as legal tender is in some countries
+ Two legal tenders: 1) Bolivar Paper currency issued by Govt 2) Petro
+Cryptocurrency issued by Govt.
+ Marshall
+ Islands
+ Capital: Majuro, Sovereign state having free association with USA (for defense,
+social security, budget). Legal Tender was U$D. But,
+ 2018-Feb: became first country to launch sovereign cryptocurrency named
+El-Salvador
+ “Sovereign” [SOV]. So, now two legal tenders: US Dollars and SOV.
+ El-Salvador: Two Legal tenders [1) US Dollars. [2) Bitcoin (from 2021).
+ Thus, El-Salvador = 1st nation in the world to allow Bitcoin as legal tender
+ 🌐 UNICEF
+ 10.25.2 🔗💮:🤩 Cryptocurrency Permitted in Other Nations/Groups
+  United Nations International Children's Emergency Fund (UNICEF, HQ-
+New York,USA; 1946, later renamed to UN Children's Fund)
+  2019: UNICEF setup a Cryptocurrency Fund to accept donations in
+cryptocurrencies. It has become the first UN organization to accept
+cryptocurrency. (येविनोसफा सस्था दानो मी टिक्राप्टो मीद्रा की भ स्वीकीर कीरता ही)
+ 🌐 World
+Bank
+ (More about
+this org in 📑
+ Pillar#3B)
+  2018: World Bank launched World’s first blockchain bond called “Bond-i”
+in Australia, denomination: Australian Dollars →  public invests, gets ~2%
+interest after 2 years.
+ Blockchain bond requires less cost in server / database /paperwork
+maintenance unlike traditional bonds. 📑More in Pillar#1C: Sharemarket
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 43
+10.26🔗💮🥇 CRYPTOCURRENCY  → GLOBAL REGULATIONS
+ 10.26.1 Global Regulations  → MICA regulation by EU (2023)
+  European union (EU)’s rules called the Markets in Crypto Assets (MiCA)
+  To protect people from scams /frauds in crypto currency investment.
+  To combat tax-evasion, money laundering (i.e. converting black money into white) AND terror
+f
+ inance. Doesn’t regulate central bank digital currencies (CBDC).
+ Doesn’t regulate nonfungible tokens (NFTs).
+ 10.26.2 Global Regulations  → CARF Framework by OECD (2022)
+  Crypto-Asset Reporting Framework By OECD (Organisation for Economic Co-operation and
+Development) Objective? Similar to EU’s MICA Rules.
+ 10.26.3 🔗💮🥇 Cryptocurrency  → Stable-coins
+  Stablecoin is a type of cryptocurrency whose price is backed by a reserve asset like gold / dollar /
+f
+ iat currency e.g. Facebook’s proposed ‘Libra’, Tether, Basecoin, and TrueUSD.
+  😰But, stablecoins challenges: 1) money laundering  (धनोशधनो / कील धनो की ध बनोनो) 2) terror
+f
+ inancing (आताकी वि त्तपर्षोंण) 3)  lack of consumer protection  (उपभ
+सरक्षाण की कीमी) 4) financial
+frauds (वि त्तये धखोधड़ें). 2019: France, EU, G20 group opposed. (बड़ें दाश/सगेठानो इसकी वि रध मी ही)
+ 10.26.4 World Coin Project (2021–22)
+ Pros and Cons? Similar to the Aadhaar card:--
+ Pros: IF governments across the world ACCEPT this as “identification proof”= easier to avail
+various government schemes benefits /college admission / passport application etc. Time-trouble
+saved. (येटिदा दाश वि दाश की सरकीर इस एकी आसिधकीरिरकी पहीचुनो पत्रा की रूप मी मीनो ल ता गेरब की वि वि ध येजनो स्कूल कीलज
+द
+ ाख़िखोल आटिदा मी कीफा सवि ध ही सकीता ही)
+ Cons: concerns over privacy / misuse. (विनोजता की हीनोनो. दारुपयेगे की भये)
+ 🔠❓MCQ. Find correct statement(s) about Bitcoin? [UPSC-CDS-2017-I]
+1. It is a decentralized virtual currency.
+2. It is generated through complex computer software systems.
+3. The Reserve Bank of India recognized it as a legal tender in January 2016.
+Answer Codes: (a) 1 only
+(b) 1 and 2 only
+ (c) 2 and 3 only
+(d) 1, 2 and 3
+ 🔠❓ MCQ. Find correct statement(s) about “Blockchain Technology” [UPSC-Prelims-2020]
+ 1. It is a public ledger that everyone can inspect, but which no single user controls.
+ 2. Structure and design of blockchain is such that all the data in it are about cryptocurrency only.
+ 3. Applications that depend on basic features of blockchain can be developed without anybody’s
+permission.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 44
+Answer Codes: [a) 1 only
+ [b) 1 and 2 only
+ [c) 2 only
+ [d) 1 and  3 only
+ 10.27🐯🔗💮 CENTRAL BANK DIGITAL CURRENCY (CBDC) कीद्राय की  ड़िर्डभिर्जटली मद्रा
+ Year
+ Nation
+ Paper Currency
+ CBDC
+ 2020
+ 2021
+ Bahamas (Capital Nassau) –
+1st nation in the world to
+issue CBDC##
+ Nigeria (Capital Abuja)
+ Bahamaian Dollar
+BSD
+ “digital B$”, also called ‘sand
+dollar’. issued Non-Interest
+Bearing CBDC
+ Naira
+ the “eNaira”-Non-Interest
+Bearing CBDC.
+ ##🚩👶🏻🎓Marshal island launched SOV currency in 2018 then shouldn’t we call it the first country
+to launch CBDC? why above table says Bahamas is 1st country to launch CBDC?
+  Ans. Big Newspapers using such headlines. I didn’t bother to write/ask to their chief-editors. If
+asked in Exam, then tick MCQ depending on options.
+  China, Britain, Japan, Singapore, Sweden have also started such experiments.
+ 👜🥻Budget-2022 announced issuance of Digital Rupee using blockchain technology).
+ 10.27.1
+ 🚩👶🏻
+ Zhande-walle Babushono ke liye special instruction: (
+ अ
+ ंत्रि म च )
+ • Following are the features told by the (A) Govt to the Parliament and (B) RBI governor in a
+press release. So, accept and memorize it.
+• Please
+do not waste your time engaging in academic/legal debates - if you value your time
+and wish to complete the syllabus in a timely fashion.
+ 10.27.2
+ 💮
+ Indian CBDC symbol (e₹)
+ • Normal rupee = ₹ or INR.
+10.27.3
+ (e₹) CBDC wholesale vs Retail
+ CBDC rupee = e₹ or eINR.
+ 💮
+  Presently RBI doing trials/experiment/pilot-studies in two segments:
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 45
+Type
+ CBDC-Retail (e₹-R)
+ CBDC-Wholesale (e₹-W)
+ Trial
+Purpose
+ • Person to Person (P2P)
+• Person to Merchant
+(P2M) transactions.
+ • Secondary market transactions in
+government securities
+ • Interbank borrowing for short-term loans
+ • Crossborder payments.
+ Details
+ given in present handout 1A1
+ Ref: Pillar#1C to understand these terms.
+ 10.27.4
+ (e₹) Indian CBDC = digital token of legal tender
+ 💮
+  Indian CBDC (e₹) is based on blockchain technology.
+  Indian CBDC (e₹) is a digital token that represents legal tender.
+  (e₹) created under RBI Act, 1934 by amending some sections in 2022.
+  RBI has issued (e₹) on behalf of Government of India. [ FAQ:
+�
+�
+ 🏼
+ ‍
+ ♀
+ ️ I have legal arguments against
+this. Ans. ACCEPT it- bcoz Government said this in Parliament.]
+  (e₹) is a liability of the RBI e.g. similar to cash note ” I promise to pay the bearer on demand sum
+of ₹100 rupee”.
+  It is being distributed through financial intermediaries, i.e., banks.
+  Just like cash, it (e₹) will not earn any savings interest.
+  It offers features of physical cash like trust, safety and settlement finality.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 46
+10.27.5
+ CBDC →  Permanent deletion of transactions to keep e₹ anonymous like cash
+ →
+ Note: This is proposed. This is not yet done. As of 15_Aug_24. सबडोस द्वार भगेतानो की क़्त नोक़ीदा जस गेपनोयेता
+10.27.6
+ (e₹)
+न
+ ोही रहीता। इसलिलए जबताकी सबडोस की लनोदानो की टिडोजिजल रिरकीडो की क़ीयेमीरूप स टिडोल /विनोरस्तु नो टिकीये जए, इसमी १००% गेपनोयेता नोही ही।
+�
+� →
+ Settlement finality
+  “settlement finality” = there is no risk of reversal or cancellation after the financial transaction is
+complete. e.g. Cash or CBDC-e₹. (एकी बर भगेतानो कीर टिदाये ता टिफार समीनो प की पस पस गेये।  उसकी उल नोही सकीता।)
+  Whereas, if a payment is made via Credit card/ cheque-book
+→
+ customers can later block the
+payment by contacting the banker within a time-limit. So they (creditcard / cheque) do not have
+instant-settlement finality. (उधर आप बकी मी शिशकीयेता कीर की भगेतानो की रकी सकीता ही।)
+ 10.27.7
+  🙋🏼‍♀️FAQ: can we say that as mode of payment (UPI/Debit Card/NEFT-RTGS) also has
+settlement finality? Ans. I copied only that much which is given in Newspaper/Press-release. I
+did not become Sherlock Holmes to do find further info/PhD. Feel free to delay your syllabus
+completion by asking ChatGPT.
+ 💮
+ (e₹) Indian CBDC = no interest earning (
+ ह
+ ी मिमलीग ब्यार्ज।)
+ • (e₹) stored in a separate digital wallet/separate mobile created by the bankers.
+ • (e₹) does not earn savings interest rate, unlike normal bank deposits (because you are
+keeping it with yourself in a digital wallet. So bankers do not treat it as a deposit).
+ • (e₹) can be converted to other forms of money, like deposits with banks. But then you will
+have to move that money out of your digital wallet
+→
+ 10.27.8
+ क
+ ीमीनो ही ता उसकी टिडोजिजल ब स स्थानोन्तरिरता कीरनो हीगे।]
+ 💮
+ (e₹) CBDC - programability & offline features
+ then you cannot use it as (e₹) [
+ ब
+ ्
+ य
+ ाज
+• Presently (e₹) can be used for Person to Person (P2P) and Person to Merchant (P2M)
+transactions. 2024-Feb: RBI proposed two new experiments:
+ • (1) Offline functionality in areas with poor or limited internet connectivity.
+ • (2) Programability.  (given below)👇
+ Programability
+ Example
+ Biz Travel
+  e.g. If Adani allows a company budget of ₹10,000 (e₹) for his employees to
+use for buying railway tickets only.
+→
+ buying table chairs, IPL tickets, etc.
+  then employees cannot use it for
+Expiry/Validity  e.g. The university gives ₹10,000 (e₹) stipend to students to buy books within
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 47
+1 month of admission.
+ If student does not buy the books, then the money will be returned back to
+the university.
+ Geographical  e.g. It cannot be used outside these XYZ GPS coordinates.
+�
+�
+ 🏼
+ ‍
+ ♀
+ ️
+ FAQ: Aren’t these features similar to the e-Rupi gift cards by NPCi?
+ Ans. Don’t make khichdi of RBI’s product vs NPCi’s product. View them as separate photo frames.
+ Observe the PYQs. UPSC unlikely to ask you compare/contrast between them two.
+ 🐎✅🐂✋
+ Be focused on the track like a race horse. Don’t loiter like a street-bull.
+ 10.27.9 E-Rupee vs E-Rupi
+ Term
+ E-Rupee
+ E-Rupi
+ Founder
+ RBI
+ NPCi
+ Feature
+ Central Bank Digital Currency.
+ Digital GIFT CARD / SMS Code to
+help beneficiary do shopping.
+ Fiat money and
+legal tender?
+ Yes
+10.27.10
+ No. Because, this is not money. This
+is a tool to use money.
+ 🐯🔗💮= 👌🥰Benefits of CBDC (कीद्राय की ड़िर्डभिर्जटली मद्रा की फॉयदा)
+ CBDC/ Sovereign Digital Fiat Money / Digital Base Money will provide following benefit
+ 1. ↓  Cost printing and transporting physical currency. (नो छापनो की लगेता और परिर हीनो खोचु मी कीमी)
+ 2. ↓  Scope for counterfeiting. (जल नो बनोनो मीब्सि ल)
+3. ↑ Traceability, ↓Anonymity: (ढूँढूँनो आसनो, गेमीनोमी/अज्ञाता रहीनो मीब्सि ल)
+ a. Whether money is reaching the intended beneficiary or not?  (लभथे की येजनो की पस गिमील
+ट
+ िकी नोही)
+ b. From where did the businessman accumulate this money, did he pay an appropriate
+amount of tax or not? Else auto-alert to the Income tax department for tax evasion.
+(कीरचुर पर विनोगेरनो आसनो)
+ 4. Possible to develop programmable currency. E.g. govt transferring ₹6000 in poor farmer’s
+account with condition ke it must be spent WITHIN next 15 days for buying seeds/farming tools
+ONLY.
+ 5. Global money transfer more easier. E.g. in future China may give DIGITAL YUAN currency
+LOANS directly to Ghana Without converting into US Dollars and without using SWIFT
+messaging system.
++ many other things but they are more relevant for Mains rather than Prelims.
+ 10.27.11
+ 🐯🔗💮=  ✋🥵 Challenges of CBDC (च वि य)
+ 1. 😰 Digital Divide, Financial Literacy, Access Points: (टिडोजिजल उपकीरण की उपलब्धता की खोई,  वि त्तये
+सक्षारता की भ ,  टिडोजिजल भगेतानो इस्तुमील कीरनो की पहुचु विबदाओ की कीमी)
+a. Not everyone has electronic gadgets or internet connectivity, (सबकी पस इ रनो नोटिही)
+ b. Not everyone knows how to operate bank account digitally, (सबकी इस्तुमील कीरनो नोटिही आता)
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 48
+c. Not every village shopkeeper accepts payments in the digital form. (दाकीनोदार नोक़ीदा मीगेता ही)
+ 2. 😰 Cyber Terrorism/Nuclear Attack/Natural Disaster. If electricity stops → economy will stop
+functioning.  (सइबर आताकी दा / परमीण हीमील / प्रकीविताकी आपदा: वि द्यता उपकीरण बदा ता अथेव्यास्था बदा)
+ 3. 😰 Maintaining the blockchain   → 24/7 use of server/electricity  →  e-waste, pollution. (प्रदार्षोंण)
+ 10.27.12
+�
+�📲
+ (e₹) CBDC - Interoperability permitted with UPI QR Codes
+ • 2022–23: CBDC trials/experiments started in a few cities.
+ • So bankers have developed separate apps to use CBDC money
+ App
+ Before
+ AFTER 2023-Sept
+ (1) SBI Yono App
+(Normal money)
+ can scan & pay UPI-QR codes
+ can scan & pay UPI-QR codes
+ (2) SBI-e₹ App
+(To use CBDC money)
+ can’t scan UPI-QR codes. It required
+separate codes
+ can scan & pay UPI-QR codes
+ Interoperability?
+ 10.27.13
+�
+�📲
+ ✋🚨
+ Absent/Denied by RBI
+ ✅
+ Present / permitted by RBI
+ (e₹) CBDC wallets:  Non-banks can also create wallets (2024-April)
+ Before
+ After
+banks had created wallets/apps for using CBDC e.g.
+(1) HDFC Bank Digital Rupee App (2) eRupee App by SBI
+ Non-banks e.g. Phonepe, Amazonpay could not create such wallet/apps.
+ yes available
+ Now RBI allowed
+�
+� MCQ.Pre-2023: Find correct about Central Bank digital currencies,:
+ (1) It is possible to make payments in a digital  currency without using US dollar or SWIFT system.
+ (2) A digital currency can be distributed with a condition programmed into it such as time-frame for
+spending it. Codes: (a) 1 only
+(b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2.
+�
+� MCQ.Pre-2024: Find correct about digital rupee:
+ 1. It is a sovereign currency issued by the RBI in alignment with its monetary policy.
+ 2. It appears as a liability in RBI's balance sheet. 3. It is insured against inflation by its very design.
+ 4. It is freely convertible against commercial bank money and cash.
+ Codes: (a) 1 and 2 only (b) 1 and 3 only (c) 2 and 4 only (d) 1, 2 and 4
+ Note: we'll solve this MCQ after finishing Pillar1A2 (monetary policy) since terms given in st1 and
+2 required understanding of Pillar#1A2.
+ 10.28💠≠ ❇️  FUNGIBILITY?
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 49
+Item Can it be
+subdivided in
+smaller units?
+ Is mutual substitution possible in terms of value? Is it
+fungible?
+ ₹500 Note Yes ₹100x 5
+Notes=500
+ Yes ₹100 x 5 Notes can buy same quantity of
+goods as a single ₹500 Note
+ ✅Yes
+ 1kg gold
+bar
+ Yes 100gm x 10
+biscuits=1kg gold
+bar
+ Yes 100gm x 10 biscuits can buy same quantity of
+goods as a single 1kg gold bar
+ ✅Yes
+ 1Bitcoin 1BTC=10^8 Satoshi
+coins
+ Yes 1BTC’s value = 10^8 Satoshi coins. So,
+theoretically, they buy same quantity of goods
+ ✅Yes
+ 100 gm
+single
+Diamond
+ Bigger single piece diamond considered to be more precious/valuable
+than small-small pieces diamond. So, 100gm Single_Big_Diamond
+=NOT equal 1gm x 100 small_Diamonds, in terms of value
+ ✋No
+ Shares,
+Bonds
+ NOT possible (How Ref: 📑Pillar#1C: SEBI sharemarket) ✋No
+ NFT NOT possible. Explained in separate section. ✋No
+ 10.28.1 (e₹): Fungibility of CBDC 💮
+ Doubt: if we program the CBDC currency for specific use - example only for purchasing of books, then
+it is no longer fungible! Because we cannot use it for any other purpose e.g. buying Pizza!!
+In that case, as soon as the book is purchased, the money goes to the bookshop owner  money →
+ again becomes fungible. Because the bookshop owner can use the money for any purpose
+ If the student doesn’t buy the book,  CBDC-money goes back to the school, and fungibility is →
+ restored (because the school admin can use it for any other purpose).
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 50
+“Thus, programmability does not violate/destroy fungibility (of Rupee), it is only a specific use
+binding.”- said RBI Governor. (र्भूली की शॉ-प्र मिमग  CBDC ऐ सि मिम कीर दिदाय र्जए, की कीछू ही चर्ज उ खरदा की
+ह
+ ी. लीहिकी ड़िफॉर र्भू CBDC-रुपैय फॉर्ज ली ही. )
+ 10.28.2 💠 Non-fungible token (NFT: ग़र-फ़ंर्ज ली टकी)
+  (Definition) NFT is a Digital file, photo file (JPEG), Animated image (GIF), music file (MP3) etc
+Stored using blockchain Technology. ब्लॉकीचुनो प्रद्यगिगेकी द्वार सग्रटिहीता फ़ , सगेता इत्याटिदा की टिडोजिजल फाइल ही।
+ NFT may also be used in storing physical assets. E.g. Ownership document of house, boat,
+physical-painting etc. (भविताकी सम्पचित्तये की मीलिलकी दास्तुज की भ टिडोजिजलकीरण कीर एनोएफ़ मी सग्रटिहीता कीर सकीता ही)
+  NFT cannot be subdivided. Their individual sub-units cannot be exchanged with one another.
+Because their values are different based on buyer’s preference. So NFTs are non-fungible. (अलगे
+(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 51
+अलगे चिचुत्रा/सगेता कीविताऑ की मील्य, ग्रहीकी की पसदा स टिहीसब स अलगे अलगे ही सकीता ही इसलिलए उन्ह छा कीड़ें मी वि भजिजता कीरनो /
+आपस मी उनोकी अदाल-बदाल नोही ही सकीता.)
+  Mass Hysteria going on to purchase such digital assets from new-age artists using (mostly)
+Ethereum cryptocurrency. (नोए ज़ीमीनो की टिडोजिजल चिचुत्रा/धनो की एनोएफा
+रदानो की समीटिहीकी पगेलपनो चुल रही ही.)
+  e.g. American digital artist Beeple’s Painting JPEG auctioned for $70 million
+  E.g. Robot Sophia created a digital painting/art "Sophia Instantiation" (NFT)→  Auctioned for
+more than 6 lakh dollar$.
+ Many sportsmen, filmstars also creating NFT out of their posters/autographs but we’ll not waste
+preparing all that General Knowledge (GK). (मीशहूर ख़िखोलड़ें और टिफ़ल्म अशिभनोता भ इस जर कीर रही ही)
+ 10.28.3 💠🤩NFT-Charms? (आकीर्षणा)
+  1) Multimedia Creators: Easier to trade digital assets (टिडोजिजल चिचुत्राकीर/धनोकीर की लिलए कीविताये की विबक्रा)
+  2) Easier to verify ownership records. Prevent plagiarism. (सपता की मीलिलकी/स्वीगिमीत्व की जचु कीरनो आसनो.
+न
+ ोकीलचिचुये की लिलए जलसज कीरनो / बनो दास्तुज बनोनो मीब्सि ल.)
+  3) Cinema / Sports tournament / Travel tickets etc can be stored with ownership records. Helps
+in Paperless administration. (सिसनोमी / खोल /परिर हीनो की टि की की विबक्रा टिडोजिजल स्वीरूप स. कीग़ज़ी मी प्रशसनो.)
+ 10.28.4 💠😰NFT-Challenges: (च वि य)
+  1) Started in 2017→  steep price rise in 2021. Single GIF /meme file selling for millions dollar$
+worth of cryptocurrencies. This mass-hysteria / investment-bubble will collapse. Investors will
+lose money. (ये समीटिहीकी पगेलपनो /विनोश की गेब्बार फा जएगे ताब विनोशकी की पस डोब जएगे.)
+ 2) Money laundering & terror Finance. How: Ref Pillar#2.  (धनोशधनो और आताकी वि त्तपर्षोंण मी दारुपयेगे)
+  4) Maintaining such computer blockchain record → Electricity consumption↑→  CO2
+
+Emission. (इस डो बस की सचुलनो मी बहूता ज़्यादा विबजल खोपता हीता ही, जिजसस कीबनो डोइऑक्साइडो उत्साजनो मी बढ़तार.)
+�
+�❓MCQ. Find correct statements abt Non-Fungible Tokens (NFTs) (Prelims-2022)
+ 1. They enable the digital representation of physical assets.
+ 2. They are unique cryptographic tokens that exist on a blockchain.
+ 3. They can be traded or exchanged at equivalency and therefore can be used as a medium of
+commercial transactions.
+ Codes: (a)        1 and 2 only
+ (b)        2 and 3 only (c)        1 and 3 only        (d)        1, 2 and 3
+ 10.28.5 ✍️ Mains Answer Writing
+From this particular topic, the Mains angles are centred around - why we should promote digital
+economy ? what are the challenges? why crypto currencies are bad?  how is Blockchain technology
+useful? what is CBDC? et cetera. This Raftaar-courses deals purely with Prelims and NOT with
+Mains. Goto my Profile https://unacademy.com/@mrunal.org to check courses related to Mains.
+ 🙋
+ 🏼
+ ‍
+ ♀
+ ️
+ 10.28.6
+ Epilogue-  Babushone want only concepts not facts
+�
+�
+ 🏼
+ ‍
+ ♀
+ ️FAQ: This handout contains so many facts. Can I skip it and just focus on the conceptual part?
+Ans. Just for people like you, I have embedded PYQs inside this handout. Plz observe & reflect.
+ 📑Next Handout: Pillar1A2: Monetary Policy: CRR, SLR, Repo etc.
+ (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 52
+
+
+
+

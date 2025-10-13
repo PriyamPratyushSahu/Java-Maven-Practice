@@ -19,7 +19,8 @@ public class ExtractElementsFromSite {
 
 
         // Open your target URL
-        driver.get("https://unacademy.com/course/course-on-csat-completely-based-on-new-pattern-2025/2NSPDXMV");// replace with your page
+        String site = "";
+        driver.get(site);//
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int ch;
         //Manual Login & Enter wishlist & Select Books as wishlist

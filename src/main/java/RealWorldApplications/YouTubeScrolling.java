@@ -68,7 +68,7 @@ public class YouTubeScrolling {
     public static void main(String[] args) throws InterruptedException, IOException {
 
         //Paste the YouTube link here
-        String YouTubeLink = "https://www.youtube.com/@PujyaRajanJee/streams";
+        String YouTubeLink = "";
 
         driver = new ChromeDriver();
         driver.get(YouTubeLink);
