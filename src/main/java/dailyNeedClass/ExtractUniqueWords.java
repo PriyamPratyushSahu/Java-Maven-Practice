@@ -23,6 +23,8 @@ public class ExtractUniqueWords {
         uniqueItems.remove("ICICI Prudential Equity & Debt Fund");  //7
         uniqueItems.remove("Grocery_Monthly");                      //8
 
+        uniqueItems.remove("Task");                      //8
+
 
         // Step 4: Print the unique items in ascending order
         //System.out.println("Unique items in the expense list (sorted in ascending order):");
