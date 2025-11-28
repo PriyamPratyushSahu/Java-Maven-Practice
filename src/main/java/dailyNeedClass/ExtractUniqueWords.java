@@ -22,8 +22,9 @@ public class ExtractUniqueWords {
         uniqueItems.remove("Canara Robeco Bluechip Equity Fund");   //6
         uniqueItems.remove("ICICI Prudential Equity & Debt Fund");  //7
         uniqueItems.remove("Grocery_Monthly");                      //8
+        uniqueItems.remove("SBI Liquid Fund");                      //9
 
-        uniqueItems.remove("Task");                      //8
+        uniqueItems.remove("Task");                                 //8
 
 
         // Step 4: Print the unique items in ascending order
