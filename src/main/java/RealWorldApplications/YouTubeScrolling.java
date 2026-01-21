@@ -79,3 +79,26 @@ public class YouTubeScrolling {
     }
 
 }
+
+
+
+
+Hi Navya,
+
+As discussed earlier, it was planned that I would return to Bangalore in the first week of January 2026.
+However, due to my root canal treatment, I had to extend my stay for the next 20 days. As a result, I will report to the office in the last week of January.
+
+To meet the BTO compliance and as per BTO rules, I had already reported 4 days in the Bhubaneswar location, took 4 planned leaves, and was planning to report the remaining 4 days in the Bangalore location.
+
+        But recently, with the new BTO guidelines effective from January onwards, only base location swipe in/out is being considered, and no leaves are counted in the BTO calculation. Therefore, as per the new guidelines, my total count will be 4 days, which I will complete from the Bangalore location in the last week of January.
+
+Because of my medical condition, I will not be able to report to the office for 12 days in person in the Bangalore location.
+
+Please consider my situation and look into it.
+I have attached my medical prescription along with the payment proof below.
+
+Thanks & regards,
+Priyam Pratyush Sahu
+Email: [priyam_pratyush.sahu@capgemini.com](mailto:priyam_pratyush.sahu@capgemini.com)
+Contact No: +91 7205616033
+Location: EPIP, Bangalore
