@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Doomsday Countdown</title>
+    <title>Standard Countdown</title>
+
     <style>
         * {
           margin: 0;
           padding: 0;
           box-sizing: border-box;
-          font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+          font-family: "Segoe UI", Arial, sans-serif;
         }
 
         body {
@@ -25,8 +26,8 @@
         }
 
         .title {
-          font-size: 42px;
-          letter-spacing: 6px;
+          font-size: 36px;
+          letter-spacing: 4px;
           margin-bottom: 40px;
           opacity: 0.95;
         }
@@ -34,8 +35,8 @@
         .time {
           display: flex;
           align-items: center;
-          gap: 25px;
           justify-content: center;
+          gap: 25px;
           font-size: 96px;
           font-weight: 600;
         }
@@ -61,10 +62,11 @@
         }
     </style>
 </head>
+
 <body>
 
 <div class="container">
-    <div class="title">DOOMSDAY IS COMING</div>
+    <div class="title" id="title">DOOMSDAY IS COMING</div>
 
     <div class="time">
         <div class="block" id="months">00</div>
@@ -88,12 +90,35 @@
 </div>
 
 <script>
-    // ===== HARD CODED DATE (DD-MM-YYYY) =====
-    const targetDateString = "15-08-2026";
+    // ============================
+    // INPUT DATE + TIME HERE
+    // FORMAT: DD-MM-YYYY HH:MM:SS
+    // ============================
+    const targetDateTimeString = "15-08-2026 14:00:00";
 
-    const [day, month, year] = targetDateString.split("-");
-    const targetDate = new Date(year, month - 1, day, 0, 0, 0);
+    const [datePart, timePart] = targetDateTimeString.split(" ");
+    const [day, month, year] = datePart.split("-");
+    const [hour, minute, second] = timePart.split(":");
 
+    const targetDate = new Date(year, month - 1, day, hour, minute, second);
+
+    // ============================
+    // Display date in title
+    // ============================
+    const titleDiv = document.getElementById("title");
+    const options = {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit'
+    };
+    titleDiv.innerText = `DOOMSDAY IS COMING - ${targetDate.toLocaleString('en-IN', options)}`;
+
+    // ============================
+    // COUNTDOWN LOGIC
+    // ============================
     function updateCountdown() {
       const now = new Date();
       let diff = targetDate - now;
@@ -108,7 +133,7 @@
       const hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
 
       const totalDays = Math.floor(diff / (1000 * 60 * 60 * 24));
-      const months = Math.floor(totalDays / 30); // approximate
+      const months = Math.floor(totalDays / 30); // approximate months
       const days = totalDays % 30;
 
       document.getElementById("months").innerText = String(months).padStart(2, "0");
@@ -127,4 +152,3 @@
 
 <!-- https://priyampratyushsahu.github.io/Java-Maven-Practice/COUNTDOWN/StandardCountdown.html
 !>
-
