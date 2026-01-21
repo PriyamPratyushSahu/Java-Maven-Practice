@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Doomsday Countdown</title>
+    <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+        }
+
+        body {
+          height: 100vh;
+          background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #ffffff;
+        }
+
+        .container {
+          text-align: center;
+        }
+
+        .title {
+          font-size: 42px;
+          letter-spacing: 6px;
+          margin-bottom: 40px;
+          opacity: 0.95;
+        }
+
+        .time {
+          display: flex;
+          align-items: center;
+          gap: 25px;
+          justify-content: center;
+          font-size: 96px;
+          font-weight: 600;
+        }
+
+        .block {
+          min-width: 120px;
+          text-align: center;
+        }
+
+        .colon {
+          font-size: 80px;
+          margin-top: -10px;
+        }
+
+        .labels {
+          display: flex;
+          justify-content: center;
+          gap: 70px;
+          margin-top: 20px;
+          font-size: 18px;
+          letter-spacing: 3px;
+          opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="title">DOOMSDAY IS COMING</div>
+
+    <div class="time">
+        <div class="block" id="months">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="days">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="hours">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="minutes">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="seconds">00</div>
+    </div>
+
+    <div class="labels">
+        <div class="block">MONTHS</div>
+        <div class="block">DAYS</div>
+        <div class="block">HOURS</div>
+        <div class="block">MINUTES</div>
+        <div class="block">SECONDS</div>
+    </div>
+</div>
+
+<script>
+    // ===== HARD CODED DATE (DD-MM-YYYY) =====
+    const targetDateString = "15-08-2026";
+
+    const [day, month, year] = targetDateString.split("-");
+    const targetDate = new Date(year, month - 1, day, 0, 0, 0);
+
+    function updateCountdown() {
+      const now = new Date();
+      let diff = targetDate - now;
+
+      if (diff <= 0) {
+        document.querySelector(".time").innerHTML = "TIME UP";
+        return;
+      }
+
+      const seconds = Math.floor(diff / 1000) % 60;
+      const minutes = Math.floor(diff / (1000 * 60)) % 60;
+      const hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
+
+      const totalDays = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const months = Math.floor(totalDays / 30); // approximate
+      const days = totalDays % 30;
+
+      document.getElementById("months").innerText = String(months).padStart(2, "0");
+      document.getElementById("days").innerText = String(days).padStart(2, "0");
+      document.getElementById("hours").innerText = String(hours).padStart(2, "0");
+      document.getElementById("minutes").innerText = String(minutes).padStart(2, "0");
+      document.getElementById("seconds").innerText = String(seconds).padStart(2, "0");
+    }
+
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+</script>
+
+</body>
+</html>
