@@ -82,7 +82,7 @@ public class YouTubeScrolling {
 
 
 
-
+/*
 Hi Navya,
 
 As discussed earlier, it was planned that I would return to Bangalore in the first week of January 2026.
@@ -102,3 +102,5 @@ Priyam Pratyush Sahu
 Email: [priyam_pratyush.sahu@capgemini.com](mailto:priyam_pratyush.sahu@capgemini.com)
 Contact No: +91 7205616033
 Location: EPIP, Bangalore
+
+*/
