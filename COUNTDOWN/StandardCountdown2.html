@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Doomsday Countdown</title>
+    <title>Standard Countdown</title>
+
     <style>
         * {
           margin: 0;
           padding: 0;
           box-sizing: border-box;
-          font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+          font-family: "Segoe UI", Arial, sans-serif;
         }
 
         body {
@@ -34,8 +35,8 @@
         .time {
           display: flex;
           align-items: center;
-          gap: 25px;
           justify-content: center;
+          gap: 25px;
           font-size: 96px;
           font-weight: 600;
         }
@@ -59,8 +60,18 @@
           letter-spacing: 3px;
           opacity: 0.8;
         }
+
+        #audioBtn {
+          margin-top: 40px;
+          padding: 12px 26px;
+          font-size: 16px;
+          border-radius: 6px;
+          border: none;
+          cursor: pointer;
+        }
     </style>
 </head>
+
 <body>
 
 <div class="container">
@@ -85,21 +96,57 @@
         <div class="block">MINUTES</div>
         <div class="block">SECONDS</div>
     </div>
+
+    <button id="audioBtn">🔊 Enable Sound</button>
 </div>
 
 <script>
-    // ===== HARD CODED DATE (DD-MM-YYYY) =====
-    const targetDateString = "15-08-2026";
+    // ============================
+    // INPUT DATE + TIME HERE
+    // FORMAT: DD-MM-YYYY HH:MM:SS
+    // ============================
+    const targetDateTimeString = "21-01-2026 14:00:00";
 
-    const [day, month, year] = targetDateString.split("-");
-    const targetDate = new Date(year, month - 1, day, 0, 0, 0);
+    const [datePart, timePart] = targetDateTimeString.split(" ");
+    const [day, month, year] = datePart.split("-");
+    const [hour, minute, second] = timePart.split(":");
 
+    const targetDate = new Date(
+      year,
+      month - 1,
+      day,
+      hour,
+      minute,
+      second
+    );
+
+    // ============================
+    // LOOPING AUDIO SETUP
+    // ============================
+    const bgAudio = new Audio("loop.mp3");
+    bgAudio.loop = true;
+    bgAudio.volume = 0.4;
+
+    let audioStarted = false;
+
+    document.getElementById("audioBtn").addEventListener("click", () => {
+      if (!audioStarted) {
+        bgAudio.play();
+        audioStarted = true;
+        document.getElementById("audioBtn").innerText = "🔊 Sound Playing";
+      }
+    });
+
+    // ============================
+    // COUNTDOWN LOGIC
+    // ============================
     function updateCountdown() {
       const now = new Date();
       let diff = targetDate - now;
 
       if (diff <= 0) {
         document.querySelector(".time").innerHTML = "TIME UP";
+        bgAudio.pause();
         return;
       }
 
@@ -108,7 +155,7 @@
       const hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
 
       const totalDays = Math.floor(diff / (1000 * 60 * 60 * 24));
-      const months = Math.floor(totalDays / 30); // approximate
+      const months = Math.floor(totalDays / 30); // approximate months
       const days = totalDays % 30;
 
       document.getElementById("months").innerText = String(months).padStart(2, "0");
