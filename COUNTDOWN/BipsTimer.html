@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Standard Countdown</title>
+
+    <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Segoe UI", Arial, sans-serif;
+        }
+
+        body {
+          height: 100vh;
+          background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #ffffff;
+        }
+
+        .container {
+          text-align: center;
+        }
+
+        .title {
+          font-size: 50px;
+          letter-spacing: 4px;
+          margin-bottom: 40px;
+          opacity: 0.95;
+        }
+
+        .time {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 25px;
+          font-size: 120px;
+          font-weight: 600;
+        }
+
+        .block {
+          min-width: 120px;
+          text-align: center;
+        }
+
+        .colon {
+          font-size: 100px;
+          margin-top: -10px;
+        }
+
+        .labels {
+          display: flex;
+          justify-content: center;
+          gap: 70px;
+          margin-top: 20px;
+          font-size: 28px;
+          letter-spacing: 3px;
+          opacity: 0.8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="title" id="title">DOOMSDAY IS COMING</div>
+
+    <div class="time">
+        <div class="block" id="months">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="days">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="hours">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="minutes">00</div>
+        <div class="colon">:</div>
+        <div class="block" id="seconds">00</div>
+    </div>
+
+    <div class="labels">
+        <div class="block">MONTHS</div>
+        <div class="block">DAYS</div>
+        <div class="block">HOURS</div>
+        <div class="block">MINUTES</div>
+        <div class="block">SECONDS</div>
+    </div>
+</div>
+
+<script>
+    // ============================
+    // INPUT DATE + TIME HERE
+    // FORMAT: DD-MM-YYYY HH:MM:SS
+    // ============================
+    const targetDateTimeString = "15-04-2026 08:00:00";
+
+    const [datePart, timePart] = targetDateTimeString.split(" ");
+    const [day, month, year] = datePart.split("-");
+    const [hour, minute, second] = timePart.split(":");
+
+    const targetDate = new Date(year, month - 1, day, hour, minute, second);
+
+    // ============================
+    // Display date in title
+    // ============================
+    const titleDiv = document.getElementById("title");
+    const options = {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit'
+    };
+    titleDiv.innerText = `${targetDate.toLocaleString('en-IN', options)}`;
+
+    // ============================
+    // COUNTDOWN LOGIC
+    // ============================
+    function updateCountdown() {
+      const now = new Date();
+      let diff = targetDate - now;
+
+      if (diff <= 0) {
+        document.querySelector(".time").innerHTML = "TIME UP";
+        return;
+      }
+
+      const seconds = Math.floor(diff / 1000) % 60;
+      const minutes = Math.floor(diff / (1000 * 60)) % 60;
+      const hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
+
+      const totalDays = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const months = Math.floor(totalDays / 30); // approximate months
+      const days = totalDays % 30;
+
+      document.getElementById("months").innerText = String(months).padStart(2, "0");
+      document.getElementById("days").innerText = String(days).padStart(2, "0");
+      document.getElementById("hours").innerText = String(hours).padStart(2, "0");
+      document.getElementById("minutes").innerText = String(minutes).padStart(2, "0");
+      document.getElementById("seconds").innerText = String(seconds).padStart(2, "0");
+    }
+
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+</script>
+
+</body>
+</html>
+
+<!-- https://priyampratyushsahu.github.io/Java-Maven-Practice/COUNTDOWN/StandardCountdown2.html
+!>
