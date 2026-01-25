@@ -24,7 +24,7 @@ public class ExtractUniqueWords {
         uniqueItems.remove("Grocery_Monthly");                      //8
         uniqueItems.remove("SBI Liquid Fund");                      //9
 
-        uniqueItems.remove("Task");                                 //8
+        uniqueItems.remove("Task");                                 //10
 
 
         // Step 4: Print the unique items in ascending order
