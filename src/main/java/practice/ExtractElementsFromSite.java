@@ -23,7 +23,7 @@ public class ExtractElementsFromSite {
         driver.get(site);//
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int ch;
-        //Manual Login & Enter wishlist & Select Books as wishlist
+        //Manual Login
         while (true) {
             System.out.println("Press 1 to continue: ");
             ch = Integer.parseInt(br.readLine());
