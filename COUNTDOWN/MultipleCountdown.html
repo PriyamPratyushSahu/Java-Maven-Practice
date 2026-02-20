@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multi Countdown Table</title>
+
+    <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Segoe UI", Arial, sans-serif;
+        }
+
+        body {
+          min-height: 100vh;
+          background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #ffffff;
+          padding: 40px;
+        }
+
+        .container {
+          width: 100%;
+          max-width: 1100px;
+        }
+
+        .title {
+          text-align: center;
+          font-size: 40px;
+          margin-bottom: 30px;
+          letter-spacing: 3px;
+        }
+
+        table {
+          width: 100%;
+          border-collapse: collapse;
+          text-align: center;
+        }
+
+        th, td {
+          padding: 15px;
+        }
+
+        th {
+          font-size: 22px;
+          border-bottom: 2px solid rgba(255,255,255,0.4);
+        }
+
+        .name-col {
+          font-size: 22px;
+          text-align: left;
+          padding-left: 20px;
+        }
+
+        .time {
+          display: flex;
+          justify-content: center;
+          gap: 10px;
+          font-size: 28px;
+          font-weight: 600;
+        }
+
+        .block {
+          min-width: 40px;
+        }
+
+        .label-row {
+          font-size: 14px;
+          opacity: 0.7;
+        }
+
+        tr:not(:last-child) {
+          border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .label-row {
+  display: flex;
+  justify-content: center;
+  gap: 30px;   /* ← increase this if you want more space */
+  font-size: 14px;
+  opacity: 0.7;
+}
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="title">REMAINING TIME</div>
+
+    <table>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Countdown</th>
+        </tr>
+        </thead>
+        <tbody id="countdownTable">
+        <!-- Rows generated automatically -->
+        </tbody>
+    </table>
+</div>
+
+<script>
+
+    // ===============================
+    // EDIT YOUR TARGET DATES HERE
+    // FORMAT: DD-MM-YYYY HH:MM:SS
+    // ===============================
+    const targetDates = [
+      { name: "Bips", date: "05-03-2026 20:00:00" },
+<!--      { name: "Name 2", date: "10-03-2026 09:30:00" }-->
+<!--      { name: "Name 3", date: "15-04-2026 12:00:00" },-->
+<!--      { name: "Name 4", date: "01-05-2026 08:00:00" },-->
+<!--      { name: "Name 5", date: "30-06-2026 18:45:00" }-->
+    ];
+
+    // Convert string to Date object
+    function parseDate(dateString) {
+      const [datePart, timePart] = dateString.split(" ");
+      const [day, month, year] = datePart.split("-");
+      const [hour, minute, second] = timePart.split(":");
+      return new Date(year, month - 1, day, hour, minute, second);
+    }
+
+    const tableBody = document.getElementById("countdownTable");
+
+    // Create table rows dynamically
+    targetDates.forEach((item, index) => {
+      const row = document.createElement("tr");
+
+      row.innerHTML = `
+        <td class="name-col">${item.name}</td>
+        <td>
+          <div class="time" id="timer-${index}">
+            <div class="block">00</div> :
+            <div class="block">00</div> :
+            <div class="block">00</div> :
+            <div class="block">00</div> :
+            <div class="block">00</div>
+          </div>
+          <div class="label-row">
+  <span>Months</span>
+  <span>Days</span>
+  <span>Hours</span>
+  <span>Minutes</span>
+  <span>Seconds</span>
+</div>
+        </td>
+      `;
+
+      tableBody.appendChild(row);
+    });
+
+    // Countdown logic
+    function updateCountdowns() {
+      const now = new Date();
+
+      targetDates.forEach((item, index) => {
+        const target = parseDate(item.date);
+        let diff = target - now;
+
+        const timerDiv = document.getElementById(`timer-${index}`);
+
+        if (diff <= 0) {
+          timerDiv.innerHTML = "TIME UP";
+          return;
+        }
+
+        const seconds = Math.floor(diff / 1000) % 60;
+        const minutes = Math.floor(diff / (1000 * 60)) % 60;
+        const hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
+
+        const totalDays = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const months = Math.floor(totalDays / 30);
+        const days = totalDays % 30;
+
+        timerDiv.innerHTML = `
+          <div class="block">${String(months).padStart(2, "0")}</div> :
+          <div class="block">${String(days).padStart(2, "0")}</div> :
+          <div class="block">${String(hours).padStart(2, "0")}</div> :
+          <div class="block">${String(minutes).padStart(2, "0")}</div> :
+          <div class="block">${String(seconds).padStart(2, "0")}</div>
+        `;
+      });
+    }
+
+    updateCountdowns();
+    setInterval(updateCountdowns, 1000);
+
+</script>
+
+</body>
+</html>
