@@ -1,2133 +1,2912 @@
-Mrunal’s Economy for UPSC Prelims-2025-26 (PCB13-RAFTAAR)
- Pillar1A1: Money: Barter to Bitcoins
-Table of Contents
- 10 Brief Info about Economy course (PCB13-Raftaar) 🏛 ......................................................................4
- 10.2 Myths about Economy for UPSC Prelims.................................................................................................4
- 10.3  PYQ Analysis: Increased diversity in Economy topics in Prelims 🏛💳 .................................................5
- 10.3.1  PYQ Analysis: Marks Distribution in UPSC Prelims and Mains 🏛💳 ..................................................................7
- 10.4  Barter system & its disadvantages: ( 🍅🌽  वस्तुविववि मयप्रणाली)..................................................................8
- 10.5 Money: Functions of ( 📏  पैसेकेकेय)...........................................................................................................8
- 10.6  Money: Evolution & Types ( 💵    मद्राकेउत्क्रांति वप्रकेर)..............................................................................9
- 10.6.1 Commodity Money / 🥜 वस्तु मुद्रा (Intrinsic value: अंतुर्भूतु मुल्य? Yes).........................................................................9
- 10.6.2 Metallic Money / 🥇 धातु मुद्रा (Intrinsic value? Yes)...................................................................................................9
- 10.6.3  Metallic Money  Full Bodied vs Token Coins 💪 → ......................................................................................................9
- 10.6.4  Intrinsic value of a coin vs paper currency note? ( 💍📔 अंतुर्भूतु मुल्य).......................................................................9
- 10.6.5  Fiat money ( 💵 वधानि क मुद्रा):......................................................................................................................................10
- 10.6.6 Legal Tender ( 💵⚖️ वधानि क नि निवदा)............................................................................................................................10
- 10.6.7 Legal Tender ( 💵⚖️ वधानि क नि निवदा)- Limited and Unlimited..................................................................................12
- 10.6.8 RBI’s App to help the blind identify currency notes ( 👩‍🦯🤳🏻 त्रही / दिदाव्य-चक्षुओं क नि ए)..........................................13
- 10.6.9  Currency related General Knowledge: 💵 ................................................................................................................13
- 10.6.10   “I promise to pay the bearer…”: Meaning of this promise? 💵 ..........................................................................13
- 10.6.11 Currency Note is not a promissory note?..............................................................................................................14
- 10.7  Demonetization of Fiat Money ( 💵 विवमद्राकेरणा: Previously 1946, 1978).................................................14
- 10.8  ₹2000 WITHDRAWN but continued as legal tender 💵 ........................................................................14
- 10.8.1  ₹2000 NOT DEMONETIZED but WITHDRAWN from circulation 💵 ............................................................14
- 10.8.2  ₹ 2000 withdrawn- WHY? ( 💵 क्य च से हीटाय गय)..............................................................................................14
- 10.8.3  Money Types: Gresham law: good vs bad money | soft vs hard currency 💰🤮 .................................................15
- 10.8.4 Zimbabwe's Gold Coin ‘Mosi-oa-Tunya’.................................................................................................................15
- 10.8.5  Redenomination: Iran’s Toman Currency 🤫💸👜🥚 ...........................................................................................15
- 10.9 Bank Money / Deposit Money 🐷🔖 .........................................................................................................15
- 10.9.1  Paper orders: Cheque, Demand Draft (DD) 🐷🔖 ..................................................................................................15
- 10.9.2 Demand Draft and Overdraft 🔖 ................................................................................................................................16
- 10.9.3  Cheque  NPCi’s Cheque Truncation System (CTS) & Positive Pay Mechanism 🐷🔖 → .................................16
- 10.9.4  CTS - Faster settlement in just few hours (2024) 🐷🔖 ..........................................................................................17
- 10.10  Electronic Orders / Digital payment 🐷💸📡 ........................................................................................17
- 10.10.1 CBS ( full form: Core Banking Solution /system) 💸📡 ........................................................................................17
- 10.10.2  NEFT vs RTGS vs IMPS 📡 .....................................................................................................................................18
- 10.10.3  LPSS- lightweight payment and settlement system 📡 .........................................................................................19
- 10.10.4  RBI: beneficiary account name look-up facility for NEFT / RTGS (2024) 🕵🏻‍♀️ ...................................................19
- 10.10.5  RBI’s Next Generation Treasury Application (NGTA), 2020-Oct 💸📡 ...........................................................19
- 10.10.6  RBI's Next-Gen RTGS to comply with ISO-XML standards 📡🚩👶🏻 ................................................................20
- 10.11  National Payment Corporation of India(NPCi) 🕵🏻 ..............................................................................20
- 10.12  NPCI → UPI (Unified Payment Interface) 🕵🏻🤳 .................................................................................20
- 10.12.1  UPI: daily transaction limits 🛍️ ..............................................................................................................................21
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 1
-10.12.2  UPI: Push vs Pull Transactions 🤌 ..........................................................................................................................21
- 10.12.3  UPI Delegated Payments to create secondary accounts (2024-Aug) 🧑‍🧒 ............................................................21
- 10.12.4 RBI transaction limits on UPI123, UPI Lite (2024–10).......................................................................................21
- 10.12.5  UPI-Lite (on-device wallet) 🛍️ ...............................................................................................................................22
- 10.12.6 UPI Lite vs UPI Lite-X (offline payment)..............................................................................................................22
- 10.12.7  Conversational payments in UPI 🛍️💬 ..................................................................................................................22
- 10.13  Pre-sanctioned credit line 🔪 .................................................................................................................23
- 10.13.1  UPI: Pre-sanctioned credit line/Overdraft in UPI (2023-Apr) 🔪🛍️ .................................................................23
- 10.13.2  UPI: Benefits of UPI-overdraft facility= BNPL 🔪🛍️ ...........................................................................................23
- 10.13.3  UPI: Interoperable Card-less Cash Withdrawal (ICCW) 🛍️ ...............................................................................24
- 10.13.4  UPI: facility for depositing /withdrawing money 🪙🏧 .......................................................................................24
- 10.13.5  NPCI  UPI BHIM Full form: Bharat Interface for Money (2016) 🕵🏻🤳 → ........................................................24
- 10.13.6   NPCI  Rupay Card Payment Gateway (2012) 🕵🏻💳 → ........................................................................................25
- 10.13.7  Credit Card Network portability order by RBI (2024) 💳🔄 ...............................................................................25
- 10.13.8  NPCI other notable initiatives 🕵🏻 ...........................................................................................................................26
- 10.13.9 NACH-ABPS : Hybrid / Mixed mode in MGNREGA 🕵🏻 .....................................................................................26
- 10.14  Direct Benefit Transfer (DBT)  E-Rupi by NPCi (2021) 🤳🏻💸👟 → ....................................................27
- 10.14.1 e-RUPI vouchers: scope expanded (2023).............................................................................................................27
- 10.14.2 Interoperability Problem ( 💸🤳🏻🤷🏻‍♂️🤳🏻 इंटारऑपरनि नि टा)............................................................................................28
- 10.15 QR Codes: compulsory to implement UPI/Bharat QR from 2022 🤳🏻💸 ..............................................28
- 10.15.1 rMQR (Rectangular Micro QR Code) 🤳🏻💸 ...........................................................................................................28
- 10.15.2  Card Types based on Security Features: ( 💳 सेरक्षु प्रणा क निहीसे से कर्ड क प्रकर)................................................29
- 10.16  Credit & Debit Cards (also called ‘Plastic Money’) 💳 .........................................................................29
- 10.16.1   Card Tokenization (from 1/Oct/2022) 💳📧 .......................................................................................................30
- 10.16.2  CVC Less transactions 💳 ........................................................................................................................................31
- 10.16.3  Auto-Debit/E-mandates and Additional Factor of Authentication (AFA) 💳 .................................................31
- 10.17   Card/tech for Transport / Travel 💳🚕 .................................................................................................31
- 10.17.1   National Common Mobility Card (NCMC, 2019) 💳🚕 ....................................................................................31
- 10.17.2  SBI’s Nation First Transit Card (2023) 🚝💳 ........................................................................................................31
- 10.17.3   FASTag/NETC for paying toll fees at highways (2017) 💳🚕 ............................................................................32
- 10.18  MDR: Full form: Merchant Discount Rate ( 💳  व्यापैरिरकेछूटदर)...........................................................32
- 10.18.1  MDR Subsidy by MEITY 💳 ....................................................................................................................................32
- 10.18.2 FAQ: Does Rupay cards have MDR charge or not? 🙋🏼‍♀️ .........................................................................................33
- 10.18.3  Interchange fee by NPCi on sellers for prepaid wallets(2023-March)..............................................................33
- 10.18.4   ATM and its Types 💳🏧 ........................................................................................................................................33
- 10.19   Measures to promote Cashless Economy 💸📡🤳🏻📈 ...........................................................................34
- 10.19.1   Payments Infrastructure Development Fund (PIDF) by RBI 🕵️‍♂️💳📯 ..............................................................34
- 10.20 Global Money Transfer 🌐🤝 ..................................................................................................................34
- 10.20.1 UPI facility to foreign tourists coming to India (2023)........................................................................................34
- 10.20.2 Nostro-Vostro / Rupee-Ruble / Rupee-Rial Agreement?....................................................................................35
- 10.20.3  RUPAY Cards- International acceptance 💳 .........................................................................................................35
- 10.20.4  UPI in Srilanka, Mauritius etc. (2024) 🛍️ ..............................................................................................................35
- 10.20.5  UPI@Global: India-UAE: LCSS: UPI-IPP linkage (2023-Aug) 🛍️ .....................................................................35
- 10.20.6   UAE’s JAYWAN card (=RUPAY) & AANI (=UPI) based on NPCi’s model 🌏💳 ........................................36
- 10.20.7  UPI@global  Project Nexus Indian-UPI connect with some Asian nations (2024) 🌏 → ....................................36
- 10.20.8  Financial Messaging Systems: SWIFT- Russia gets banned 💸📞 ......................................................................36
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 2
-10.21  Payment System Operators? 👨‍⚖️📜🗓 ....................................................................................................37
- 10.21.1 New Umbrella Entity (NUE) for Retail Payments System (2019) 👨‍⚖️ .................................................................37
- 10.21.2  Third Party Application Providers (TPAPs): Google Pay, Whatsapp Pay 🤳🏻 ...................................................38
- 10.22   Digital Payment Regulatory bodies ( 🕵️‍♂️💳 वि यत्रणासेस्थाएँ)...................................................................38
- 10.22.1   Digital Transactions Ombudsman (DTO-2019 / 🕵️‍♂️💳 कप्रहीर).......................................................................38
- 10.22.2  RBI: BPSS (Statutory body) 🕵️‍♂️ ................................................................................................................................39
- 10.22.3 Payment Regulatory Board (PRB) 🕵️‍♂️ ......................................................................................................................39
- 10.23  Digital Payment related Index / Competitions/Reports by RBI 🐯📊 .................................................39
- 10.24  Crypto-Currency & Blockchain Technology 🔗💮 ...............................................................................39
- 10.24.1  Virtual currency → MEME Coins e.g. Trumpcoin → .............................................................................................40
- 10.24.2 Hot Wallet vs Cold Wallet 👝 ..................................................................................................................................41
- 10.24.3 : Crypto-Winter in Bitcoin Prices ( 🔗💮📉🥶☃️ र्भूव निगर)...................................................................................41
- 10.24.4  Bitcoin crosses historic $100K mark (2024-Dec) ₿ ..............................................................................................41
- 10.24.5  Virtual currency → USA Bitcoin Strategic Reserve Fund (2025) → ......................................................................41
- 10.24.6  Bitcoin Halving = 50% reduction in the reward to miners (2024) 💮 ................................................................41
- 10.24.7 : Crypto-scams - Recent Global Scams 🔗💮📉🥶☃️ ...........................................................................................41
- 10.24.8 :Crypto currency observations by EcoSurvey’23 🔗💮 📙 .....................................................................................42
- 10.24.9 : Cryptocurrency Profit pe 30% Tax and 1% TDS in Budget-2022 🔗💮🍋 👜🥻 ..............................................43
- 10.25  Cryptocurrency Banned in other nations? ⚖️🔗💮✋ ..........................................................................43
- 10.25.1 Crypto currencies as legal tender is in some countries........................................................................................43
- 10.25.2 : Cryptocurrency Permitted in Other Nations/Groups 🔗💮🤩 ..........................................................................43
- 10.26  Cryptocurrency → global regulations 🔗💮🥇 .......................................................................................44
- 10.26.1 Global Regulations  MICA regulation by EU (2023) → .......................................................................................44
- 10.26.2 Global Regulations  CARF Framework by OECD (2022) → ...............................................................................44
- 10.26.3  Cryptocurrency  Stable-coins 🔗💮🥇 → ..............................................................................................................44
- 10.26.4 World Coin Project (2021–22)................................................................................................................................44
- 10.27  Central Bank Digital Currency (CBDC) 🐯🔗💮   केद्रायबैंकेवि जि टलीमद्रा...............................................45
- 10.27.1  Zhande-walle Babushono ke liye special instruction: ( 🚩👶🏻 अंनि मु सेच )..........................................................45
- 10.27.2  Indian CBDC symbol (e₹) 💮 ..................................................................................................................................45
- 10.27.3  (e₹) CBDC wholesale vs Retail 💮 ..........................................................................................................................45
- 10.27.4 (e₹) Indian CBDC = digital token of legal tender 💮 ............................................................................................46
- 10.27.5  CBDC → Permanent deletion of transactions to keep e₹ anonymous like cash → .............................................47
- 10.27.6  (e₹)  Settlement finality 💮 → ..................................................................................................................................47
- 10.27.7 (e₹) Indian CBDC = no interest earning ( 💮 ही निमु ग ब्यज।).............................................................................47
- 10.27.8 (e₹) CBDC - programability & offline features 💮 .................................................................................................47
- 10.27.9 E-Rupee vs E-Rupi....................................................................................................................................................48
- 10.27.10 = Benefits of CBDC ( 🐯🔗💮👌🥰 कद्राय क निर्डनिजटा मुद्रा क फायदा)........................................................................48
- 10.27.11 =  Challenges of CBDC ( 🐯🔗💮✋🥵 च नितुय)..................................................................................................48
- 10.27.12   (e₹) CBDC - Interoperability permitted with UPI QR Codes 💮📲 ................................................................49
- 10.27.13   (e₹) CBDC wallets: Non-banks can also create wallets (2024-April) 💮📲 ....................................................49
- 10.28 ≠  Fungibility? 💠❇️ ................................................................................................................................49
- 10.28.1 (e₹): Fungibility of CBDC 💮 ...................................................................................................................................50
- 10.28.2  Non-fungible token (NFT: 💠 ग़ैर-फ़ंज टाक ).....................................................................................................51
- 10.28.3 NFT-Charms? ( 💠🤩 आकर्षणा)...................................................................................................................................52
- 10.28.4 NFT-Challenges: ( 💠😰 च नितुय).............................................................................................................................52
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 3
-10.28.5  Mains Answer Writing ✍️ .......................................................................................................................................52
- 10.28.6  Epilogue- Babushone want only concepts not facts 🙋🏼‍♀️ ........................................................................................52
- 10🏛BRIEF INFO ABOUT ECONOMY COURSE (PCB13-RAFTAAR)
- Economy Area Covered? Comment, if any
- Prelims  Yes ✅ Yes- theory, current, NCERT, Budget, Economic Survey,
-MCQ, PYQ- everything covered.
- Mains No ✋🚨
- Separate course for it. You've Two Options:
-(A) Either wait for next Live Mains-course (QEP6) in Jun’25 OR
- (B) finish from Past Recorded Course (QEP5) Click Me.
- Micro Economics  No ✋🚨 UPSC asked only 2 question in last 13 years. Finish
-from Recorded Course of 2023-May. Click Me-FRESHER ke liye 2025-26 strategy / roadmap / planner video:
-https://unacademy.com/class/comprehensive-strategy-for-upsc-cse-20252026/92QMBPIK-Repeaters / 2024 Failed ke liye strategy: Youtu.be/400cFX2b7eg?si=lxL2pWVejMYjRDBb  -Syllabus, Strategy, Booklist, Cut-off: https://mrunal.org/syllabus -Economy: how much I’ll teach, what books do you’ve to read on your own etc. mrunal.org/pcb12 -Basically this PCB-Raftaar Course deals only with Prelims-Specific Economy. -Only for serious competitive exam mindset candidates shd attend this. Non-serious/
-argumentative-PhD mentality Babushona types should avoid my courses & enjoy their life.-Old Students (PCB1to12) Need NOT Sit again. They shld see FREE UPDATEs [Win##] at
-Mrunal.org/win25 as per the table given in it.
-10.2MYTHS ABOUT ECONOMY FOR UPSC PRELIMS
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 4
-I’m not making Memes for everything, otherwise pages will increase so just accept following:
- Myths Reality
- In Economy, ONLY concepts are important for UPSC. Both facts and concepts are asked.
-if something is not asked in the last 3 years, then such topic
-will never be asked.
- UPSC examiner asks trend
-breaking questions.
-if some economy topic is older than one year, then it is not
-important. Only last one year current affairs is important.
- UPSC asked many Economy MCQs
-from events older than one year.
- We've to read economic-times, business line, etc newspapers. NOT required.
- 10.3  PYQ A 🏛💳 NALYSIS: INCREASED DIVERSITY IN ECONOMY TOPICS IN PRELIMS
- • From table given below, you can see that the diversity and variety of economy MCQs
-questions has increased/changed in recent Prelims, so it is inevitable that handouts will get
-lengthy.  जब प्रश्नों की वि वि धता और जटि लता बढ़ रही ही ता ये लजमी ही टिकी ज्यादा नो स लम्बे बनोनो पड़ेंगे.
-• So, please do not be fooled by the "negative-PR toolkit" circulated by Delhi-offline coaching
-mafia against my notes via timepass vloggers and bikaau-royal-entry toppers.
- • Black background cell = NOTHING asked from said topic in that year.
- Pillar 2024 2023 2022 2021 2020
- 1A1_Digital
-Payment &
-Bitcoin
- e₹ by RBI • CBDC &
-SWIFT • NFT ke features • NOTHING
-asked
- • Blockchain
-Technology
-1A2_Monetary
-policy
- • Central Banks
-globally hiking
-loan interest
-rates
- • RBI responsible to
-control inflation
- • Money
-multiplier
-increases when
- • Indian Bond
-Yield influenced
-by what factors
- • expansionist
-monetary
-policy
- • multiplier If
-you
-withdraw 1
-00 000 in
-cash
- 1B1_Classificatio
- n Bank NBFC
- Foreign Banks • • Credit rating
-agencies
-• Lender of last
-resort means
-what
- • District
-Central
-Cooperative
-Banks
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 5
- Pillar 2024 2023 2022 2021 2020
- • UCBs regulation (DCCBs)
- 1B2_NPA/Bad
-Loan Burning
-Issues
- Syndicated lending • • BBB • Appointment of
-RBI Governor
- • Interest
-Coverage
-Ratio
- 1C_Sharemarket,
- companies act,
-CSR
- (1) US treasury bonds
-(2) C-Bond
-participants (3) CSR
-(4) ETF (5) CBLO (6)
-Debt-platform
- • InVITS pe
-Income Tax &
-SARFAESI Act
- • Capital markets
-ke sub-markets
- • Beta in
-Sharemarket
- • intangible
-investments
- • Capital
-Expenditures of
-a company
-• IIB pe Income Tax
- • Convertible Bonds
-• Stock Market:
-NDS-OM &
-CDSL
- • Call Money
-& other
-instruments
- • non
-financial
-debt
- 1D1_Insurance • • • • • cyber
-insurance
- 1D2_Pension • PM-Shram Yogi • • • Causal Workers
-get EPFO or not •
- 1D3_ Financial
-inclusion • • SHG ko Loans • • • Kisan Credit
-Card scheme
- 2B_FC
-BlackMoney •
- • 15th FC
-Horizontal
-Formula
- • Vodafone indirect
-transfer
- • Black Money is
-bad why? •
- 2D_FRBM Deficit
-Disinvestment • • • G-Sec and
-Household Savings • • FRBM Docx
- 3A_BoP import
-export FDI/FPI • Apple import
- • Switzerland
-Gold export
- • India ka global
-export data &
-PLI
- • Tea Board ka Dubai
-Office
- • FDI types of
-instruments
- • FDI
-Meaning
- • India
-import
-export data
- • Indo
-SriLanka
-Trade
- • WTI Oil
-Contract
- 3B_ currency
-exchange • • RBI s
-Sterilization
- • NEER-REER
- • currency exchange
-and RBI Action
- • ECB & Fed
-Tapering
- • Devaluation
- • “Gold
-Tranche”
-(Reserve
-Tranche)
- • GFC- what
-NOT to do
- 3C_intl.org
-agreements •
- • USA-EU Trade
-and technology
-Council
- • EU s Stability
-Growth Pact
- • IMF Loan facility
- • G20 Common
-Framework
- • AIIB-MTCR-SCO
- • • TRIMS
-Agreement
- 4A_AGRO
- (1) farmer capital (2)
-Land records
-(3) Grains
-• Small Farmer
-Large Field
- • Nigerseed pe
-• •
- • price of rice
-affected by
- • public
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 6
- Pillar 2024 2023 2022 2021 2020
- council MSP
- investment
-in agri
- • MSP All/
-NEVER
- 4B_Mfg Services
-E-Commerce
-MSME IPR
- • Sectors
-classification • MSME & PSL • Videshi e
-commerce firms • •
- 4C_NITI PC FYP;
-unemployment
- • Venezuela
-Economic
-model
- •
- • Vietnam economy
-growth
-• Organisation
-looking after
-industry dispute
- •
- • 1991
-economic
-liberalizatio
- n impact on
-rural area
- 4D_GDP • • • real sector in the
-economy
- • Counter-cyclic
-policy to combat
-recession
- •
- 4E_Inflation • • •
- • Demand-Pull
-inflation
- • Printing money
-causes inflation
- • CPI vs WPI
- 5A_Infra-Energy
-Water • •
- • Coal Controller s
-Organization
-(CCO)
-• •
- 5B_Infra
-Transport
- • Greenfield
-Airports
- • Private Port etc
- • Infra Corridors • • •
- 5C_Infra-Rural
-Urban • • S3i ke Infra
-sectors • Sanitation Coalition• • MPLADS
- 6A_HRD-Health
-Hunger
-Malnutrition
- • (1) TFR  (2)
-PM-Surakshit
-Matritva  (3)
-nations  pop. ↓
- • Janani Suraksha
-Yojna
- • Anaemia Mukt
-Bharat
- • Ayushman Bharat
-Digital Mission • •
- 7_Microeconomi
- cs • • • • substitute &
-inferior goods •
- TOTAL 20 MCQs 20+ MCQ## 20+ MCQ 14 MCQ 20+
-• Free Download Topicwise PYQ booklet at https://unacademy.com/content/upsc/downloads/
-• ## Note on above table: Every teacher always wants to show that more number of questions are
-asked from his subjects. E.g. Economy teacher will say WTO = economy topic whereas IR
-teacher may disagree. No need to get into ‘emotional-fanboy-outrage’ around it.
-10.3.1 🏛💳 PYQ Analysis: Marks Distribution in UPSC Prelims and Mains
- 6 Pillars of
-economy
- Prelims P1 (GS 100 🔠❓MCQs) Mains GSM-1-2-3 (750 Marks)
- Utility in exam
- 2018
- 2019
- 2020
- 2021
- 2022
- 2023
- 2024
- 2018
- 2019
- 2020
- 2021
- 2022
- 2023*
- 2024
- 💳
- 1_Money
-Banking,
-Finance &
-Insurance
- 7 7 9 6 8 7 1
- 0 0 0 15 15 0 0 0 Most useful in Prelims
-but less in Mains
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 7
-🍋
- 2_Budget,
-FC, GST,
-FRBM
- 4 1 1 1 3 1 0 25 25 15 20 0 15 0 Second lowest utility
-after 5_Infra
- 💱3_Intl_T
- rade, BoP
- 4 7 7 2 4 3 1 30 0 15 15 0 0 0 Third lowest utility after
-2_Budget.
- 🛒
- 4_Sectors,
-GDP,
-Inflation,
-Microecon
- omics
- 3 8 5 5 4 4 5 50 65 55 60 85 11
- 0 60 Useful for both prelims
-and Mains.
- 🏗5_Infra 1 3 1 0 2 4 1 15 15 15 30 20 10 35 Lowest utility among 6
-pillars.
- 👩🏻 🎓
- 6_HRD
- 6 2 0 0 0 2 3 60 75 85 45 20 95 45 More useful in Mains
-than Pre
- Total 25
- Q 28Q 23Q 14Q 21
-Q
- 21
-Q
- 20
-Q
- 180
- m
- 180
- m
- 200
- m
- 185
- m
- 125
- m
- 230
- m
- 140
- m--
-�
-�Economy Pillar #1-A1) Money: Barter to Bitcoin
- 10.4🍅🌽  BARTER SYSTEM & ITS DISADVANTAGES: (वस्तु विववि मय प्रणाली)
- Barter system was introduced by Mesopotamian tribes. It has following challenges: (चुनोविताये )- 😰Double co-incidence of Wants (आश्यकीताओ की दाहीर सयेगे नोही हीगे ता व्यापर असभ).- 😰Search Cost & Transaction cost is high.  (सही दामी पर चुज ढूँढूँनो  लनोदानो की लगेता बढ़ जता ही)- 😰Storage of perishable commodities is difficult, results in loss of value.  (नोश नो स्तुओ की मील्यहीस)- 😰Doesn’t encourage specialization and division of labour (श्रमी वि भजनो की प्रत्साटिहीता नोही कीरता).
- 10.5📏MONEY: FUNCTIONS OF (पस की कीये)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 8
-10.6 💵 MONEY: EVOLUTION & TYPES (मद्रा की उत्क्रांवि व प्रकीर)
- Commodity
-Money
- Metallic
-Money
- Paper /Token /
-Representative /
-Fiat Money
- Bank Money,
-Deposit Money
- 10.6.1 🥜Commodity Money /  वस्तु मद्रा (Intrinsic value: अंर्भू मल्य? Yes)
-  Iron Nails, Bear Pelts, Cocoa Beans, Whale Teeth, Gold Nuggets
-  Problems? Perishable, not uniform, not pure, foreigners may not accept.
-न
- ोश नो, एकीसमीनो नोही, शद्ध नोही, अस्वीकीर भ कीर सकीता ही.
- 10.6.2 🥇Metallic Money / धा मद्रा (Intrinsic value? Yes)
-  Traders & Kings stamped their marks on gold nuggets for uniformity & trust. (सनो पर अपनो
-च
- िचुन्ह/छाप लगे दाता – ताटिकी लगे की उसकी शद्धता प येक़ीनो ही)
-  Indo Greek kings & Kushana kings issued gold coins, but Gupta Gold coins most spectacular-
-king is playing Veena, shooting animals, standing with wife.(इनो रजओनो सनो की सिसक्के विनोकील थे)
-  Delhi Sultanate Kings: Silver Tanka. Sher Shah Suri Rupiyah silver coin. Akbar: Muhr.
- 👩
- 🏻🎓 Further SELF STUDY: History of Indian coins from History Lecture/Notes.
- 10.6.3 💪 Metallic Money → Full Bodied vs Token Coins
- Table 1: Types of Coins
- 💪 Full Bodied Coins
- Token Coins (प्र कीकीत्मकी)
- Gupta Coin: ~8 gm GOLD
- 50 paisa modern coin: ~4 gm steel
- Intrinsic Value (अताभता मील्य) is Equal to or
-MORE  than its Face Value (अटिकीता मील्य)
- LESS.  (धता एकीदामी सस्तु ल इस्तुमील कीरता ही ये बहुता ही
-क
- ीमी जनो की धता इस्तुमील कीरता ही)
- Challenge?
-  Debasement: ↓decreasing the amount of
-metal in coins. Usually happens when
-king’s rule gets weak/poor e.g. Aurangzeb,
-Roman Kings. (सिसक्के मी धता की मीत्रा की कीमी टिकीये
-जए ताब लगे की उस रज की शसनो स वि श्वास कीमी हीनो
-लगेता ही)
-  1330s: Tughlaq's Token coin
-experimentation = #EPICFAIL (Why? Read
-in History).
-  Modern Indian coins are token coins.
-Cupronickel metal used to discourage
-melting.
- Coinage Act 2011 prohibits melting of
-coins. (सिसक्के विपघलनो एकी अपरध ही)
- 🚩👶🏻FAQ by Zhande-walle Babushone:  I’ve 25 jaat ke Qs about whether “X” can be called “Y” &
-Trump’s decision to cancel Penny coin. Ans.  As Coaching teacher, I hv finished the topic as per its
-exam-utility. Further Ph.D doubts Ask chatGPT.
-10.6.4 💍📔 Intrinsic value of a coin vs paper currency note? (अंर्भू मल्य)
- PRECIOUS METAL COINS (धा की सि क्के)
- PAPER CURRENCY (कीग़ज़ी मद्रा/ ट)
- Metal has INTRINSIC VALUE i.e. Metallic
-You can't use currency-note's paper as a
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 9
-PRECIOUS METAL COINS (धा की सि क्के) PAPER CURRENCY (कीग़ज़ी मद्रा/ ट)
- money =Use it as "money", or you can melt the
-metal  → use that metal for making jewellery /
-weapons because metal itself has its value /
-usages. (उस मीद्रा की धता विपघल  कीर कीछा और चुज भ बनो
-सकीता ही. क्योटिकी धता की अपनो : अताभता मील्य / उपयेगिगेता ही.)
- notebook or diary.
-So currency notes have no intrinsic value. (उसकी
-कीगेज की उपयेगिगेता कीछा नोही ही, क्योटिकी उसप छापई कीर दा ही.)
- 10.6.5 💵 Fiat money (वधावि की मद्रा):
-Fiat Money MUST fulfil two conditions SIMULTANEOUSLY: दा शता की एकीसथे पलनो :
- 1. It MUST BE in the form of Physical Currency Coin / Physical Currency Notes / VirtualCoin/
-DigitalCoin/ CryptoCoin which can measure value AND simultaneously   और थ ही थ
-2. It MUST BE issued by the order of a King / Queen / Government / Central Bank.
- Govt issues all coins upto ₹ 1,000, using powers of powers of Coinage Act 2011.
- Presently, govt issues Rs.50 paisa to Rs.20 coins.
-Rs.20 coin: 12-sided Polygon shape (Dodecagon आकीर: बरही बजओ ल चुताष्कोण ही)
- ₹ 1 Note signed by Finance Secretary (वि त्त सचिचु )
-₹ 1 note doesn’t contain “I promise to pay bearer…”
- RBI issues: Currency notes other than ₹ 1 Note under RBI Act 1934.
- Currency notes have Governor’s sign: “I promise to pay bearer…”
- 😤 FAQ: why is it like this!!!??? WHY CAN’T RBI ISSUE BOTH coins & currency notes!!?
- Ans. Send your suggestion to PM, to merge above two laws. Until it’s implemented, remember table
-for passing exam. प्रधनोमीत्रा की कीगेज लिलखो- दानो कीनोनो की एकीकीरण कीरनो की लिलए. जब ताकी ही नोही हीता  handout  र ।
-10.6.6 💵⚖️Legal Tender (वधावि की वि विवदा)
- To become a ‘legal tender’, a given coin/currency MUST fulfil two conditions SIMULTANEOUSLY:
-एकी सथे दा शता की पर कीरनो हीगे.
- 1. It must be a FIAT MONEY (ज हीमीनो ऊपर की सक्शनो मी पढ़). AND SIMULTANEOUSLY   और थ ही थ
-2. It must be legally valid for all debts & transactions throughout the country. Other party can’t
-refuse to accept. (लनोदार उसकी अस्वीकीर नोही कीर सकीता)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 10
-Table 2: fiat money and legal tender in India
- ITEM
- A) Is it in form
-of a physical
-coin OR physical
-Note OR Digital
-Coin that can
-measure ‘value’?
- B) Is it issued by
-Central Bank /
-Govt  / King /
-Queen
- C) Result: Is it
-Fiat money?
- (YES If Both
-Cell A+B give
-✅+✅)
- D) At present, is it
-legally valid for
-transaction in
-India as per
-Coinage Act or
-RBI Act?
- E) Is it
-LEGAL
-Tender in
-India (Yes, IF
-C+D give
-✅+✅)
- ₹ Indian Rupee:
-Coins & Notes,
-CBDC
- ✅ ✅ ✅ ✅ ✅
- Demonetized
-(विवमद्राकी ) ₹500,₹1000 ✅ ✅ ✅ ✋ ✋
- Dollar$, Yuan, Yen,
-Euro etc ✅ ✅ ✅ ✋ ✋
- G-Sec, T-Bill
- (what is this-Ans.
-explained in video)
- ✋ ✅ ✋ ✋ ✋
- Shares, Bonds, DD,
-Cheque, ATM, Cards,
-Kirana coin, Casino
-coin, Filmstar-Notes
- ✋ ✋ ✋ ✋ ✋
- Marshall Island: SOV
- Venezuela: Petro coin ✅ ✅ ✅ ✋ ✋
- Bitcoins ✅ ✋ ✋ ✋## ✋
- ##Bitcoin is not a Fiat money, yet it is legal tender in El-Salvador nation. But it is an exception.
-(विब-कीइनो की अल-सल्वाडोर दाश मी धविनोकी विनोवि दा हीनो कील एकी अप दा ही,  पर दाविनोये की लिलए विनोयेमी/व्याख्या नोही ही।)
-Commemorative Coins = Fiat money yes but not legal tender unless notified by
-RBI/Government to be used as legal tenders. (स्मृविताचिचुन्ह रूप सिसक्के- समीन्य भगेतानो मी इस्तुमील नोटिही ही सकीता,
-सिस ये की सरकीर/आरबआई उसकी अनोमीविता दा।)
- 😤 FAQ: we can use cheque / credit card to pay fees. So, why are they not fiat money/legal tender?
-�
-� FAQ: I did not understand this thing and/or I want to engage in intellectual/lawyer debate why
-“X” thing is legal tender? Ans.  watch lecture’s recorded video again at 1X speed, more peacefully.
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 11
-10.6.7 💵⚖️Legal Tender (वधावि की वि विवदा)- Limited and Unlimited
- Table 3: Fiat Money: Two types of legal tenders
- A) 🚯Limited legal tenders
- ( मिम वधावि की वि विवदा)
- B) ∞ Unlimited legal tenders:
-(अं मिम वधावि की वि विवदा)
- Recipient can refuse accepting payment beyond a
-limit (एकी हीदा स ज्यादा छा पस स्वीकीरनो स समीनो ल मीनो कीर
-सकीता ही)
- Coinage Act 2011
- 
- Paper Note: Rs. 1 (एकी रुपए की कीग़ज़ी नो )
-  Coins Rs. 1 / above → upto Rs.1000
- Coins 50 paisa x 20 coins → upto Rs.10
-  Below 50 paisa coins are withdrawn (in 2011)
-No such restriction.**
-  RBI Act 1934 - Section 26: Every bank
-note is legal tender in India.
- They can be used for settling any amount
-of debt in India**, lender can’t refuse to
-accept it.
- So, 10 paisa, 25 paisa are ✋not legal tenders.
-(10 पस और 25 पस धविनोकी विनोवि दा नोही ही। 50 पस
-धविनोकी विनोवि दा ही)
-**Although in real life, Finance Act 2017: “Cash transactions for less than Rs.2 lakh only.  Beyond that
-use Cheque, DD, NEFT etc. else penalty.” This rule is to discourage tax-evasion / black money. For
-more Ref: 📑Pillar#2. But for MCQs, simply accept that bank notes = unlimited legal tenders. (हालांकि
-व
- ास्तविवा जीवान में लां धन / रचोर र न वास्त  नगदी लांनदीन पर छ सीमें  बादी र हा, कि न्तु MCQ  लिलांए जी पढ़ाया वा स्वी र)
- 🚩👶🏻 FAQ# my shopkeeper doesn’t accept 50 paisa. Then how it is legal tender? मर दाकी दार ही ली 50
-प
- ै की सि क्के।  आपै की कीही की ही व वधावि की वि विवदा ही?
-Ans. as per RBI  notification, 50 paisa is legal tender. So, accept it for MCQ & move to next topic.
-Further, feel free to file police case against shopkeeper, if you have plenty of free time/outrage for it.
-�
-�👶🏻 FAQ ₹1 one rupee paper note is limited legal tender or unlimited legal tender?  Ans. Read
-above table carefully. it's given in it in the left column.
-�
-�❓ MCQ: Which correctly describes the meaning of legal tender money?  (Pre-2018)
-(a) The money which is tendered in courts of law to defray the fee of legal cases
- (b) The money which a creditor is under compulsion to accept in settlement of his claims
- (c) The bank money in the form of cheques, drafts, bills of exchange, etc.
- (d) The metallic money in circulation in a country
- 🔠❓ MCQ: Consider the following statements  (Asked in UPSC-CDS-2011-II)
-1. In India the minimum denomination coin acceptable for transaction is 50 paise.
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 12
-2. Coins below 50 praise is not a legal tender for payment.
-Which of the statements given above is/are correct?
-(a) Only 1
- (b) Only 2
-(c) Both 1 and 2
-(d) Neither 1 nor 2
-10.6.8 👩 🦯🤳🏻RBI’s App to help the blind identify currency notes ( त्रही / दिदाव्य-चक्षुओं की लिलीए)
- 80 lakh people in India are blind . To help them identify currency notes:
-  Old series of Gandhi notes have square (50), triangle (100) shaped markings.
-  New series of Gandhi notes have bleed lines, raised printing of Gandhi etc.
- But, so many varieties of notes, difficult for VH persons to remember size & shapes so,
- 2020-Jan: RBI launched ‘Mobile Aided Note Identifier (=MANI)’ App.
-  Mobile camera scan & identifies the note (Even if it’s half folded), gives audio notification in
-Hindi/English, also works offline
- But can’t validate whether note is genuine or fake (Counterfeit जल नो नोही पकीड़ें सकीता येही ऐप),
- If a user is both blind and deaf, the app will tell him by giving vibrations.(मीबइल कीपनो)
- 10.6.9 💵 Currency related General Knowledge:
-Which note has what colour, which note has Red Fort / Sun Temple photo etc? General Knowledge
-Less important for UPSC-exams, more IMP for Non-UPSC Exams. So I’m removing it from Raftaar
-Handout. You can learn such general knowledge from https://paisaboltahai.rbi.org.in/
-New rupee
-symbol
- ₹: selected through a competition by Dept of Economic Affairs in 2010. Designed by
-D.Udaya Kumar, a Professor @IIT Guwahati.
- Nation
-Symbol--
- Lion Emblem: Sarnath Pillar, Uttar Pradesh स लिलये गेये ही
- “Satyamev Jayate”: slogan from Mundaka Upanishad स लिलये गेये ही
-Languages While Constitution’s 8th Schedule has 22 languages, but currency note has only 17.
-(15 on Reverse +  Hindi & English on frontside (obverse) = 17)
-�
-�FAQ: Why it is like this? Ans. Either some Indian languages have similar fonts
-and/or send suggestion to RBI.
- Museum museum on numismatics and trade at Kolkata. (सिसक्केशस्त्र और व्यापर की सग्रहीलये)
- 10.6.10 💵 “I promise to pay the bearer…”: Meaning of this promise?
- Colonia era: Promised to convert into full bodied gold or silver bars / coins worth
-the equal value in weight. E.g. 1 US Dollar = ~14 grams of gold. 1 British pound =
-~73 grams of gold.
-(in my handout ‘~’ means ‘approximate’)
-  Modern era: Conversion into other Bank notes and “token coins” of equal face value. ₹ 2000 =
-500 x 4 Nos.= 100 x 20 Nos etc.
- Not inflation adjusted value. Not linked with weight of gold or silver.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 13
- Currency note is zero interest, anonymous bearer bond / Promissory Note.
- 10.6.11 Currency Note is not a promissory note?
- Doubt: according to some website, currency note is not a promissory note under the negotiable
-instrument act. then what is write?
- Doubt
- as per academic books on
-economy?
- as per the law (Negotiable
-Instruments Act)
- Is currency note a
-promissory note?
- Yes it has the features of
-promissory note.
- No. It is not.
- FAQ: Then what should I tick in MCQ? Ans. Depends on the context and options given in the MCQ.
- 10.7 💵 DEMONETIZATION OF FIAT MONEY (विवमद्राकीरणा:  PREVIOUSLY 1946, 1978)
- Definition? Demonetization means the REMOVAL of legal tender status  of currency notes.  (टिकीस मीद्रा
-क
- ी धविनोकी-विनोवि दा की दाज/ क़ीनोनोनो धता की रद्द कीरनो- उस वि मीद्राकीरण ये नो बदा कीहीता ही)
-  8/Nov/2016: Finance Ministry →  Dept of Economic Affairs →  notification to ban the
-“Specified Bank Notes” (SBN) of Mahatma Gandhi series ₹ 500 and 1000.
-  Specified Bank Notes (Cessation of Liabilities) Act 2017= (1) RBI not required to honor “I
-promise to pay…” promise for 500-1000 ke banned notes. (2) It is illegal to keep banned notes
-(500,1000) except for research or numismatics-hobby or museum (with some terms-conditions).
-  SC Judgement on Demonetization ? Ans. REFER📑pillar#2: taxation  → black money.
- 10.8 💵 ₹2000 WITHDRAWN BUT CONTINUED AS LEGAL TENDER
- 2016-Nov: RBI introduced ₹2000 note, to meet the currency requirement of the economy in an faster
-manner after demonetisation of ₹500 and ₹1000 (नो की टिकील्लता पर कीरनो की लिलए इसकी छाप ज रही थे)
-2018–19: printing of ₹2000 banknotes was stopped.
-2023-May-23rd: RBI ordered people to get it exchanged with other notes.
- 10.8.1 💵 ₹2000 NOT DEMONETIZED but WITHDRAWN from circulation
-2023-June: Reporter asked : Will the RBI withdraw the legal tender of  ₹2000 note after September
-30? (इसका वि मुद्रीकारण नहीं हुआ. बस चलन मु इस हींटा दि या गया हीं)
-RBI Governor replied: “There is no such idea.” That means
-Question
- interpretation
- is ₹2000 fiat money?
- Yes
- is ₹2000 legal tender?
- Yes
- is ₹2000 in withdrawn from circulation?
- Yes
- is ₹2000 DEMONETIZED?
-NOT YET.^^
- • ^^As of 2025-Jan: this is the status, as per RBI official website
-10.8.2 💵 ₹ 2000 withdrawn- WHY? (क्यों चली  हीटय गय)
- We will only prepare the official reasons given by the RBI.
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 14
- 2000 Notes were issued as a temporary measure to address shortage of currency. Now there is
-adequate supply of other currency notes e.g. 100/200/500.
-  This note is not commonly used for transactions. ( स भ भगेतानो मी इसकी उपयेगे कीमी ही हीता ही)
-  RBIs clean note policy: to ensure availability of good quality banknotes to the members of public.
- 2000 note’s paper has a lifespan of 4–5 yrs. Since most of these notes were printed in 2016–2017.
-So by 2022–23 its paper quality may start to deteriorate. (चुर पचु र्षों मी कीगेज स भ खोरब ही जता ही)
-  THERE IS NO MENTION of fighting black money/ corruption / fake notes by ISI-Pakistan.
- 10.8.3
- 💰🤮
- Money Types: Gresham law: good vs bad money | soft vs hard currency
-  Wait till we reach Pillar 3B: currency exchange. Presently, we’re in Pillar 1A1.
-  If unable to hold patience, watch https://youtu.be/x7rcf13JGh8?si=rkIwvohe38Gbw_FR
- 10.8.4 Zimbabwe's Gold Coin ‘Mosi-oa-Tunya’
-  Wait till we reach Pillar 3B: currency exchange. Presently, we’re in Pillar 1A1.
- 10.8.5 🤫💸👜🥚 Redenomination: Iran’s Toman Currency
-  Removed for #RAFTAAR. Those who want to waste time/satisfy curiosity can learn it from old
-course (PCB6) at https://unacademy.com/course/mrunals-economy-course-for-upsc-prelims
-mains-2022-52/I1OWWV6Y (मीर की अब ये परक्षा की नोजरिरये स बहुता कीमी की नोही लगेता, इसलिलए विपकी ही टिदाये ही)
- Commodity
-Money
- Metallic
-Money
- Paper /Token /
-Representative /
-Fiat Money
- Bank Money,
-Deposit Money
- 10.9 🐷🔖BANK MONEY / DEPOSIT MONEY
- 10.9.1 🐷🔖 Paper orders: Cheque, Demand Draft (DD)
- Law
- Viceroy Ripon’s Negotiable Instruments Act, 1881: Primary Objective? Cheque
-लफ़ क़ीनोनो).
- dishonor & forgery (परक्राम्य लिलखोता असिधविनोयेमी: बकी खोता मी अप्रप्त रकीमी की चुलता चुकी अस्वीकीर हीनो/जलसज की
-ख
- ़
- ि
- Chequ
- e----
- 3 parties in a cheque: 1) Drawer (Sender), 2) Drawee (Bank), 3) Payee (Recipient)
- Types of cheques: 1) Stale: Not deposited in 3 months of issuance (3 मीहीनो मी नोही डोल
-त
- ा बस/अस्वीकीये हीगे), 2) Post-dated: Deposit after a specific date,
-3) Ante-Dated: notimp for IAS exam.
- Open / bearer cheque:  No ‘crossing’. Anyone can encash.
- IFSC
- IFSC code: Indian Financial System Code- 11 alphanumeric numbers to identify the
-bank branch, just like PINCODE identifies an area. (कीनो स बकी ब्रांचु ही उस चिचुन्हिन्हता कीरता ही)
- MICR MICR code: Magnetic Ink Character Recognition. 9 digits code written in Iron Oxide
-ink for automated clearance. (चुम्बेकीये स्याही स चुकी की नोम्बेर की जचुनो की लिलए।)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 15
-10.9.2 🔖Demand Draft and Overdraft
-Overdraft: When person has insufficient bank balance, still he may withdraw money from his
-account (as a loan). Such facility is called Overdraft. Pradhan Mantri Jan-Dhan account has
-Overdraft upto Rs 10,000/- with certain conditions. (More in Pillar1D: Financial Inclusion).
-o Overdraft is mainly for short-term operating expenses. (अस्थाई रूप स लघु अ धि का लिलए कार्ज)
-o Loans is mainly for longer term higher value expenses. ( घु अ धि का लिलए मुटा रकामु का कार्ज )
- 10.9.3 🐷🔖 Cheque → NPCi’s Cheque Truncation System (CTS) & Positive Pay Mechanism
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 16
-Benefit (first SEE THE DIAGRAM)
- NPCi’s Mechanism
- Cheque Truncation
-System (CTS)
- Positive Pay
-Mechanism
- If SBI sent the copy of cheque in post/courier = more time wasted.
-CTS IS FASTER because SBI sending scanned image online.
- If Mrunal (recipient) manipulated the cheque numbers e.g. using magic
-marker/eraser to write ₹5,00,000 in place  of ₹50,000 YET Roman
-(Sender) will be protected because both images will not match  → then
-cheque will be rejected by his bank.
-  🙋🏼 FAQ: I still DID NOT understand this. Ans. Watch The video lecture again at 1x speed.
-  🤔FAQ: I’ve 500 counter arguments about how James Bond villain can misuse it? Ans. NOTIMP
- 10.9.4 🐷🔖  CTS - Faster settlement in just few hours (2024)
- BEFORE
- After 2024 reform
- CTS clearance/settlement took upto 1–2 working days. Bcoz
-Bankers may not send 1–1 cheque’s scanned copy to other bank.
-Banker would do it in bulk/batches.
- called T+1 Settlement Cycle
- Settlement within few hours.
- called ‘on-realisation-settlement’
- 10.10🐷💸📡 ELECTRONIC ORDERS / DIGITAL PAYMENT
- Payment & Settlement System Act 2007 empowers RBI to regulate card payment, e-payment related
-products and services. (भगेतानो और विनोप नो प्रणल असिधविनोयेमी 2007)
- 10.10.1 💸📡CBS ( full form: Core Banking Solution /system)
-  It is a banking software with web-platform for centralized data management & branch-less
-banking. E.g. Finacle software; BanCS software; E-Kuber (used in RBI)
- 🚩👶🏻🎓 FAQ I didn’t understand this. Ans. Watch lecture, sufficiently explained in it.
- 🚩👶🏻🎓 FAQ: What is the difference between Core Banking Solution (CBS) versus Core Banking
-System (CBS)? Ans. Fundamentally it is the same thing. Dictionary word difference/legal
-pedantry/academic pedantry/hairsplittery= notimp4exam. #🕰थेड़ें-पढ़-आगे-बढ़
-�
-�❓MCQ: The term ‘Core Banking Solutions’ correct term? (UPSC Prelims-2016)
- 1. It is a networking of a bank’s branches which enables customers to operate their accounts
-regardless of where they open their accounts.
- 2. It is an effort to increase RBI’s control over commercial banks through computerization.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 17
-3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by
-another bank.
- Answer Codes: (a) 1 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
- 10.10.2 NEFT vs RTGS vs IMPS 📡
- Table 4: Digital Payment Systems- transaction limits may differ, depending on banks
- RBI's centralised payment systems (CPS)## NPCi’s IMPS
- 👩 💻 Type RBI’s RTGS: Real Time
-Gross Settlement
- ⏰RBI’s NEFT: National
-Electronic Funds
-Transfer
- Immediate
-Payment Service
- 💸 Transfer
-Amount
- Min ₹2 lakh to ₹2000
-crores (SBI). upto ₹10 lakhs (SBI).
- ₹ 1 to maximum
-₹5 lakhs
-�
-� ♂️  Target
-customers
- Bizmen wanting high
-value transactions
-instantly
- Ordinary retail customers
-(आमी जनोता की छा भगेतानो की लिलए ही)
- 🚛 Settlement
-mechanism
- 🤩Instant settlement
-(झप / तारता विनोप र)-Settles net amount
-between banks at
-interval of 30 min.
- 🤩Instant
-settlement
- ⏰ Timing BEFORE: only weekday office hours.
- After RBI reforms = available 24/7.
-24/7 on all days
-(टिदानो रता अवि रल रूप स)
- 💰 Fees BEFORE: fee + GST Tax**
- After RBI Reforms: Rs.0 fees fee + GST#
- 👨🏻 ✈️  Who can
-provide this
-facility?-BEFORE-2021: Only Banks can provide this
-facility -2021: RBI announces that non-bank entities can
-also become members of centralized payment
-systems (CPS = NEFT & RTGS). -So, in future, Amazonpay, PhonePe etc could also
-Banks + Prepaid
-Payment
-Instrument (PPI)/
-mobile-wallet
-companies like
-Phonepe,
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 18
-RBI's centralised payment systems (CPS)##
- NPCi’s IMPS
- directly allow this
- Mobikwik etc.
- # Although some banks don’t charge IMPS fees for transactions upto ₹ ”X”/- (EXACT Fig
-NOTIMP)
-  ##FAQ: 🚩👶🏻🎓 Why doesn’t RBI Merge RTGS & NEFT? Ans. RBI may have some technical
-operational reasons for it. RBI never bothered to disclose it in some big press release or
-newspaper headline. So I never bothered to do James-Bond Google search/PHD on it. Because it
-is an inefficient way of preparing for UPSC. Nonetheless, if u feel morally-outraged then send
-suggestion to RBI Governor. Until implemented, prepare things as given in handout.
-10.10.3 📡 LPSS- lightweight payment and settlement system ----
- RBI’s (emergency/backup) alternative to NEFT, RTGS and IMPS/UPI.
- To provide a temporary & portable solution during natural disasters and war. (प्रकीविताकी आपदा ये येद्ध
-क
- ी चुलता बकी प्रणलिलये बदा ही जए ता अस्थाये रूप स इसकी इस्तुमील कीर सकीता)
- Can be operated from anywhere by a bare minimum staff.
-How it works, what are the features? NOTIMP.
- 10.10.4
- 🕵
- 🏻
- ‍
- ♀
- ️
- RBI: beneficiary account name look-up facility for NEFT / RTGS (2024)
- Can u look up name of the beneficiary b4 sending ₹₹ Before After 2024-Oct Reform
- UPI Yes
- Yes
- IMPS Yes
- Yes
- NEFT & RTGS No
- →
- Yes**
- • **When the remitter (sender) enters the beneficiary’s bank account number and IFSC code
- beneficiary’s name will be displayed to the sender. (
- न
- ोबर इप कीरकी नोमी चुकी कीर सकीता ही।)
- • Benefit?: minimizes errors & frauds in money transfers.
- 🤩
- 10.10.5 💸📡 RBI’s Next Generation Treasury Application (NGTA), 2020-Oct
- Deleting from handout. Because yet to be implemented. This topic didn’t develop much after 2020.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 19
-10.10.6 📡🚩👶🏻RBI's Next-Gen RTGS to comply with ISO-XML standards
- such faaltu technical things not imp. don't waste time. plz observe PYQs given in HDT.
- 👨🏫 Mrunal comments before next section: In the digital wallet apps →  companies introduce new features &
-RBI introduces new technical norms on daily basis. We are not here to write a MBA research paper on their
-business-model & RBI regulations. Q.“sir u said x thing can’t be done in phonepe App but now it can be done…as per
-my experience!! Ans. I’ve given simple illustration to explain thing. They keep adding new features in the App.  UPSC
-asking only general broad MCQs from this. #🕰थेड़ें-पढ़-आगे-बढ़
-10.11🕵🏻 NATIONAL PAYMENT CORPORATION OF INDIA(NPCI)
-  2008: NPCi is registered under Company Act as a “Not for Profit Company”. (मीनोफा रटिहीता कीपनो)
-  Originally it was founded by 10 banks with ₹ 100cr capital. Later on in 2020: Paytm, PhonePe,
-Amazon Pay etc also became shareholders of NPCi (ये सब शयेर धरकी नो पज डोलकीर इस कीपनो की बनोये ही)
-  Objective? cost-effective payment solutions / technology for Banks. (रिरयेयेता लगेता पर बटिकीगे क्नोलज)
-  Its UPI-BHIM app & other mechanisms also help in financial inclusion of villagers & poors by
-expanding the reach of banking network.  (गेरब / गे
- ल की वि त्तये समी शनो मी मीदादा की लिलए अलगे अलगे
-त
- ाकीनोकी आविष्कोर टिकीए ही)  ✅ More abt financial inclusion  in 📑Pillar# 1D.
- 🔠  MCQ-EPFO-2023: Consider the following statements:
-Statement I: In India, the RTGS and NEFT payment systems are owned and operated by
-National Payment Corporation of India (NPCI).
-Statement II: National Payment Corporation of India is an entity promoted (=owned) by banks.
- (a) Both right, st2 explains st1
- (c) St1 is correct but St2 is wrong.
- (b) Both right, but st2 doesn’t explain st1
- (d) st1 is wrong but st2 is right.
- Above is not 100% technically correct explanation, but it is just to help you visualise the concept.
- 10.12🕵🏻 🤳NPCI  → UPI (UNIFIED PAYMENT INTERFACE)
- It is a technology for building digital payment apps based on IMPS with following features:
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 20
-QR Scan & Pay to merchants.
-You can link bank account for direct transfer of money without storing money in ‘wallet’ first.
-(unlike AmazonPay / Mobikwick etc)
- Such app can have Push transaction (e.g. Remittance to family),  Pull Transaction (e.g. monthly
-bill deduction by Electricity Co.) or even Bill sharing among friends.
- Examples of UPI based app: SBI’s SBIBuddy/Yono, Axis Bank’s AxisPay and NPCi’s BHIM.
- UPI 2.0 (2018): Upgraded version of UPI. What are its new features? How is it different than UPI
-1.0? Ans. NOTIMP #RAFTAAR 🏎 🐢
- NPCI has been signing agreements with organisations in Bhutan, Nepal, Singapore, Europe,
-Mauritius,  Srilanka etc. so that directly Indian tourists in those foreign countries can directly
-spend the money from their Indian bank account by using UPI-Based Apps.
-10.12.1 UPI: daily transaction limits 🛍️
- Max amount Category of daily transaction
- ₹1 lakh/day Normal transactions.
- ₹ 2 lakhs/day Capital Markets (e.g. Mutual Funds) Credit card payments, Loan re-payments/
-EMI, Insurance premium/fees payment etc.
- ₹5 lakh/day
- Purchase of G-Sec under Retail Direct Scheme, IPO Subscriptions. What is the
-meaning of the term? (Ref: Pillar#1C) . Medical and educational fees.
- Tax Payment to Govt (2024-Aug onwards)
- 10.12.2🤌 UPI: Push vs Pull Transactions
- UPI based apps allow for both 👉Push transactions and 👉Push transactions.
- 👉Push transactions 🤌Pull transaction
- 👉Push = when u send money by your own
-discretion e.g. sending money to a
-relative/friend based on your mood. (आपकी मीज़ी
-ये वि की स आप दा ज पस भजता ही।)
- 🤌Pull transaction = when you have given
-command that every month electricity
-company should cut the money from my bank
-account → company will pull money without
-requiring u to push/click buttons every month.
-�
-�👶🏻FAQ: Beyond that, whether “X” thing is push/pull?= Ans. NOTIMP #RAFTAAR 🏎 🐢
- 10.12.3 UPI Delegated Payments to create secondary accounts (2024-Aug) 🧑‍🧒
- e.g. Father (primary account-UPI) creates a secondary account-UPI daughter. Then she can use
-money from father’s bank account upto Rs.X limit using her mobile.
- 10.12.4RBI transaction limits on UPI123, UPI Lite (2024–10)
- UPI Service Before 2024-Oct Reform
- UPI Lite (per transaction) Rs 500 Rs 1,000
- UPI Lite (total wallet capacity) Rs 2,000 Rs 5,000
- UPI 123Pay for non-smart phones (=Basic feature phones) Rs 5,000 Rs 10,000
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 21
-10.12.5 🛍️ UPI-Lite (on-device wallet)
- User adds money from his bank account to his UPI Lite wallet on his mobile App. (e.g. Google Pay
-App, BHIM App)
- 🤩 Benefits of UPI-Lite wallet?--
- 🤩 Faster. Because No need to provide UPI-PIN number during transaction.
- 🤩 Less chances of transaction failure- even if sender’s bank server is facing technical issues.
- 10.12.6 UPI Lite vs UPI Lite-X (offline payment)
-UPI Lite
- UPI Lite X
- upto ₹500 transaction without using PIN.
- same.
- Even if sender’s bank server down it works / if
-Payment App unable to connect with Core
-Banking Solution (CBS) of bank immediately.
- same.
- However the App needs internet connectivity.
- 10.12.7 🛍️💬 Conversational payments in UPI
-doesn’t need internet. Works offline using Near
-Field Communication (NFC)  technology. But,
-User has to come online e.g. in the internet
-connectivity within 4 days of performing an
-offline transaction- for  data synchronisation.
- It will help users to chat/converse with AI-powered systems to make payments. e.g. similar to
-how Smart speakers function: ‘Hey Siri/Alexa/Google remind me to buy milk on X date.’
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 22
-�
-�Benefit? Voice command make it more convenient for blind persons to use UPI.
- 10.13 🔪PRE-SANCTIONED CREDIT LINE
- When a banker allows an account holder to borrow upto a predetermined amount of money, without
-having to apply for a loan, it is called Pre-Sanctioned Credit Line. (इसकी टिहीदा कीरनो की मीतालब नोही ही. मीख्या परक्षा मी
-इस प्रकीर की चुज नोही पछाता)
- 10.13.1 🔪🛍️ UPI: Pre-sanctioned credit line/Overdraft in UPI (2023-Apr)--
- RBI allowed Pre-Sanctioned Credit Line / overdraft facility extended to UPI.
-So, even if a person does not have balance in his bank account, still he can PAY using UPI while
-shopping. (and then later, when he gets the salary/pension/income deposited in his bank
-account, then the banker will recover the principal and interest.)
- 10.13.2 🔪 🛍️UPI: Benefits of UPI-overdraft facility= BNPL--
- Help customers in “Buy now pay later (BNPL)” format of shopping. (Ref: Pillar#1B1 for more)
- Poor people require small small amount of money/loans during last weeks of a month. They
-cannot travel to the city’s bank branch for the paperwork and banker may take many days to pass
-application. Consequently, poor villagers borrow from the local moneylender/Shroff/Baniya at
-high interest rate. UPI-Overdraft can help overcoming this to some extend. = helps in Financial
-inclusion of the poor. (गेरब की वि त्तये समी शनो मी मीदादा)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 23
-10.13.3 🛍️ UPI: Interoperable Card-less Cash Withdrawal (ICCW)
-Benefit? If physical card not inserted in ATM machine → ↓ dangers of card cloning, etc scams.
- 10.13.4  🪙🏧 UPI: facility for depositing /withdrawing money
- Over the years, following facilities/technology has been developed by NPCi
- • scan QR code➡️  transfer money from bank account via UPI ➡️ to get coins from machine
- • deposit cash in Cash Deposit Machines (CDMs) by logging into your bank account via UPI
-(no need to insert debit card in the machine)
- • withdraw cash from ATM machine  by logging into your bank account via UPI (no need to
-insert debit card in the machine)
- 10.13.5 🕵🏻 🤳NPCI  → UPI  BHIM Full form: Bharat Interface for Money (2016)
-  Money transfer app designed by NPCi. It works on Android, iOS/Apple mobiles as an APP,
- Works even on non-smart (=basic feature) phones using *99# USSD- Unstructured
-Supplementary Service Data.
-  Bank to bank / peer to peer transaction using mobile phone (xyz@upi). No need to install
-multiple apps for each bank account (SBIBuddy, AxisPay etc) just one BHIM app to use all such
-bank accounts.
- (1) App has 3 factor authentication system- as per Indianexpress (2) App has 2 factor
-authentication system as per NPCi website. (
- 🚩👶🏻
- FAQ: then which fact is true? Ans. i'd go for
-official website.)
-  Your money stays in bank account and earns interest. It’s not stored in ‘wallet outside your bank
-account’ as it happens in Mobikwick, Phonepe etc. (PS: in later stage, PhonePe etc private apps
-also included UPI type mechanism so storing money in ‘wallet’ became optional but we need not
-engage in Hairsplittery/PHD.)
-  No cards involved so no MDR or such hidden charges.
- 🔠❓ MCQ. Find Correct Statement(s) [ Prelims-2018]
- 1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account.
- 2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of
-authentication.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 24
-Answer codes: (a) 1 only
- (b) 2 only
- (c) Both 1 and 2
-(d) Neither 1 nor 2
- 10.13.6 🕵🏻 💳 NPCI  → Rupay Card Payment Gateway (2012)
-  Rupee + Payment = RuPay card is world’s 7th payment gateway similar to Mastercard, Visacard,
-China’s Union Pay. Rupay charges less fees than other companies.
-  Works in 3 channels: 1) ATM, 2) Point of Sale Device (PoS/card reader machine), 3) Online
-portals.
- Rupay debit card given free with  PMJDY (Jan Dhan) Bank account (Refer Pill#1D).
-  Rupay has signed collaboration agreements with some digital payments companies in Singapore,
-Japan etc. So, it may be used in those countries. But presently Rupay is not having the widest
-reach across all the countries unlike MasterCard and Visa.
- 🔠❓ MCQ. Find Correct Statement(s) [Prelims-2017]
- 1. NPCI helps in promoting the financial inclusion in the country.
- 2. NPCI has launched RuPay, a card payment scheme.
- Answer codes: (a) 1 only
- 🔄
- (b) 2 only
- (c) Both 1 and 2
-10.13.7 💳 Credit Card Network portability order by RBI (2024)
- (d) Neither 1 nor 2
- Before
- After 2024 Reform
- suppose client had SBI visa credit card, then he is
-stuck with Visa network,
-even if Rupay network’s cards are giving better
-discount/cashback offers on railway tickets.
- • Bank/NBFC required to give CHOICE
-to new customers to select among
-different credit card networks (e.g.
-Mastercard, RuPay, Visa etc.)
-• Existing/old credit card customers can
-also switch networks at the time of
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 25
-Before After 2024 Reform
- card-renewal, if they wish to.
- 10.13.8🕵🏻 NPCI other notable initiatives
- Table 5:  NPCi has built following mechanisms / platforms / systems / apps:
- BBPS & UPMS-Bharat Bill Payment system for monthly payments of utility bills
-(gas, electricity etc.)-2022-Jan: NPCi ‘s daughter/subsidiary company Bharat BillPay Ltd.
-Company  → launched a Unified Presentment Management System
-(UPMS) →  but technical stuff. NOTIMP4 exam
- 😤FAQ: How is BBPS vs UPMS similar or different? Ans. NOT IMP 4
-Exam. These are one-liner GK. Not PHD thesis topics!
- NFS National Financial switch. This technology runs the ATM network
- CTS Cheque Truncation System (2010) learned in previous section.
- NETC National Electronic Toll Collection provides technology support to
-the FASTag toll collection. (रजमीगे पर पथेकीर सलनो की लिलए)
- PAI chatbot Artificial Intelligence (AI) based chatbot to reply to people’s online
-queries about NPCI’s products like FASTag, RuPay, UPI, AePS etc.
-DigiSaathi Helpline
-Number (14431)
-RBI launched with help of NPCi.  - for digital payment & card payments
-problems. The No. is 1800 891 3333 (not imp4exam but personal use)
- DakPay (2020) Payment App by Department of Post and its India Post Payments Bank
- BharatQR(2016) Given in next section of this handout. Scroll down
- E-Rupi (2021) Given in next section of this handout. Scroll down
- 10.13.9🕵🏻NACH-ABPS : Hybrid / Mixed mode in MGNREGA
- Both these technologies developed by NPCi. -Mahatma Gandhi National Rural Employment Guarantee Act, 2005: Rural development
-Ministry provides 100 days work to villagers. (Ref: Pillar#6 for more)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 26
-Presently both NACH and ABPS methods used for giving salaries to MGNREGA workers. Thus,
-it’s called Mixed payment mode/hybrid mode for MGNREGA wages.--
-Government wants to shift completely to ABPS method. But due to operational and technical
-issues, deadline keeps getting delayed.
-Some poor people (without Aadhar card) given exemption from ABPS.
-Opposition party alleged that government is "weaponizing the technology"  to deny money to
-poor people without Aadhar card.
-10.14🤳🏻💸👟 DIRECT BENEFIT TRANSFER (DBT) → E-RUPI BY NPCI (2021)
-(Origin) E-rupi is an SMS /QR Code based Prepaid Cashless Electronic Voucher created by
-National Payment Corporation of India (NPCI) using its UPI Platform. [क्योआर कीडो आधरिरता प्रपडो
-न
- ोगेदारटिहीता इलक्ट्रॉविनोकी रसदा जिजस भरताये रष्ट्रीये भगेतानो विनोगेमी (एनोपसआई) नो अपनो येपआई प्लेफामी की उपयेगे कीर बनोये]--
-It is also supported by finance ministries Department of Financial Services and Health ministry’s
-National Health Authority (NHA) [वि त्त मीत्रालये की वि त्तये स वि भगे और स्वीस्थ्य मीत्रालये की रष्ट्रीये स्वीस्थ्य
-प
- ्
- रसिधकीरण नो भ इसकी मीदादा की ही]
- Can be used to provide 1) Food for mother, child, poor families under various schemes. 1)
-Medicines for TB, Corona etc. 3) Fertilizer subsidies for farmers [खोद्य दा इये उ रकी की सब्सि डो]
- Even private sector companies can issue it for 1] employees e.g. Gym membership, golf club
-membership, hotel tourism travel. 2] use it for Corporate Social Responsibility (CSR) programs
-(What is CSR? Ans. Big companies have to spend a portion of their profit for social service. Ref
-Pillar#1C2). [विनोज कीपविनोये भ कीमीचुरिरये की वि वि ध चुज की लिलए दा सकीता ही. कीरपर समीजिजकी दायियेत्व अदायेगे मी भ
-इसकी इस्तुमील ही सकीता ही]
- 10.14.1 e-RUPI vouchers: scope expanded (2023)
- Before
- After 2023
-Who can Buy E-Rupi
-codes/vouchers?
- Government &
- Companies
- 1) Government, Companies AND
- 2) now Individual persons can also buy it (e.g. for
-gifting to their maid/driver etc.)
- Who can SELL E-Rupi
-codes/vouchers?
- only Banks can
-sell
- 1) Banks AND
-2) Non-bank Prepaid Payment Instrument (PPI)
-e.g. AmazonPay, Mobikwick etc.
- Max e-rupi code-value
- ₹10,000
- ₹1 lakh
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 27
-�
-�
- 🏼♀️ FAQ: I still didn't understand this! Watch this Youtube Short-
-https://youtube.com/shorts/1qoqwvDgbLA?si=VO_aJiHdzisJVCVL
-10.14.2 💸🤳🏻🤷🏻 ♂️ 🤳🏻Interoperability Problem (इंटरऑपैरवि लिलीट)
- 🚩👶🏻FAQ: What are those technical Rules to improve interoperability? NOTIMP #RAFTAAR.
- 10.15🤳🏻💸QR CODES: COMPULSORY TO IMPLEMENT UPI/BHARAT QR FROM 2022
-1990s: 2 dimensional (2D) Quick Response (QR) Code system developed in Japan.
-Indian E-payment systems function on 3 types of QR Codes, namely,
-Table 6: ✋Difference between UPI QR vs Bharat QR? NOT.IMP.4.EXAM ⏳📚थोड़ा-पढ़ो-आग-बढ़ो
- Proprietary QR
-code
-  e.g. Paytm or PhonePe ke exclusive QR codes.
- 😰Problem? Other companies’ app may not be able to scan and pay it.
-  So, RBI has prohibited companies from launching any new
-proprietary QR code.
- UPI QR code
- Generated by UPI app of NPCi. 🤩It can be scanned by all Apps which are
-developed using UPI technology.
- Bharat QR code
- Developed by NPCi with help of Visa and Mastercard. 🤩It can be scanned
-by all Apps which are developed using UPI technology.]
-  RBI has ordered Paytm, PhonePe, MobiKwik, Google Pay etcto shift to UPI QR or Bharat QR
-  🤩Benefit? All Payment apps will be able to scan these QR codes  → 'interoperability'.
-10.15.1 🤳🏻💸rMQR (Rectangular Micro QR Code)
-  1990s: JAPANESE ENGINEER Masahiro Hara, designed the square QR code
-  Now he’s working on rMQR (rectangular QR code). rMQR can be printed in narrow spaces
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 28
-10.15.2 💳 Card Types based on Security Features:  ( रक्षु प्रणाली की हिही
-क
- ीर्ड की प्रकीर)
- HomeWork: Read about RFID & NFC from Sci-Tech book/internet.
-10.16💳 CREDIT & DEBIT CARDS  (ALSO CALLED ‘PLASTIC MONEY’)
- Table 7: 💳 Card Types based on Payment modality
- 1) Credit Card (कीर्ज पै शॉविपैग)
- 2) Debit Card (अंपै की च की पै इंस्तुमली कीर)
- If Credit card used for withdrawing money
-from ATM, then it’s a type of ‘borrowing’, so,
-bank levies interest rate.
- Debit card can be used to withdraw ₹ ₹ from
-ATM from your existing bank balance.
-So, it’s not ‘borrowing’.
- Credit card vs Overdraft?
- 1. Credit cards = for shopping. You carry card
-in your pocket. Bank may give u some
-reward-points/gifts if you spend “₹.X” per
-year
- 2.- for overdraft= you have to manually visit
-the bank branch, fillup form. It’s not in the
-form of a ‘card’. Doesn’t give u points/gifts.
-Debit card vs Overdraft?
- You should be intelligent enough to self
-understand that much. शिशक्षाकी हीर चुज की स्पूनो फाटिडोगे
-क
- ीरगे/चुम्मचु स ख़िखोलए ही वि द्यथे की मीनोसिसकी वि कीस की लिलए अच्छी
-बता नोही
- ✋Further difference
-not.imp.not.here.for.IBPS-exam
-  3) Hybrid Card / Duo Card: Single card with two chips for 1) credit card and 2) debit card. So,
-you don’t have to carry two separate cards. E.g. Indusbank Hybrid card. एकी ही कीडो मी दानो की मीज🤩
-  4) Pre-paid card: It’s a subtype of debit card. Debit card is linked to a given bank account. But
-Pre-paid card can be bought even without having account in the given bank e.g. IRCTC’s UBI
-Prepaid Card can be used for buying rail tickets, meals etc. support provided by Union Bank of
-India (UBI) and NPCi’s Rupay gateway. (इस कीडो की पस दाकी खोरदानो पड़ेंता ही। बकी खोता हीनो जरूर नोही )
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 29
-10.16.1 💳 📧 Card Tokenization (from 1/Oct/2022)
-  Tokenisation = creates a set of numbers called ‘token’ to replace/hide the sensitive card data such
-as the 16-digit account number, expiry date and security code.  (हीटिकीगे स बचुनो स्तु असल कीडो नोबर की
-जगेही कीनो/कील्पविनोकी-नोबर बनोकीर दा दा एस बता ही। ताटिकी वि क्राता की आपकी कीडो की गेप्त जनोकीर गिमील  नोही)
-  This ensures your card information is not disclosed to merchant website= protection from
-hacking. Card owner can generate Tokenization through visiting card-issuer’s/banker’s
-website/App through laptops, desktops, tablet, wearables (smartwatch) etc.
-  From 1/10/2022, this became effective.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 30
-Figure 1: थोप्पड़ा स डर नहीं लगता, Identity theft se lagtaa hai!
- 10.16.2 💳  CVC Less transactions
-  Normally, during online-transaction, customer has to enter Cardholder Verification Code
-(CVC) EVERYTIME when making payment.
-  but after the RBI’s tokenisation norms, this may not be required every time.
-10.16.3 💳 Auto-Debit/E-mandates and Additional Factor of Authentication (AFA)
- Outdated/technical- deleting from HDT. Vague idea given in above image.
- 10.17💳   🚕 CARD/TECH FOR TRANSPORT / TRAVEL
- 10.17.1 💳 🚕  National Common Mobility Card (NCMC, 2019)
- • ‘One Nation One Card Model’ by Ministry of Housing & Urban Affairs (MoHUA) with the
-help of NPCi, Bharat Electronics Limited (BEL Company), and some banks. It helps
-developing special cards to pay tickets
- →
-   Train station/train gate can open automatically,
-upon tapping the card, like in hollywood movies.
- It has 3 components: (
- घटकी ही इं की )
-• 1) NCMC Card: To be issued by banks. Nature can be Debit/Credit/Prepaid. Can be used for
-metro, bus, suburban railways, toll, parking, retail shopping etc.
- • 2) SWEEKAR: Automatic Fare Collection System. (येत्रा टिकीरये सलनो की स्वीचुलिलता प्रणल)
- 🚝💳
- • 3) SWAGAT: Swachalit / Automated Gate at railway/bus station.
-10.17.2
-  SBI’s Nation First Transit Card (2023)
- Enough to know it can be used for paying toll fees, parking fees and doing shopping.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 31
-10.17.3 💳 🚕  FASTag/NETC for paying toll fees at highways (2017)
- FASTags are prepaid rechargeable tags that allow for automatic toll
-collection at electronic toll collection gates Radio-frequency
-Identification (RFID) technology.
-  2017: National Highways Authority of India (NHAI, a statutory body under Highway ministry)
-launched 2 mobile apps MyFASTag and FASTag Partner to facilitate Electronic Toll Collection
-(इलक्ट्रॉविनोकी मीध्यमी स पथेकीर/ ल सल की लिलए रष्ट्रीये रजमीगे प्रसिधकीरण द्वार अलगे अलगे एप बनो ए गेए ही).
-  NPCi’s has developed National Electronic Toll Collection (NETC) technology to aid this.
-  🤩Benefit? faster traffic movement, tracking stolen cars.
-  From 2021, it became mandatory for all vehicles passing through tolls to have FASTags.
-  2024-25: govt planning to replace Fastag with satellite based toll collection. (Ref: Pillar#5 infra)
- 10.18💳 MDR: FULL FORM: MERCHANT DISCOUNT RATE (व्यपैरिरकी छूट दार)
- In above photo, MDR fees % is not actual number but for illustration/example.
-  MDR is the fees that a merchant must pay to his (acquirer) bank for every card transaction.
- MDR fees is shared among 3 parties 1) customer’s card issuing bank 2) merchant’s acquiring
-bank 3) payment gateway provider. (तानो पक्षा मी इस फास की ब जता ही)
-  MDR hurts merchants’ profit margin, discourages them from adopting Point of Sale (PoS)
-terminals (=card swiping machine)  →  obstacle to digital economy.  (व्यापर की मीनोफा पर असर हीता ही
-इसलिलए ही कीडो मीशनो अपनोनो मी उदासनोता टिदाखोता ही। )
- Table 8: Steps taken to address MDR issue
- RBI
-  2017: Imposed ceilings on MDR fees i.e. MDR can’t be more than “x%”
-of the transaction amount. (रिरज़ी बकी द्वार ताये समी स ज्यादा फास नोही मीगे सकीता)
- 10.18.1 💳 MDR Subsidy by MEITY
- Instrument UPI NPCI's Rupay
-Debit Card
- NPCI's Rupay Credit Card
-Mastercard/Visa’s Debit/Debit card etc
- MDR % on transaction value 0% 0%
- “x”% (NOT ZERO)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 32
- 😥 So, if a banker promotes Rupay debit card / UPI App → Banker will not earn MDR fees. So
-bankers promote MasterCard & Visacard to their customers and merchants (instead of
-Rupay/UPI). (बकीर की मीज़ी नोही आता क्योटिकी उस डोविब कीडो  येपआई एप मी MDR की फ़स नोटिही गिमीलगे।)
-  So, 2021-Dec: MEITY (Ministry of Electronics & Information Technology) announced up to
-₹2,000 MDR Subsidy to Merchant's Bank for RuPay debit cards transactions and UPI
-transactions.# (ता सरकीर नो बकीर की बल की तामीकी मीज़ी टिदाल नो की लिलए MDR नोक़ीसनो की एज़ी मी सब्सि डो दागे)
- 10.18.2
- 🙋
- 🏼
- ‍
- ♀
- ️
- FAQ: Does Rupay cards have MDR charge or not?
- Read the terms given in handout carefully.
-Rupay credit cards= Yes MDR | meanwhile, Rupay DEBIT cards= ZERO MDR.
- 🚩👶🏻🎓 FAQ: "I've 500 jaat ke PHD doubts & counter arguments about this MDR subsidy"  Ans.
-Sure. Plz waste your precious time reading egazette.nic.in/WriteReadData/2021/231960.pdf
-�
-�❓MCQ. Which one of the following best describes the term “Merchant Discount Rate”
-sometimes seen in news ? (Pre18 Set-D)
- A. The incentive given by a bank to a merchant for accepting payments through debit cards
-pertaining to that bank.
- B. The amount paid back by banks to their customers when they use debit cards for financial
-transactions for purchasing goods or services.
- C. The charge to a merchant by a bank for accepting payments from his customers through the
-bank’s cards.
- D. The incentive given by the Government, to merchants for promoting digital payments by their
-customers through Point of Sale (PoS) machines and debit cards.
- 10.18.3 Interchange fee by NPCi on sellers for prepaid wallets(2023-March)
- Technical. Deleting.
-10.18.4 💳 🏧  ATM and its Types
-  Automated Teller Machine (ATM) allow bank customer to withdraw money or check balance
-without visiting any branch of a bank. (स्वीचुलिलता रूप स नोकीदा मीद्रा दानो ल येगित्राकी टिडोब्बा)
-  ATM network works on NPCi’s NFS (National Financial Switch) technology.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 33
-Bank label Bank itself owns and operates the ATM network.
- Brown label Bank owns but operations outsourced (cash refilling truck, guard)
- Note: Some books offer different definition, but I’ve taken above definition
-from Economic Times Article 2015.(काछ दिकाताब मु व्याख्या अलग हीं मुन इ र स ल हीं)
- White label-Non-Bank owns & operates. E.g. Muthoot Finance, Tata Comm, Prism  -🚩👶🏻FAQ: What is on-tap licensing system for White-label ATM? Ans.
-Outdated topic for 2024-25.
-Micro-ATM Bankmitra manually makes entries of deposit and withdrawal for customer. He
-uses handheld device for using (debit or ATM) card & Aadhar biometrics
-(fingerprint). NPCi’s AEPS technology gives technological support for this.
-10.19💸📡🤳🏻 📈 MEASURES TO PROMOTE CASHLESS ECONOMY-2019: RBI setup Nandan Nilekani committee. -Budget imposed limits and restrictions on cash transactions (more in Pillar2:Black Money) -+ many small small things for Mains Exam. It's given in Mains Handout. This is Prelims HDT.
- 10.19.1🕵️ ♂️  💳📯 Payments Infrastructure Development Fund (PIDF) by RBI
- ₹250cr from RBI + ₹250 cr from (Banks and Card Gateway Operators) → ₹500 cr fund setup.
- Objective? Provide funding/ subsidy to  encourage merchants in the small towns, villages and
-North Eastern states to adopt point-of-sale (PoS)  card swiping machines. (भगेतानो इफ्रास्ट्रक्चर की लिलए
-विनोसिध/कीर्षों: गे , छा शहीर और उत्तर-प इलकी मी व्यापरिरये की कीडो मीशनो अपनोनो की लिलए मीदादा)
- 2021: RBI launched it. Presently scheme/fund valid upto Dec, 2025.
- Scheme description
- PM SVANidhi Govt helps the street vendor to get Biz loan. (Ref: Pillar#1D for more)
- PM Vishwakarma Govt helps artisans e.g. carpenter, potter, blacksmith, et cetera. In skill
-training Bank loans. (Ref: Pillar#1D for more)
- RBI said we’ll gives PIDF-subsidy to above beneficiaries to adopt card machines.
- 10.20🌐🤝GLOBAL MONEY TRANSFER
-10.20.1UPI facility to foreign tourists coming to India (2023)
- वि दाश व्याक्ति भरता मी बकी खोता खोलकीर येपआई ल मीबइल ऐप द्वार भरता मी खोरदार कीर सकी ऐस रिरज बकी कीदामी उठा रही ही.
-             BEFORE                       From 2023
-if such non-resident/foreigner came to India, he could not do This facility made available to
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 34
-             BEFORE
-             From 2023
-shopping using UPI money transfer from their NRE/NRO**
-bank account,
- G20 nations ke tourists coming
-to India.
- ** Non-Resident Indians/foreigners can open bank accounts in Indian banks. Such accounts are
-known as NRE/NRO/FCNR (Foreign Currency Non-Resident Account). NRE/NRO/FCNR=
-internal difference is not imp. For our exam.
- 10.20.2 Nostro-Vostro / Rupee-Ruble / Rupee-Rial Agreement?
- (Ref: Pillar#3: international trade / currency exchange)
- 10.20.3  💳 RUPAY Cards- International acceptance
- • 2023-June: RBI allowed international use of RuPay cards. That means an Indian travellers in
-use them abroad for ATM money withdrawal and shopping. 2024: implemented for
-Mauritius.
-10.20.4
- 🛍
- ️
-  UPI in Srilanka, Mauritius etc. (2024)
- • 2024-Feb: UPI facility now available in Sri Lanka, Mauritius.
- 🛍
- ️
- • This will help Indian tourists travelling to Sri Lanka and Mauritius to pay through mobile
-phones. UPI also available at Bhutan, Oman, UAE, South Asian nations, Nepal, France etc.
- 10.20.5
-  UPI@Global:
-India-UAE: LCSS: UPI-IPP linkage (2023-Aug)
- 2023: Central banks of India and UAE signed Local Currency Settlement System (LCSS)
-agreement. This will allow importers/exporters/investors/tourists to pay in their respective
-domestic currencies i.e. in Indian rupee (INR) & UAE Dirham (AED). (Without using Dollars.)
-Both nations also trying UPI-IPP linkage for easier Local Currency Settlement System (LCSS).
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 35
-Country → India UAE
- Mobile based Fast Payment Systems (FPSs) → UPI
- 🌏 💳
- Instant Payment Platform (IPP)
- 📚 More about currency exchange in (Ref: Pillar#3 Currency Exchange)
- 10.20.6
-UAE’s JAYWAN card (=RUPAY) & AANI (=UPI) based on NPCi’s model
- • National Payments Corporation of India (NPCI) is collaborating with UAE’s Al Etihad
-Payments (AEP) for creation of domestic card scheme JAYWAN in UAE.
- • UAE’s JAYWAN is based on the RuPay card. UAE’s AANI is UPI like money transfer tech.
- • It’ll help UAE to become ‘self-reliant’ (presently dependent on MasterCard visa, et cetera,
-foreign players for running the card system)
- 🌏
- MCQ. JAYWAN is the domestic Debit Card of which of the following countries? (CAPF-2024)
- (a) UAE (b) Egypt (c) Saudi Arabia (d) Nepal
- 10.20.7
-  UPI@global
-→
- Project Nexus Indian-UPI connect with some Asian nations (2024)
- • Objective? To Connect India’s Unified Payments Interface (UPI) with the Fast Payments
-Systems (FPSs) of Malaysia, Philippines, Singapore & Thailand.
- • Nodal/Coordinator? Bank for International Settlements (BIS, Basel, Switzerland)
- • Benefit? will help in crossborder payments for Person to Person (P2P) and Person to
-Merchant (P2M) within 60 seconds.
- 10.20.8 💸 📞 Financial Messaging Systems: SWIFT- Russia gets banned
- Globally (वश्वि की स्तुर पै पै र्भूर्ज ही)
- Within India (र्भूर की र्भू र ही पै र्भूर्ज ही!)
- Society for Worldwide Interbank
-f
- inancial telecommunication (SWIFT)
- Structured Financial Messaging System (SFMS)
- By a Cooperative organization in
-Belgium’s La Hulpe city (1973).
-designed by Tata Consultancy Services (TCS) for
-IDRBT (=Research arm of RBI)
- To serve the messaging function for
-Banks, NBFCs & brokers who may / may
-not have direct bank relations /
-settlement systems with each other due to
-international borders.
- to serve the messaging function in NEFT, RTGS, and
-other inter-bank, intra-bank e-transactions
-platforms within India.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 36
-�
-� Nations banned from SWIFT: 1) Iran (Capital Tehran)  2) 2022: Russia got ban, after invading
-Ukraine. This will make it very difficult for the Russian banks/ NBFCs /businessmen to send and
-receive money internationally (येक्रानो-आक्रामीण की ख़ि लफ़ रूस की स्विस्वीफ़्-वि त्तये सदाश प्रणल स प्रविताबसिधता टिकीये गेये ही जिजसकी
-च
- ुलता रूस बकी वि त्तये सस्थानो और उद्यगेपविताये की अताररष्ट्रीये स्तुर पर पस की लनो मी टिदाक्केता आएगे।)
- 10.21👨 ⚖️📜🗓 PAYMENT SYSTEM OPERATORS?
- Payment and Settlement Systems Act, 2007: RBI gives license to Payment System Operators (PSOs).
-Type of PSO
- Examples
- Umbrella Entity For Retail Payments → NPCi (learned in previous section)
- Card Payment Gateway Operator →
-MasterCard, Visa, Rupay
- Crossborder / International Remittance
- Western Union, MoneyGram
-Prepaid Payment Instrument (PPI)
- AmazonPay, Mobikwik, Phonepe, PayU,  etc
- Payment Aggregators (PAs)
- T
- hey help the merchant to collect payment from
-customer digitally e.g. Paytm, Amazon, GooglePay,
-CCBill, CCAvenue, Razerpay, Stripe etc.
-ATM Operators
- SBI etc's own ATMs
- White label ATMs by Tata, Muthoot, SREI etc
- Financial Market Infrastructure
-Provider(📑Ref: HDT-Pillar#1C)
- Clearing Corporation of India (CCI): provides digital
-infrastructure for share/bond/foreign currency deals etc.
-10.21.1 👨 ⚖️New Umbrella Entity (NUE) for Retail Payments System (2019)
-  Paytm has rival companies like Mobikwick, Phonepe; Mastercard vs Visa; SBI vs Axis Bank;
- But there is no rival company against NPCi. तामीनो समीये मी NPCi की प्रवितास्पूध कीई नोही ही
-  NPCi is an umbrella entity for retail payments system - it operates in card payment (RuPay),
-Money transfer (IMPS), Mobile Apps (UPI, BHIM), ATM Network (NFS) etc.
-   2020: RBI issued a proposal, “if any Indian company interested to compete in this (NPCi-like)
-retail payment segment, we’ll license them as new umbrella entity (NUE: खोदार भगेतानो की लिलए नोई छातार
-इकीई). Subject to these technical “XYZ” technical eligibility requirements”
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 37
-�
-�Benefits? More companies like NPCi → more competition  → more innovation and cheaper
-services for users. (स्पूध बढ़गे ता नोए आविष्कोर हीगे, टिडोजिजल भगेतानो स ए पहील स भ ज्यादा सस्तु / टिकीफायेता/बहीतार ही)
-  Facebook, Google, Amazon, Flipkart and others had applied for NUE licences. But none of them
-met RBI’s expectations.
- 2023-Jan: RBI has put this license process on halt/suspension. (जिजनो कीपविनोये नो अज डोल थे उनोकी अनोभ
-और कीविबलिलयेता स रिरज बकी सताष्ट्री नोही थे. इसलिलए अभ रिरज बकी नो इस पर मीमील की ठाडो बस्तु मी डोल टिदाये ही)
- 10.21.2 🤳🏻 Third Party Application Providers (TPAPs): Google Pay, Whatsapp Pay
- Now PayTM facing problem because:
-�
-�
- 🏼
- ‍
- ♀
- ️
- FAQ: How can NPCi give license? it is not a statutory body unlike RBI.
- Ans. Don’t mix the word ‘license’ with sarkaari type licenses (Gun /vehicle/bank etc.) Here, the word
-'license' is in context of getting permission from a company. Example, If you want to use Photoshop
-software, you have to “buy” license-key from Adobe company.
- 10.22🕵️ ♂️  💳 DIGITAL PAYMENT REGULATORY BODIES (वि यत्रणा स्थाए)
- 10.22.1 🕵️ ♂️  💳 Digital Transactions Ombudsman (DTO-2019 / लीकीप्रहीर)
-  RBI designates senior RBI officials at 21 places across India as DTO. They hear customer
-complaints upto ₹ 20 lakh against prepaid payment instruments, Mobile wallets, Apps,
-NEFT/RTGS and other digital transactions.  (टिडोजिजल लनोदानो शिशकीयेता विनो रण असिधकीर/लकीप्रहीर).
-  They can order the company / bank to fix problem and pay upto additional ₹ 1 lakh for mental
-agony of customer → Higher Appeal to Dy.Gov of RBI. (मीनोसिसकी उत्पीड़ेंनो की लिलए जमीनो/मीआज).
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 38
- If matter > ₹ 20 lakh, then matter outside his jurisdiction. Victim has to approach courts. (20 लखो
-स असिधकी रकीमी की मीमील हीगे, ता पटिड़ेंता नो न्यये/इसफा की लिलए अदालता/की मी जनो हीगे)
- 10.22.2 🕵️ ♂️  RBI: BPSS (Statutory body)
-  1998: Narsimham-II Committee on Banking Reforms suggested regulatory framework for e
-banking, card payment etc. Then,
- 2007: Payment & Settlement Systems Act (भगेतानो और विनोप नो प्रणल असिधविनोयेमी) → RBI → (Statutory)
-Board for Regulation and Supervision of Payment and Settlement Systems (BPSS: भगेतानो और
-व
- िनोप नो प्रणल की वि विनोयेमीनो और पयेक्षाण की लिलए बडो).
- All types of payment system providers have to register with RBI’s BPSS- whether bank, non
-bank, wallet/Prepaid Payment Instrument (PPI) etc. (सभ भगेतानो सस्थाओ नो पजकीरण कीर नो अविनो ये)
- 10.22.3 🕵️ ♂️ Payment Regulatory Board (PRB)
- Government wanted to setup this body few years ago. But, this is not YET setup, and no new
-developments. So, Outdated for 2025-26. Deleted for  #Prelims-RAFTAAR
- 10.23🐯📊 DIGITAL PAYMENT RELATED INDEX / COMPETITIONS/REPORTS BY RBI
- Below table given if preparing for RBI grade-B officer exam etc. I am not spending time in writing the
-ranks because poor cost benefit for #IAS-Prelims-RAFTAAR.
-�
-�📊REPORT
- RBI's Payment and Settlement Systems in India Vision 2019 – 2021
- 🐯📊INDEX/Ranking
- RBI Digital Payments Index– to check level of digital payment in various areas
-of India. (DPI टिडोजिजल भगेतानो सचुकीकी)
- 🐯📊INDEX/Ranking
- RBI’s Financial Inclusion Index– to check whether every poor person is having
-access to banking, loan, insurance pension, etc. (वि त्तये समी शनो सचुकीकी)
- 🐯🏆Competition
- RBI’s Harbinger Hackathon competition for innovation in digital payment.
- 2024 competition on 2 themes (1) ‘Zero Financial Frauds’ (2) ‘Being Divyang
-Friendly’.
- 10.24🔗💮 CRYPTO-CURRENCY & BLOCKCHAIN TECHNOLOGY
- Note: For easier visualisation, I have wrote “bitcoin” instead of “crypto-currency” at most places.
- [Definition] Cryptocurrency: is a digital / virtual currency created & stored using blockchain
-technology.टिक्राप्टोमीद्रा एकी टिडोजिजल मीद्रा ही जिजस ब्लॉकीचुनो ताकीनोकी की उपयेगे कीरकी बनोये और सग्रहीता टिकीये जता ही।
-  [Definition] Blockchain: A secured decentralized database/ distributed ledger technology (DLT)
-that maintains a continuously growing list of records / transactions. Old entries can’t be deleted,
-new entries will be visible to all. Mainly used for running cryptocurrency network. But it can also
-store any type of data. (ब्लॉकीचुनो एकी डो बस ही ज रिरकीडो की विनोरतार बढ़ता सचु की वि कीन्द्रीकीता रूप स बनोए रखोता ही।)
-  [Origin] Anarchist groups lost faith in FIAT MONEY because USA’s Subprime Crisis (2007)
-eroded the purchasing power of US Dollar. They also dislike Banks & Card Companies because
-of transaction charges on e-banking, card payments, MDR, interoperability issues. (अशसनो दा
-समीही की सरकीर द्वार जर की मीद्रा नोपसदा। इनो अशसनो दा समीही की बकी और कीडो कीपविनोये स भ नोफारता ही)
-  2009: An anonymous user (अनोमी/अज्ञाता) Satoshi Nakomoto launched a cryptocurrency ‘Bitcoin’.
- total 21 million Bitcoins, wherein 1 Bitcoin (BTC) = 108 Satoshi (the smallest unit).
- Other examples: Ethereum, Litecoin, Digicoin, Laxmicoin, Ripple, Dogecoin etc.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 39
-10.24.1
- →
- Virtual currency →
- MEME Coins e.g. Trumpcoin
- • A meme coin is a cryptocurrency named after characters, celebrities, animals, artwork, etc to
-be humorous, light-hearted
- • not issued by government. Issued by private coders / individuals.
- • 2013: Dogecoin (photo of a Japanese dog) is considered to be the first meme coin.
- • 2025: $TRUMP meme coin (photo of Trump rising a fist). 1 unit of TRUMP meme coin =
-$29 as of 25/jan/2025.
- Meanwhile,   🚩👶🏻 Zhande-walle Babushone:
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 40
-10.24.2 👝Hot Wallet vs Cold Wallet
- Just like you store money in Paytm DIGITAL Wallet. You can store Bitcoin and other
-cryptocurrency in Crypto Digital Wallets. Such wallet could be hot wallet or cold wallet.
-  🔥 Hot wallets are connected to the internet, (e.g. an online app)
-  ❄️  Cold wallets are not connected to internet (e.g. a USB pendrive).
- 10.24.3 🔗💮📉:🥶☃️ Crypto-Winter in Bitcoin Prices (र्भूव मिगर)
-  Between 2021-Nov to 2022-Jun: Bitcoin fell from ~$70,000 to $20,000 → almost 70% loss!  &
-similar situation in many other cryptocurrencies.  Some experts feard the prices will remain
-frozen in this range for upcoming months, hence using the term "Crypto-Winter" to denote it.
-(टिक्राप्टो-मीद्राओ की दामी गिगेर गेए ही और पस ऊपर नोटिही चुढ़ रही, लगेता ही टिक्राप्टो-बज़ीर सदा/ठाडो मी जमी गेये ही)
- 10.24.4 Bitcoin crosses historic $100K mark (2024-Dec)
- ₿
-  2024: 1 Bitcoin = ~$60,000 range for major majority of the year.
-  Trump and Elon Musk’s pro-crypto stance
-→
- and regulations over Bitcoins
-→
-  2024-Dec: 1 Bitcoin = $100,000
- 10.24.5
- investors speculated Prez Trump will relax taxes
- So, Investor started buying more and more bitcoins.
- Virtual currency → USA Bitcoin Strategic Reserve Fund (2025)
- →
-  1975: U.S. Strategic Petroleum Reserve was created. The USA government purchases oil when it
-is available at a cheap price.
- uses it as a buffer against global supply shocks later.
- →
-  Over the years, USA federal officers seized ~200,000 bitcoins from criminals and tax evaders.
-  2025-Jan: Trump set up a committee to create a US bitcoin strategic reserve fund from it.
-  🤩Benefit? (1) Sell Bitcoins at a profit when its price goes up. (2) Use the profit money for
-welfare programs, etc. (3) Cover the Fiscal debt without raising taxes. (Ref: Pillar#2D for more
-on Fiscal debt)
- 10.24.6 💮 Bitcoin Halving = 50% reduction in the reward to miners (2024)
- What does this chart mean? Ans. Watch lecture.
- 10.24.7 🔗💮📉:🥶☃️  Crypto-scams - Recent Global Scams
- Following portals/website/online-exchange sites help users buy/sell crypocurrency.
- Binance
- Infamous for frauds/scams.
- FTX
-  Its founder/CEO arrested for scam → 10 lakh+ investors’ money got stuck.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 41
-WazirX
-  This Indian cryptocurrency portal lost  $230+ million in a cyber-attack (2024)
- 🚩👶🏻FAQ: How were these scams conducted? Ans. Its forensic analysis not important for our exam.
-Ans. Sufficient to know these are the dangers associated with crypto currency. (ऑलीइं प्लेटफॉम र्जही हि प्टो
-मद्रा की खरदा वि की र्ज थ. 10 लीख  अंसिधाकी वि वशॉकी की च लीगय गय/ ग हुआ ही)
- 🚩👶🏻FAQ:  How is Bitcoin not traceable, we can trace it using XYZ technology?
-✅Ans. Using HTML, we can create Wikipedia website and using HTML we can also create gmail
-website. While everyone can read Wikipedia, I can’t read your gmail, unless I know your username
-password. Blockchain is similar. It depends on designer to make database “open” or
-“private/encrypted”. Beyond that, we are not here for B.Tech (Computer Science) Semester
-exam/James Bond recruitment. We just have to memorize 3-4 negative points for exam.
- 10.24.8 🔗💮:Crypto currency observations by 📙EcoSurvey’23
-  Cryptocurrencies are primarily held by a few big players/“whales”. So they can manipulate the
-prices by manipulating the supply.
-  Problems related to electricity-consumption, tax-evasion, abnormal fluctuation in prices,
-investors-fraud, no-intrinsic value et cetera.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 42
- then economic survey, 2023 give various examples of different-different legal provisions in EU,
-Japan, Switzerland, Nigeria etc. But from exam point of view not much benefit chasing it.
-  sufficient to know that coordinated international effort required to regulate the sector. OECD
-and G20 group are working in this direction. More about these intl.orgs in Pillar3B.
-  And ideally, we need strict rules over crypto-market, just like we’ve strict rules over sharemarket
- (चदा र्ड खिखलीड़ि य  ज्यादा र हि प्टोमद्रा अंपै कीब्जे म की ही. और वही खिखलीर्ड इं की प्लेई/आपैर्ति की वि यत्रित्र कीरकी,
-उ की दाम म छूछू कीर रही ही. हि प्टो मद्रा म वि र्जली की खपै , कीर-चर, आम-वि वशॉकी  धाधाली ही ही. विवभिर्भून्न
-द
- ाशॉ म इं पैर अंलीग-अंलीग की वि यम/की
-ए गए ही, लीहिकी वश्वि की रूपै  वि यम म एकीरूपै और हीकीर की र्जरूर )
- 10.24.9 🔗💮:🍋 Cryptocurrency Profit pe 30% Tax and 1% TDS in 👜🥻Budget-2022
- Refer to Pillar2A: Budget Direct Taxes to learn this matter.
- 10.25⚖️🔗💮✋ CRYPTOCURRENCY BANNED IN OTHER NATIONS?
-  Nepal, Algeria, Egypt, Morocco, Turkey , Iran etc: Bitcoin is illegal. (कीछा दाश मी टिक्राप्टो मीद्रा रखोनो
-ग
- ेरकीनोनो ही)
- Venezuela
-  Chinese prohibited the banks from providing buying/selling/investment services for bitcoin etc
-cryptocurrencies. After this crackdown, Bitcoin prices fallen ↓↓ by 30%
-10.25.1 Crypto currencies as legal tender is in some countries
- Two legal tenders: 1) Bolivar Paper currency issued by Govt 2) Petro
-Cryptocurrency issued by Govt.
- Marshall
- Islands
- Capital: Majuro, Sovereign state having free association with USA (for defense,
-social security, budget). Legal Tender was U$D. But,
- 2018-Feb: became first country to launch sovereign cryptocurrency named
-El-Salvador
- “Sovereign” [SOV]. So, now two legal tenders: US Dollars and SOV.
- El-Salvador: Two Legal tenders [1) US Dollars. [2) Bitcoin (from 2021).
- Thus, El-Salvador = 1st nation in the world to allow Bitcoin as legal tender
- 🌐 UNICEF
- 10.25.2 🔗💮:🤩 Cryptocurrency Permitted in Other Nations/Groups
-  United Nations International Children's Emergency Fund (UNICEF, HQ-
-New York,USA; 1946, later renamed to UN Children's Fund)
-  2019: UNICEF setup a Cryptocurrency Fund to accept donations in
-cryptocurrencies. It has become the first UN organization to accept
-cryptocurrency. (येविनोसफा सस्था दानो मी टिक्राप्टो मीद्रा की भ स्वीकीर कीरता ही)
- 🌐 World
-Bank
- (More about
-this org in 📑
- Pillar#3B)
-  2018: World Bank launched World’s first blockchain bond called “Bond-i”
-in Australia, denomination: Australian Dollars →  public invests, gets ~2%
-interest after 2 years.
- Blockchain bond requires less cost in server / database /paperwork
-maintenance unlike traditional bonds. 📑More in Pillar#1C: Sharemarket
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 43
-10.26🔗💮🥇 CRYPTOCURRENCY  → GLOBAL REGULATIONS
- 10.26.1 Global Regulations  → MICA regulation by EU (2023)
-  European union (EU)’s rules called the Markets in Crypto Assets (MiCA)
-  To protect people from scams /frauds in crypto currency investment.
-  To combat tax-evasion, money laundering (i.e. converting black money into white) AND terror
-f
- inance. Doesn’t regulate central bank digital currencies (CBDC).
- Doesn’t regulate nonfungible tokens (NFTs).
- 10.26.2 Global Regulations  → CARF Framework by OECD (2022)
-  Crypto-Asset Reporting Framework By OECD (Organisation for Economic Co-operation and
-Development) Objective? Similar to EU’s MICA Rules.
- 10.26.3 🔗💮🥇 Cryptocurrency  → Stable-coins
-  Stablecoin is a type of cryptocurrency whose price is backed by a reserve asset like gold / dollar /
-f
- iat currency e.g. Facebook’s proposed ‘Libra’, Tether, Basecoin, and TrueUSD.
-  😰But, stablecoins challenges: 1) money laundering  (धनोशधनो / कील धनो की ध बनोनो) 2) terror
-f
- inancing (आताकी वि त्तपर्षोंण) 3)  lack of consumer protection  (उपभ
-सरक्षाण की कीमी) 4) financial
-frauds (वि त्तये धखोधड़ें). 2019: France, EU, G20 group opposed. (बड़ें दाश/सगेठानो इसकी वि रध मी ही)
- 10.26.4 World Coin Project (2021–22)
- Pros and Cons? Similar to the Aadhaar card:--
- Pros: IF governments across the world ACCEPT this as “identification proof”= easier to avail
-various government schemes benefits /college admission / passport application etc. Time-trouble
-saved. (येटिदा दाश वि दाश की सरकीर इस एकी आसिधकीरिरकी पहीचुनो पत्रा की रूप मी मीनो ल ता गेरब की वि वि ध येजनो स्कूल कीलज
-द
- ाख़िखोल आटिदा मी कीफा सवि ध ही सकीता ही)
- Cons: concerns over privacy / misuse. (विनोजता की हीनोनो. दारुपयेगे की भये)
- 🔠❓MCQ. Find correct statement(s) about Bitcoin? [UPSC-CDS-2017-I]
-1. It is a decentralized virtual currency.
-2. It is generated through complex computer software systems.
-3. The Reserve Bank of India recognized it as a legal tender in January 2016.
-Answer Codes: (a) 1 only
-(b) 1 and 2 only
- (c) 2 and 3 only
-(d) 1, 2 and 3
- 🔠❓ MCQ. Find correct statement(s) about “Blockchain Technology” [UPSC-Prelims-2020]
- 1. It is a public ledger that everyone can inspect, but which no single user controls.
- 2. Structure and design of blockchain is such that all the data in it are about cryptocurrency only.
- 3. Applications that depend on basic features of blockchain can be developed without anybody’s
-permission.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 44
-Answer Codes: [a) 1 only
- [b) 1 and 2 only
- [c) 2 only
- [d) 1 and  3 only
- 10.27🐯🔗💮 CENTRAL BANK DIGITAL CURRENCY (CBDC) कीद्राय की  ड़िर्डभिर्जटली मद्रा
- Year
- Nation
- Paper Currency
- CBDC
- 2020
- 2021
- Bahamas (Capital Nassau) –
-1st nation in the world to
-issue CBDC##
- Nigeria (Capital Abuja)
- Bahamaian Dollar
-BSD
- “digital B$”, also called ‘sand
-dollar’. issued Non-Interest
-Bearing CBDC
- Naira
- the “eNaira”-Non-Interest
-Bearing CBDC.
- ##🚩👶🏻🎓Marshal island launched SOV currency in 2018 then shouldn’t we call it the first country
-to launch CBDC? why above table says Bahamas is 1st country to launch CBDC?
-  Ans. Big Newspapers using such headlines. I didn’t bother to write/ask to their chief-editors. If
-asked in Exam, then tick MCQ depending on options.
-  China, Britain, Japan, Singapore, Sweden have also started such experiments.
- 👜🥻Budget-2022 announced issuance of Digital Rupee using blockchain technology).
- 10.27.1
- 🚩👶🏻
- Zhande-walle Babushono ke liye special instruction: (
- अ
- ंत्रि म च )
- • Following are the features told by the (A) Govt to the Parliament and (B) RBI governor in a
-press release. So, accept and memorize it.
-• Please
-do not waste your time engaging in academic/legal debates - if you value your time
-and wish to complete the syllabus in a timely fashion.
- 10.27.2
- 💮
- Indian CBDC symbol (e₹)
- • Normal rupee = ₹ or INR.
-10.27.3
- (e₹) CBDC wholesale vs Retail
- CBDC rupee = e₹ or eINR.
- 💮
-  Presently RBI doing trials/experiment/pilot-studies in two segments:
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 45
-Type
- CBDC-Retail (e₹-R)
- CBDC-Wholesale (e₹-W)
- Trial
-Purpose
- • Person to Person (P2P)
-• Person to Merchant
-(P2M) transactions.
- • Secondary market transactions in
-government securities
- • Interbank borrowing for short-term loans
- • Crossborder payments.
- Details
- given in present handout 1A1
- Ref: Pillar#1C to understand these terms.
- 10.27.4
- (e₹) Indian CBDC = digital token of legal tender
- 💮
-  Indian CBDC (e₹) is based on blockchain technology.
-  Indian CBDC (e₹) is a digital token that represents legal tender.
-  (e₹) created under RBI Act, 1934 by amending some sections in 2022.
-  RBI has issued (e₹) on behalf of Government of India. [ FAQ:
-�
-�
- 🏼
- ‍
- ♀
- ️ I have legal arguments against
-this. Ans. ACCEPT it- bcoz Government said this in Parliament.]
-  (e₹) is a liability of the RBI e.g. similar to cash note ” I promise to pay the bearer on demand sum
-of ₹100 rupee”.
-  It is being distributed through financial intermediaries, i.e., banks.
-  Just like cash, it (e₹) will not earn any savings interest.
-  It offers features of physical cash like trust, safety and settlement finality.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 46
-10.27.5
- CBDC →  Permanent deletion of transactions to keep e₹ anonymous like cash
- →
- Note: This is proposed. This is not yet done. As of 15_Aug_24. सबडोस द्वार भगेतानो की क़्त नोक़ीदा जस गेपनोयेता
-10.27.6
- (e₹)
-न
- ोही रहीता। इसलिलए जबताकी सबडोस की लनोदानो की टिडोजिजल रिरकीडो की क़ीयेमीरूप स टिडोल /विनोरस्तु नो टिकीये जए, इसमी १००% गेपनोयेता नोही ही।
-�
-� →
- Settlement finality
-  “settlement finality” = there is no risk of reversal or cancellation after the financial transaction is
-complete. e.g. Cash or CBDC-e₹. (एकी बर भगेतानो कीर टिदाये ता टिफार समीनो प की पस पस गेये।  उसकी उल नोही सकीता।)
-  Whereas, if a payment is made via Credit card/ cheque-book
-→
- customers can later block the
-payment by contacting the banker within a time-limit. So they (creditcard / cheque) do not have
-instant-settlement finality. (उधर आप बकी मी शिशकीयेता कीर की भगेतानो की रकी सकीता ही।)
- 10.27.7
-  🙋🏼‍♀️FAQ: can we say that as mode of payment (UPI/Debit Card/NEFT-RTGS) also has
-settlement finality? Ans. I copied only that much which is given in Newspaper/Press-release. I
-did not become Sherlock Holmes to do find further info/PhD. Feel free to delay your syllabus
-completion by asking ChatGPT.
- 💮
- (e₹) Indian CBDC = no interest earning (
- ह
- ी मिमलीग ब्यार्ज।)
- • (e₹) stored in a separate digital wallet/separate mobile created by the bankers.
- • (e₹) does not earn savings interest rate, unlike normal bank deposits (because you are
-keeping it with yourself in a digital wallet. So bankers do not treat it as a deposit).
- • (e₹) can be converted to other forms of money, like deposits with banks. But then you will
-have to move that money out of your digital wallet
-→
- 10.27.8
- क
- ीमीनो ही ता उसकी टिडोजिजल ब स स्थानोन्तरिरता कीरनो हीगे।]
- 💮
- (e₹) CBDC - programability & offline features
- then you cannot use it as (e₹) [
- ब
- ्
- य
- ाज
-• Presently (e₹) can be used for Person to Person (P2P) and Person to Merchant (P2M)
-transactions. 2024-Feb: RBI proposed two new experiments:
- • (1) Offline functionality in areas with poor or limited internet connectivity.
- • (2) Programability.  (given below)👇
- Programability
- Example
- Biz Travel
-  e.g. If Adani allows a company budget of ₹10,000 (e₹) for his employees to
-use for buying railway tickets only.
-→
- buying table chairs, IPL tickets, etc.
-  then employees cannot use it for
-Expiry/Validity  e.g. The university gives ₹10,000 (e₹) stipend to students to buy books within
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 47
-1 month of admission.
- If student does not buy the books, then the money will be returned back to
-the university.
- Geographical  e.g. It cannot be used outside these XYZ GPS coordinates.
-�
-�
- 🏼
- ‍
- ♀
- ️
- FAQ: Aren’t these features similar to the e-Rupi gift cards by NPCi?
- Ans. Don’t make khichdi of RBI’s product vs NPCi’s product. View them as separate photo frames.
- Observe the PYQs. UPSC unlikely to ask you compare/contrast between them two.
- 🐎✅🐂✋
- Be focused on the track like a race horse. Don’t loiter like a street-bull.
- 10.27.9 E-Rupee vs E-Rupi
- Term
- E-Rupee
- E-Rupi
- Founder
- RBI
- NPCi
- Feature
- Central Bank Digital Currency.
- Digital GIFT CARD / SMS Code to
-help beneficiary do shopping.
- Fiat money and
-legal tender?
- Yes
-10.27.10
- No. Because, this is not money. This
-is a tool to use money.
- 🐯🔗💮= 👌🥰Benefits of CBDC (कीद्राय की ड़िर्डभिर्जटली मद्रा की फॉयदा)
- CBDC/ Sovereign Digital Fiat Money / Digital Base Money will provide following benefit
- 1. ↓  Cost printing and transporting physical currency. (नो छापनो की लगेता और परिर हीनो खोचु मी कीमी)
- 2. ↓  Scope for counterfeiting. (जल नो बनोनो मीब्सि ल)
-3. ↑ Traceability, ↓Anonymity: (ढूँढूँनो आसनो, गेमीनोमी/अज्ञाता रहीनो मीब्सि ल)
- a. Whether money is reaching the intended beneficiary or not?  (लभथे की येजनो की पस गिमील
-ट
- िकी नोही)
- b. From where did the businessman accumulate this money, did he pay an appropriate
-amount of tax or not? Else auto-alert to the Income tax department for tax evasion.
-(कीरचुर पर विनोगेरनो आसनो)
- 4. Possible to develop programmable currency. E.g. govt transferring ₹6000 in poor farmer’s
-account with condition ke it must be spent WITHIN next 15 days for buying seeds/farming tools
-ONLY.
- 5. Global money transfer more easier. E.g. in future China may give DIGITAL YUAN currency
-LOANS directly to Ghana Without converting into US Dollars and without using SWIFT
-messaging system.
-+ many other things but they are more relevant for Mains rather than Prelims.
- 10.27.11
- 🐯🔗💮=  ✋🥵 Challenges of CBDC (च वि य)
- 1. 😰 Digital Divide, Financial Literacy, Access Points: (टिडोजिजल उपकीरण की उपलब्धता की खोई,  वि त्तये
-सक्षारता की भ ,  टिडोजिजल भगेतानो इस्तुमील कीरनो की पहुचु विबदाओ की कीमी)
-a. Not everyone has electronic gadgets or internet connectivity, (सबकी पस इ रनो नोटिही)
- b. Not everyone knows how to operate bank account digitally, (सबकी इस्तुमील कीरनो नोटिही आता)
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 48
-c. Not every village shopkeeper accepts payments in the digital form. (दाकीनोदार नोक़ीदा मीगेता ही)
- 2. 😰 Cyber Terrorism/Nuclear Attack/Natural Disaster. If electricity stops → economy will stop
-functioning.  (सइबर आताकी दा / परमीण हीमील / प्रकीविताकी आपदा: वि द्यता उपकीरण बदा ता अथेव्यास्था बदा)
- 3. 😰 Maintaining the blockchain   → 24/7 use of server/electricity  →  e-waste, pollution. (प्रदार्षोंण)
- 10.27.12
-�
-�📲
- (e₹) CBDC - Interoperability permitted with UPI QR Codes
- • 2022–23: CBDC trials/experiments started in a few cities.
- • So bankers have developed separate apps to use CBDC money
- App
- Before
- AFTER 2023-Sept
- (1) SBI Yono App
-(Normal money)
- can scan & pay UPI-QR codes
- can scan & pay UPI-QR codes
- (2) SBI-e₹ App
-(To use CBDC money)
- can’t scan UPI-QR codes. It required
-separate codes
- can scan & pay UPI-QR codes
- Interoperability?
- 10.27.13
-�
-�📲
- ✋🚨
- Absent/Denied by RBI
- ✅
- Present / permitted by RBI
- (e₹) CBDC wallets:  Non-banks can also create wallets (2024-April)
- Before
- After
-banks had created wallets/apps for using CBDC e.g.
-(1) HDFC Bank Digital Rupee App (2) eRupee App by SBI
- Non-banks e.g. Phonepe, Amazonpay could not create such wallet/apps.
- yes available
- Now RBI allowed
-�
-� MCQ.Pre-2023: Find correct about Central Bank digital currencies,:
- (1) It is possible to make payments in a digital  currency without using US dollar or SWIFT system.
- (2) A digital currency can be distributed with a condition programmed into it such as time-frame for
-spending it. Codes: (a) 1 only
-(b) 2 only
-(c) Both 1 and 2 (d) Neither 1 nor 2.
-�
-� MCQ.Pre-2024: Find correct about digital rupee:
- 1. It is a sovereign currency issued by the RBI in alignment with its monetary policy.
- 2. It appears as a liability in RBI's balance sheet. 3. It is insured against inflation by its very design.
- 4. It is freely convertible against commercial bank money and cash.
- Codes: (a) 1 and 2 only (b) 1 and 3 only (c) 2 and 4 only (d) 1, 2 and 4
- Note: we'll solve this MCQ after finishing Pillar1A2 (monetary policy) since terms given in st1 and
-2 required understanding of Pillar#1A2.
- 10.28💠≠ ❇️  FUNGIBILITY?
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 49
-Item Can it be
-subdivided in
-smaller units?
- Is mutual substitution possible in terms of value? Is it
-fungible?
- ₹500 Note Yes ₹100x 5
-Notes=500
- Yes ₹100 x 5 Notes can buy same quantity of
-goods as a single ₹500 Note
- ✅Yes
- 1kg gold
-bar
- Yes 100gm x 10
-biscuits=1kg gold
-bar
- Yes 100gm x 10 biscuits can buy same quantity of
-goods as a single 1kg gold bar
- ✅Yes
- 1Bitcoin 1BTC=10^8 Satoshi
-coins
- Yes 1BTC’s value = 10^8 Satoshi coins. So,
-theoretically, they buy same quantity of goods
- ✅Yes
- 100 gm
-single
-Diamond
- Bigger single piece diamond considered to be more precious/valuable
-than small-small pieces diamond. So, 100gm Single_Big_Diamond
-=NOT equal 1gm x 100 small_Diamonds, in terms of value
- ✋No
- Shares,
-Bonds
- NOT possible (How Ref: 📑Pillar#1C: SEBI sharemarket) ✋No
- NFT NOT possible. Explained in separate section. ✋No
- 10.28.1 (e₹): Fungibility of CBDC 💮
- Doubt: if we program the CBDC currency for specific use - example only for purchasing of books, then
-it is no longer fungible! Because we cannot use it for any other purpose e.g. buying Pizza!!
-In that case, as soon as the book is purchased, the money goes to the bookshop owner  money →
- again becomes fungible. Because the bookshop owner can use the money for any purpose
- If the student doesn’t buy the book,  CBDC-money goes back to the school, and fungibility is →
- restored (because the school admin can use it for any other purpose).
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 50
-“Thus, programmability does not violate/destroy fungibility (of Rupee), it is only a specific use
-binding.”- said RBI Governor. (र्भूली की शॉ-प्र मिमग  CBDC ऐ सि मिम कीर दिदाय र्जए, की कीछू ही चर्ज उ खरदा की
-ह
- ी. लीहिकी ड़िफॉर र्भू CBDC-रुपैय फॉर्ज ली ही. )
- 10.28.2 💠 Non-fungible token (NFT: ग़र-फ़ंर्ज ली टकी)
-  (Definition) NFT is a Digital file, photo file (JPEG), Animated image (GIF), music file (MP3) etc
-Stored using blockchain Technology. ब्लॉकीचुनो प्रद्यगिगेकी द्वार सग्रटिहीता फ़ , सगेता इत्याटिदा की टिडोजिजल फाइल ही।
- NFT may also be used in storing physical assets. E.g. Ownership document of house, boat,
-physical-painting etc. (भविताकी सम्पचित्तये की मीलिलकी दास्तुज की भ टिडोजिजलकीरण कीर एनोएफ़ मी सग्रटिहीता कीर सकीता ही)
-  NFT cannot be subdivided. Their individual sub-units cannot be exchanged with one another.
-Because their values are different based on buyer’s preference. So NFTs are non-fungible. (अलगे
-(Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 51
-अलगे चिचुत्रा/सगेता कीविताऑ की मील्य, ग्रहीकी की पसदा स टिहीसब स अलगे अलगे ही सकीता ही इसलिलए उन्ह छा कीड़ें मी वि भजिजता कीरनो /
-आपस मी उनोकी अदाल-बदाल नोही ही सकीता.)
-  Mass Hysteria going on to purchase such digital assets from new-age artists using (mostly)
-Ethereum cryptocurrency. (नोए ज़ीमीनो की टिडोजिजल चिचुत्रा/धनो की एनोएफा
-रदानो की समीटिहीकी पगेलपनो चुल रही ही.)
-  e.g. American digital artist Beeple’s Painting JPEG auctioned for $70 million
-  E.g. Robot Sophia created a digital painting/art "Sophia Instantiation" (NFT)→  Auctioned for
-more than 6 lakh dollar$.
- Many sportsmen, filmstars also creating NFT out of their posters/autographs but we’ll not waste
-preparing all that General Knowledge (GK). (मीशहूर ख़िखोलड़ें और टिफ़ल्म अशिभनोता भ इस जर कीर रही ही)
- 10.28.3 💠🤩NFT-Charms? (आकीर्षणा)
-  1) Multimedia Creators: Easier to trade digital assets (टिडोजिजल चिचुत्राकीर/धनोकीर की लिलए कीविताये की विबक्रा)
-  2) Easier to verify ownership records. Prevent plagiarism. (सपता की मीलिलकी/स्वीगिमीत्व की जचु कीरनो आसनो.
-न
- ोकीलचिचुये की लिलए जलसज कीरनो / बनो दास्तुज बनोनो मीब्सि ल.)
-  3) Cinema / Sports tournament / Travel tickets etc can be stored with ownership records. Helps
-in Paperless administration. (सिसनोमी / खोल /परिर हीनो की टि की की विबक्रा टिडोजिजल स्वीरूप स. कीग़ज़ी मी प्रशसनो.)
- 10.28.4 💠😰NFT-Challenges: (च वि य)
-  1) Started in 2017→  steep price rise in 2021. Single GIF /meme file selling for millions dollar$
-worth of cryptocurrencies. This mass-hysteria / investment-bubble will collapse. Investors will
-lose money. (ये समीटिहीकी पगेलपनो /विनोश की गेब्बार फा जएगे ताब विनोशकी की पस डोब जएगे.)
- 2) Money laundering & terror Finance. How: Ref Pillar#2.  (धनोशधनो और आताकी वि त्तपर्षोंण मी दारुपयेगे)
-  4) Maintaining such computer blockchain record → Electricity consumption↑→  CO2
+1	Barter system	1# A1
+2	"Money
+=> Primary functions
+=> Secondary(S-T-D) 3functions
+=>Contingent functions "	1# A1
+3	Commodity Money(Intrinsic Value)	1# A1
+4	"Metallic Money
+=> Full Bodied
+=> Token Coins"	1# A1
+5	Paper Money	1# A1
+6	Fiat Money	1# A1
+7	Legal Tender	1# A1
+8	Mobile Aided Note Identifier	1# A1
+9	Demonetization of fiat money	1# A1
+10	"Paper orders
+=> Cheque
+=>  Demand Draft (DD)"	1# A1
+11	"Parties of cheque
+=> Drawer (Sender)
+=> Drawee (Bank)
+=> Payee (Recipient) "	1# A1
+12	"Types of cheque
+=> Stale
+=> Post-dated
+=> Open / bearer cheque:"	1# A1
+13	Indian Financial System Code	1# A1
+14	Magnetic Ink Character Recognition	1# A1
+15	"Overdraft
+Loans"	1# A1
+16	Cheque Truncation System	1# A1
+17	Positive Pay Mechanism	1# A1
+18	Electronic orders / digital payment	1# A1
+19	Core Banking Solution /system	1# A1
+20	RBI's centralised payment systems	1# A1
+21	Real Time Gross Settlement	1# A1
+22	National Electronic Funds Transfer	1# A1
+23	National Payments Corporation of India	1# A1
+24	NPCI's Immediate Payment Service	1# A1
+25	Lightweight payment and settlement system	1# A1
+26	Bharat Interface for Money	1# A1
+27	Unified payment interface	1# A1
+28	"Push Transactions
+Pull Transactions"	1# A1
+29	Npci  → upi  → 123pay for featurephones	1# A1
+30	UPI-Lite	1# A1
+31	UPI-Lite + NFC = Offline Retail Payment / Tap-and-pay	1# A1
+32	Rupay card payment gateway	1# A1
+33	Merchant Discount Rate	1# A1
+34	Ministry of Electronics & Information Technology	1# A1
+35	National Electronic Toll Collection	1# A1
+36	Radio-frequency Identification technology.	1# A1
+37	National Financial switch	1# A1
+38	National Automated Clearing House	1# A1
+39	Aadhar Enabled Payment System  	1# A1
+40	Aadhaar-based Payment System	1# A1
+41	"Pre-sanctioned credit line
+=> Overdraft
+=> Credit Card"	1# A1
+42	Pre-sanctioned credit line/Overdraft in UPI 	1# A1
+43	Buy now pay later	1# A1
+44	Interoperable Card-less Cash Withdrawal	1# A1
+45	QR Code based Coin Vending Machine	1# A1
+46	E-RUPI	1# A1
+47	Rectangular Micro QR Code	1# A1
+48	"Plastic Money
+=> Debit Card
+=> Credit Card"	1# A1
+49	Card Tokenization	1# A1
+50	Cardholder Verification Code	1# A1
+51	National Common Mobility Card	1# A1
+52	Interchange fee by NPCI	1# A1
+53	"Automated Teller Machine
+=> Bank label
+=> Brown label
+=> White label
+=> Micro-ATM"	1# A1
+54	Payments Infrastructure Development Fund	1# A1
+55	"Global money transfer
+=> India-UAE: LCSS: UPI-IPP linkage "	1# A1
+56	Local Currency Settlement System	1# A1
+57	Financial Messaging Systems: SWIFT	1# A1
+58	Structured Financial Messaging System	1# A1
+59	"Payment system operators
+=> Umbrella Entity For Retail Payments
+=> Card Payment Gateway Operator
+=> Cross-border / International Remittance
+=> Prepaid Payment Instrument (PPI)
+=> Payment Aggregators (PAs)
+=> Financial Market Infrastructure Provider "	1# A1
+60	Clearing Corporation of India	1# A1
+61	Digital payment regulatory bodies	1# A1
+62	Digital Transactions Ombudsman	1# A1
+63	Board for Regulation and Supervision of Payment and Settlement Systems 	1# A1
+64	Payment Regulatory Board	1# A1
+65	Digital payment related index / competitions/reports by RBI	1# A1
+66	Crypto Currency & Blockchain Technology	1# A1
+67	"Hot Wallet
+Cold Wallet"	1# A1
+68	Crypto-Winter	1# A1
+69	"Cryptocurrency Global Regulations
+=>  MICA regulation by EU
+=>  CARF Framework by OECD"	1# A1
+70	Stable coins	1# A1
+71	World coin project 	1# A1
+72	Central bank digital currency 	1# A1
+73	Non-fungible token 	1# A1
+74	"Demand of money: Liquidity Preference Theory
+=> Transaction motive
+=> Precautionary motive
+=> Speculative motive"	1# A2
+75	Demand of money : Factors affecting	1# A2
+76	Net Demand and Time Liabilities	1# A2
+77	"Deposit Types
+=> Demand Deposit
+=> Time Deposit"	1# A2
+78	"Demand Deposit
+=> Current Account
+=> Savings Account"	1# A2
+79	"Time Deposit
+=> Fixed Deposit
+=> Recurring Deposit"	1# A2
+80	Balancesheet	1# A2
+81	"Liquidity of assets
+=> Highly liquid assets
+=> Relatively illiquid assets
+=> Liquidity injection / infusion"	1# A2
+82	Liquidity Trap 	1# A2
+83	"Measures of money supply
+=> RBI's monetary policy
+=> Finance Ministry's Fiscal policy"	1# A2
+84	"Money supply Indicator:
+=> M0(CREATION OF MONEY)
+     Reserve Money / Government Money / High Powered Money
+=> M1(Narrow money)
+=> M2 (Narrow money)
+=> M3(Aggregate Monetary Resources / Aggregate Money Supply)
+=> M4"	1# A2
+85	"Banking:
+Types of Banking
+=> Full Reserve Banking
+=> Fractional Reserve Banking"	1# A2
+86	"Short-term loans( bank/Non-Banking Financial Companies (NBFC) loans)
+=> Call Money
+=> Notice Money
+=> Term Money"	1# A2
+87	Money Multiplier	1# A2
+88	Fiscal Responsibility And Budget Management Act	1# A2
+89	Monetisation of deficit 	1# A2
+90	Currency in Circulation	1# A2
+91	Velocity of Money Circulation	1# A2
+92	"Monetary Policy
+=> Monetary Policy by RBI
+=> Fiscal Policy by Finance Ministry"	1# A2
+93	Monetary Policy Structure	1# A2
+94	Monetary Policy: Quantitative Tools( General or Indirect Tools)	1# A2
+95	Cash Reserve Ratio	1# A2
+96	Statutory Liquidity Ratio	1# A2
+97	Loanable Funds & Loan Interest Rates	1# A2
+98	Consumer Price Index	1# A2
+99	Net Interest Margin	1# A2
+100	Liquidity Overhang	1# A2
+101	Incremental Cash Reserve Ratio	1# A2
+102	Bank Run	1# A2
+103	"Repo( Repurchase agreement)
+Types of Repo
+=> RBI Repo
+=> Market Repo"	1# A2
+104	Repo rate/policy rate/benchmark interest rate	1# A2
+105	Marginal Standing Facility	1# A2
+106	"Liquidity Adjustment Facility
+=> LAF-Repo Rate
+=>  LAF-Reverse Repo Rate "	1# A2
+107	Neutral Repo rate/Terminal Repo rate	1# A2
+108	RBI's new loan window	1# A2
+109	Long Term Repo Operations	1# A2
+110	Targeted Long Term Repo Operations	1# A2
+111	"Special LTRO
+Window (SLTRO)"	1# A2
+112	On-Tap Liquidity Windows for Healthcare	1# A2
+113	On-Tap Liquidity Windows for Contact Intensive Sectors	1# A2
+114	All India Financial Institutions	1# A2
+115	"Reverse Repo Rate
+Types of Reverse Repo Rate
+=> Fixed
+=> Variable Rate Reverse Repo"	1# A2
+116	Bank Rate	1# A2
+117	Standing Deposit Facility	1# A2
+118	Marginal Standing Facility	1# A2
+119	"Open Market Operations
+Types
+=> Repo OMO
+=> Outright OMO
+Primary Market & Secondary Market"	1# A2
+120	Operation Twist	1# A2
+121	Retail Direct Gilt Account	1# A2
+122	"Corporate Bonds:
+factors that determine its interest rate "	1# A2
+123	Bond Yeild	1# A2
+124	"G-SAP
+(Secondary Market) G-sec acquisition programme"	1# A2
+125	Monetary Policy:  Qualitative  Tools	1# A2
+126	Moral Suasion & Publicity	1# A2
+127	Direct Action	1# A2
+128	Margin Requirements / Loan to Value 	1# A2
+129	Selective Credit Control	1# A2
+130	Priority Sector Lending	1# A2
+131	"PSL Shortfalls:
+=> NABARD’s Rural Infrastructure Development Fund
+=> National Housing Bank
+=> MUDRA
+=> Urban Infrastructure Development Fund"	1# A2
+132	PSL Certificates	1# A2
+133	"Monetary Policy 3 ways:
+=> Exchange rate stability
+=> Multiple Indicators
+=> Inflation targeting"	1# A2
+134	Monetary Policy Committee 	1# A2
+135	"Monetary Policy Stance
+=> Calibrated Tightening
+=> Neutral
+=> Accommodative"	1# A2
+136	BPLR, Base RateMCLR, External Benchmarks	1# A2
+137	Bank's Lending Rates	1# A2
+138	"Loan Interest Rates
+=> Fixed Rates
+=> Floating Rates"	1# A2
+139	Fixed Interest Loan	1# A2
+140	External Benchmark Loan	1# A2
+141	"Floating Interest Loans
+=> Reset
+=> Foreclosure"	1# A2
+142	"Loan Types based on Installments
+=> EMI Loan
+=> Bullet Repayment Loan"	1# A2
+143	Limitations Of Monetary Policy	1# A2
+144	Stagflation	1# A2
+145	Impact of US Policy	1# A2
+146	Hard Landing	1# A2
+147	Fed Tapering	1# A2
+148	Black Swan	1# A2
+149	Cantillon Effect	1# A2
+150	Liquidity Trap	1# A2
+151	RBI's Functions	1# B1
+152	RBI's Structure	1# B1
+153	RBI Offices & Departments	1# B1
+154	Agency Banks Of RBI	1# B1
+155	"RBI's Notable Portals
+=> UDGAM Portal (Unclaimed Deposits Gateway To Access inforMation)
+=> PRAVAAH Portal  (Platform for Regulatory Application,
+Validation And AutHorisation)
+=> Daksh Web Portal
+=> E-Kuber Portal"	1# B1
+156	Financial Intermediary	1# B1
+157	Non-Banking Financial Institutions	1# B1
+158	Classification of Banks	1# B1
+159	Banks	1# B1
+160	Non Banks	1# B1
+161	Commercial Banks	1# B1
+162	Public Sector Banks	1# B1
+163	Private Sector Banks	1# B1
+164	"Foreign Banks
+=> Foreign Bank in India
+=>  Indian Public Sector Bank
+=> India Private Sector Bank"	1# B1
+165	Foreign Banks - Reciprocal Basis	1# B1
+166	Universal Banks	1# B1
+167	Differential Banks	1# B1
+168	Rural Financial Intermediaries	1#B1
+169	Regional Rural Bank	1# B1
+170	Local Area Bank	1# B1
+171	Small Finance Bank	1# B1
+172	Payment Banks	1# B1
+173	India Post Payment Bank	1# B1
+174	Wholesale Bank	1# B1
+175	"Cooperative Banks
+=> Meaning
+=> Scams, Legal Reforms, Challeges
+=> Classifications"	1# B1
+176	"Cooperative Banks
+=> Multistate Cooperative Banks
+=> Urban Cooperative Banks
+=> Rural Cooperative Banks"	1# B1
+177	"Rural Cooperative Banks
+=> Short-Term Loans
+=> State Cooperative Banks
+=> District Central Cooperative Banks
+=> Primary Agriculture Credit Society( Not a bank)
 
-Emission. (इस डो बस की सचुलनो मी बहूता ज़्यादा विबजल खोपता हीता ही, जिजसस कीबनो डोइऑक्साइडो उत्साजनो मी बढ़तार.)
-�
-�❓MCQ. Find correct statements abt Non-Fungible Tokens (NFTs) (Prelims-2022)
- 1. They enable the digital representation of physical assets.
- 2. They are unique cryptographic tokens that exist on a blockchain.
- 3. They can be traded or exchanged at equivalency and therefore can be used as a medium of
-commercial transactions.
- Codes: (a)        1 and 2 only
- (b)        2 and 3 only (c)        1 and 3 only        (d)        1, 2 and 3
- 10.28.5 ✍️ Mains Answer Writing
-From this particular topic, the Mains angles are centred around - why we should promote digital
-economy ? what are the challenges? why crypto currencies are bad?  how is Blockchain technology
-useful? what is CBDC? et cetera. This Raftaar-courses deals purely with Prelims and NOT with
-Mains. Goto my Profile https://unacademy.com/@mrunal.org to check courses related to Mains.
- 🙋
- 🏼
- ‍
- ♀
- ️
- 10.28.6
- Epilogue-  Babushone want only concepts not facts
-�
-�
- 🏼
- ‍
- ♀
- ️FAQ: This handout contains so many facts. Can I skip it and just focus on the conceptual part?
-Ans. Just for people like you, I have embedded PYQs inside this handout. Plz observe & reflect.
- 📑Next Handout: Pillar1A2: Monetary Policy: CRR, SLR, Repo etc.
- (Batch:PCB13-RAFTAAR-ONLY-Prelims) Mrunal’s Economy Pillar#1A1 Money: Barter to Bitcoins → Page 52
+=> Long-Term Loans
+=> Land Banks"	1# B1
+178	All India Financial Institutions	1# A2
+179	Export-Import Bank of India 	1# B1
+180	National Bank for Agriculture and Rural Development	1# B1
+181	National Housing Bank	1# B1
+182	Small Industries Development Bank of India 	1# B1
+183	National Bank for Financing Infrastructure and Development	1# B1
+184	"Non-Banking Financial Companies
+=> Primary Dealers
+=> Mutual Fund
+=> Insurance Fund
+=> Pension Fund
+=> Microfinance
+=> Mudra Itd.
+=> Residuary"	1# B1
+185	"NBFCS REGULATED BY SEBI
+=> Stock Broker
+=> Discount Broker
+=> Mutual Funds
+=> REITs / InvITs ( Pillar 1C)
+=> Investment Banks: (USA term) &  Merchant Banking Companies: (UK term)
+=> Venture Capital Fund
+=> Market Infrastructure Institutions"	1# B1
+186	"NBFCS REGULATED BY OTHERS
+=> Insurance Regulatory and Development Authority
+=> Pension Fund Regulatory and Development Authority
+=> Ministry of Corporate Affairs
+NIDHI Companies
+Microfinance Companies
+=> State Registrar of Chit Funds"	1# B1
+187	"NBFC: Shadow Banking
+=> Housing Finance Companies
+=> Liquid Debt Mutual Funds
+=> Retail Non-Banking Financial Companies such As Gold Loan Companies, Asset
+Finance Companies"	1# B1
+188	NBFC-NOT ALLOWED IN INDIA: ISLAMIC BANKING	1# B1
+189	Informal Financial Intermediaries 	1# B1
+190	Scheduled Banks	1# B1
+191	Scheduled Banks conditions	1# B1
+192	Non-Scheduled Banks	1# B1
+193	Bank's Accounting Equation	1# B1
+194	Nationalization of Banks	1# B1
+195	"Consolidation of Public Sector Banks
+=> Merger
+=> Privatization
+Processing of proposals"	1# B1
+196	Voluntary Retirement Scheme	1# B1
+197	Banking Investment Company	1# B1
+198	Private Sector Banks: M. Narsimham Committee for Banking Reforms(1991,1997)	1# B1
+199	On tap License - for private commercial banks	1# B1
+200	Allowing NBFC/large Corporate To Setup Banks	1# B1
+201	On-Tap Licenses for starting SFB	1# B1
+202	M. Narsimham history in banking	1# B1
+203	Digital Banking unit	1# B1
+204	Neo Banks/full-stack digital banks  	1# B1
+205	Banking Regulation (Amendment) Ordinance/Act, 2020	1# B1
+206	Bad Bank - NARCL-IDRCL	1# B1
+207	Development Financial Institutions	1# B1
+208	Difference between Commercial Banks  & Non-Banking Financial Companies	1# B1
+209	NBFC regulated by RBI	1# B1
+210	"Fintech Companies
+=> Peer to Peer Lenders(P2P)
+=> Account Aggregators
+=> Loan Aggregators
+=> Payment Aggregators
+=> Mobile Wallet App "	1# B1
+211	"Fintech regulated by NON-RBI org (e.g SEBI, IRDAI)
+=> Discount brokers
+=> Insurance Web Aggregator"	1# B1
+212	Digital Lenders	1# B1
+213	Credit Information Companies	1# B1
+214	Credit Rating Agencies	1# B1
+215	Loan Types Depending On Guarantee / Collateral	1# B2
+216	Secured Loan	1# B2
+217	Unsecured Loan	1# B2
+218	Loan Types Depending On Interest Rate	1# B2
+219	Fixed Interest Loan	1# A2
+220	Floating Interest Loan	1# B2
+221	Loan Types Depending On Borrowers	1# B2
+222	Prime Borrower	1# B2
+223	Subprime Borrower (Individual)	1# B2
+224	Overleveraged Borrower (Company)	1# B2
+225	Zombie Lending	1# B2
+226	Impaired Loan	1# B2
+227	"Syndicate/Group of Lenders
+=> fixed amount/lump sum
+=> credit line"	1# B2
+228	Financial Debt vs Non-financial Debt	1# B2
+229	"Loan types
+=> Fixed Interest Loan
+=> Floating Interest Loan"	1# B2
+230	Teaser Loan	1# B2
+231	Twin balance sheet syndrome( Bad Loan Problem)	1# B2
+232	Interest Cover Ratio	1# B2
+233	Classification of Bank's Asset	1# B2
+234	Standard Asset	1# B2
+235	"Non-Performing Assets
+=> Gross NPA
+=> Provisioning
+=> Net NPA"	1# B2
+236	Special Mention Accounts	1# B2
+237	Substandard asset	1# B2
+238	Doubtful Asset	1# B2
+239	Loss Asset	1# B2
+240	Loan write-off	1# B2
+241	Stressed Asset	1# B2
+242	Restructured loan (In Installment)	1# B2
+243	Haircut (One time settlement)	1# B2
+244	Evergreening of loans	1# B2
+245	"Stressed Assets: 3R Framework For Revitalizing
+=> Rectification
+=> Restructuring
+=> Recovery"	1# B2
+246	Loan Moratorium ( NPA relief)	1# B2
+247	"SARFAESI ACT 2002:
+=> Origin
+=> Objective
+=> Limitations
+=> Legal Rights of Loan Defaulter"	1# B2
+248	Debt Recovery Appellate Tribunal	1# B2
+249	Insolvency And Bankruptcy(I&B) Code	1# B2
+250	"IBC code classifies creditors into two categories
+=> Financial Creditors
+=> Operational Creditors"	1# B2
+251	"IBC Code: Appeal Structure
+=> Adjudicating Authority
+=> Appellate Authority"	1# B2
+252	"IBC: Process for resolution
+=> Insolvency Professional
+=> Committee of Creditors"	1# B2
+253	"Statutory bodies related to IBC
+=> National Company Law Tribunal
+=> National Company Law Appellate Tribunal
+=> Insolvency and Bankruptcy Board of India (database of borrowers)"	1# B2
+254	Forex hedging	1# B2
+255	Bond Credit Spread	1# B2
+256	Insolvent /incapable defaulter	1# B2
+257	Wilful Defaulter	1# B2
+258	Guarantor	1# B2
+259	"Insolvency and Bankruptcy Board of India
+=> Body
+=> Insolvency Professional Agencies
+=> Information Utility"	1# B2
+260	Corporate Insolvency Resolution Process 	1# B2
+261	"Pre-packaged Insolvency Resolution Process
+=> Swiss Challenge"	1# B2
+262	Cross-border Insolvency	1# B2
+263	"Voluntary Liquidation Of Companies
+=> Centre for Processing Accelerated Corporate Exit"	1# B2
+264	Liquidation	1# B2
+265	Central Repository of Information on Large Credits 	1# B2
+266	Public Credit Registry 	1# B2
+267	National Financial Information Registry	1# B2
+268	Legal Entity Identifier	1# B2
+269	Fugitive Economic Offenders Act, 2018	1# B2
+270	"Deposit Insurance and Credit Guarantee Corporation Act:
+=> Objective
+=> Limitations"	1# B2
+271	"Bad Bank
+=> National Asset Reconstruction Company Limited - Asset Reconstruction Company
+=> India Debt Resolution Company Ltd. - Asset Management Company
+=> Functioning
+=>  Benefits & Challenges
+=> Conclusion"	1# B2
+272	"Prompt Corrective Action Framework
+=>  RBI’4-tiered regulatory framework for urban cooperative banks "	1# B2
+273	Regulation Review Authority	1# B2
+274	First Loan Default Guarantee	1# B2
+275	"Fintech- Self-Regulatory Organisation
+=> Benefits"	1# B2
+276	"BASEL-III Norms
+=> Bank for International Settlements"	1# B2
+277	Capital to Risk Weighted Assets Ratio	1# B2
+278	Recapitalization of PSB	1# B2
+279	Counter Cyclic Policy	1# B2
+280	Domestic Systematic Important Banks	1# B2
+281	Indian Accounting Standards format ( Not BASEL Norms)	1# B2
+282	"BASEL-III norms: Capital Tiers
+=> Additional Tier 1 Bonds"	1# B2
+283	"Banking Sector: Governance / Administrative Reforms
+=> Bank Board Bureau => Financial Services Institutions Bureau(new term)"	1# B2
+284	Financial Services Institutions Bureau	1# B2
+285	Customer Service: Enhanced Access and Service Excellence	1# B2
+286	"Shadow Banks
+=> Infrastructure Leasing & Financial Services
+=> NBFC Liquidity Crisis"	1# B2
+287	Partial Credit Guarantee Scheme	1# B2
+288	RBI Dividend, Reserves, Economic Capital Framework	1# B2
+289	Fixed Capital	1#C1
+290	Working Capital	1#C1
+291	Capital / Funding Arrangement: Types	1#C1
+292	"Capital Arrangement Types: basis of period
+=> Long-term
+=> Medium-term
+=> Short-term"	1#C1
+293	"Capital Arrangement Types: basis of ownership
+=> Owner's fund
+=> Borrowed fund"	1#C1
+294	"Capital Arrangement Types: basis of source of generation
+=> Internal Sources
+=> External Sources"	1#C1
+295	Trade Credit (Short-term)	1#C1
+296	Lease Financing	1#C1
+297	Accounts Receivable & Accounts Payable	1#C1
+298	"Securities:
+=> Equity: Share certificate
+=> Debt: Bond/Debenture"	1#C1
+299	Retained Earnings( Long-term)	1#C1
+300	Financial Market	1#C1
+301	"Financial Market types: Tenure
+=> Money Market (Less than 1 year)
+=> Capital Market (More than 1 year)"	1#C1
+302	"Financial Market types: Freshness
+=> Primary
+=> Secondary"	1#C1
+303	"Financial Market types: Asset
+=> Shares, Bond
+=> G-Sec
+=> Foreign Currency"	1#C1
+304	"Financial Market types: Settlement
+=> Spot
+=> Future"	1#C1
+305	Universal Exchange	1#C1
+306	Debt Instruments	1#C1
+307	Negotiable Instruments	1#C1
+308	Unsecured Instruments	1#C1
+309	Short-term Instruments	1#C1
+310	Ways and means advances	1#C1
+311	Special Drawing Facility(for States)	1#C1
+312	State Development Loans Bonds(for States)	1#C1
+313	"Short-Term Debt Instruments: Money Market(Short Term borrowing)
+=> Collateralized Borrowing and Lending Obligation(CBLO)
+=> Call Money, Notice Money
+=> Repo Rate
+=> External Benchmark (Not a type)
+=> Bill of Exchange, Hundi, Commercial Papers (Company)
+=> Commercial Bill (Individual Merchants)
+=> Certificate of Deposit (Bank)
+Convertible Bond"	1#C1
+314	Face Value / Par Value	1#C1
+315	Near Money	1#C1
+316	Consolidated Sinking Fund	1#C1
+317	Certificate of Deposit	1#C1
+318	"Debt Instruments:
+"	1#C1
+319	TRI-Party Repo	1#C1
+320	"Factoring
+=> Factoring Regulation (Amendment) Act, 2021"	1#C1
+321	TREDS	1#C1
+322	Bill Discounting	1#C1
+323	"Dual Financing
+=> Problem of Dual Financing"	1#C1
+324	London Interbank Forward Outright Rate	1#C1
+325	Mumbai Interbank Forward Outright Rate	1#C1
+326	"Global Bond Indices & inclusion of Indian G-Sec
+=> JPMorgan GBI-EM
+=> Bloomberg Emerging Market"	1#C1
+327	RBI's Inflation Indexed Bonds	1#C1
+328	 RBI's Capital Indexed Bonds	1#C1
+329	"Long-term debt instruments:
+1. Colonial era Govt. to borrow money
+=> Coupon Bonds
+=> Zero Coupon Bonds/ Zero Interest Debentures
+=> Bearer Bonds
 
+2. Modern day Government to borrow money
+=> Government securities, Dated securities, Sovereign bonds (Gilt Edged securities)
 
+Non-convertible debenture
 
+3. Companies
+=> Bond, Junk Bond
+=> Redeemable Bonds
+=> Irredeemable Bonds
+=> Secured vs Unsecured(Secured = asset is pledged. Unsecured = not pledged)
+=> Non-convertible Bond/Debenture
+=> Hybrid instruments "	1#C1
+330	Emerging Debt Market Bond Index- Indian G-Sec added	1#C1
+331	Bonds by Modern day Govt. to curb Gold Consumption	1#C1
+332	Inflation Indexed Bonds	1#C1
+333	Sovereign Gold Bond	1#C1
+334	"Hybrid Financing / Mezzanine Financing
+Optionally fully convertible debentures"	1#C1
+335	Foreign Currency Convertible Bonds	1#C1
+336	"Contingent convertible bond /  enhanced capital note
+=> Normally
+=> convert to shares
+=> Write-off"	1#C1
+337	Long Term Debt Instruments: Masala, Maharaja, Panda Bond	1#C1
+338	Consol Bond ( Irredeemable Bond)	1#C1
+339	"Long-Term Debt Instruments: Special purpose Bonds
+=> Surety Bonds
+=> Sovereign green bonds
+=> Green bonds(Green Bonds Greenium)
+=> Blue Bond
+=> ESG Bonds
+=> Catastrophe Bond
+=> Oil Bonds
+=> (proposed) Consol Bonds for Corona revival
+=>  (Proposed) Elephant Bonds for black money
+=> Social Impact Bonds
+=> Zero coupon zero principal instrument"	1#C1
+340	Social Impact Bond	1#C1
+341	Skill Impact Bond	1#C1
+342	Sukuk Bond	1#C1
+343	Electoral Bond ( Promissory Note)	1#C1
+344	"Bond Misc. Types
+=> Normal Bond
+=> Strip Bond
+=> Market Linked Bond(Sesex, G-Sec, Gold Price)"	1#C1
+345	"Bond: Buffer Funds
+=> Consolidated Sinking Fund
+=> Debenture Redemption Reserve Fund"	1#C1
+346	Equity Instruments	1#C2
+347	"Company Types
+1. Listed Public Ltd
+=> Public Sector
+=> Private Sector
 
+2. Unlisted Private Ltd
+=> Startup
+=> Old company"	1#C2
+348	Equities / Share holding	1#C2
+349	Venture Capital Funds	1#C2
+350	Angel Investors	1#C2
+351	Corporate Strategic Investor	1#C2
+352	Penny Stocks	1#C2
+353	Blue Chip Stocks	1#C2
+354	Multi-Bagger Stocks	1#C2
+355	Sweat Equity	1#C2
+356	Sweet Equity	1#C2
+357	Cyclical / Seasonal Shares	1#C2
+358	Employee Stock Ownership Plan	1#C2
+359	Equity Warrants / Share Warrants	1#C2
+360	Floating Stocks	1#C2
+361	Restricted Stocks	1#C2
+362	"Accounts Types
+1. Personal
+=> Natural Person
+=> Artificial Legal Person
+
+2. Real
+=> Tangible
+=> Intangible
+
+3. Nominal
+=> Income/Gain
+=> Expense/Loss"	1#C2
+363	Goodwill	1#C2
+364	Preference Shares	1#C2
+365	Ordinary shares	1#C2
+366	Ratios / Numbers To Compare The Companies	1#C2
+367	"Market capitalisation
+=> Small Cap
+=> Mid Cap
+=> Large Cap"	1#C2
+368	Valuation & Unicorn Startups	1#C2
+369	Volatility/ViX	1#C2
+370	Price-to-Earnings Ratio	1#C2
+371	Earnings per Share	1#C2
+372	Return on Capital Employed	1#C2
+373	Return on Equity	1#C2
+374	Leverage Ratio / Debt to Equity Ratio	1#C2
+375	Froth & Bubble	1#C2
+376	Net Worth	1#C2
+377	Earnings Before loan Interest repayment, Taxes payment, Depreciation, and Amortization	1#C2
+378	Depreciation (Physical Asset)	1#C2
+379	Amortization (Intangible Asset)	1#C2
+380	Methods Of Issuing Shares	1#C2
+381	Premium Value (Face Value or Par Value)	1#C2
+382	"Sharemarket- company related documents
+=> Guidance
+=> Prospectus"	1#C2
+383	"Initial Public Offering
+=>  Underwriter / Lead managers"	1#C2
+384	Follow on Public Offering	1#C2
+385	Qualified Institutional Placement	1#C2
+386	Private Placement	1#C2
+387	Share-selling	1#C2
+388	Offer for sale	1#C2
+389	Share pledging 	1#C2
+390	Open Offer	1#C2
+391	Equity Dilution	1#C2
+392	Share Swaping and De-listing	1#C2
+393	Bonus Share	1#C2
+394	Share Split	1#C2
+395	Share buyback by the Company	1#C2
+396	GREY MARKET / “kerb trading” & “When-Listed” Platform	1#C2
+397	American Depositary Receipt	1#C2
+398	Global Depositary Receipt	1#C2
+399	Direct listing of Indian Companies in foreign stock exchanges (2023)	1#C2
+400	Initial Coin Offering	1#C2
+401	Stock Exchanges / Secondary Market	1#C2
+402	"World’s Oldest: Amsterdam Stock exchange, Netherlands (1602)
+Asia’s Oldest: Bombay Stock Exchange (BSE: 1875)
+India’s stock exchanges chronology: BSE → A’bad → Kolkata → NSE (early 90s)"	1#C2
+403	"BSE's On-line Trading System (BOLT)
+National Exchange for Automated Trading (NEAT)
+Very Small Aperture Terminal Satellite (VSAT)"	1#C2
+404	Social Stock Exchange	1#C2
+405	DEMAT Account and Depositories	1#C2
+406	Re-materialization of securities	1#C2
+407	Dematerialization	1#C2
+408	International Securities Identification Number	1#C2
+409	"Central Counterparties
+CCP Examples in India"	1#C2
+410	Novation process	1#C2
+411	Application Supported by Blocked Amount (Primary Market)	1#C2
+412	UPI - ASBA (Secondary Market)	1#C2
+413	"Types of Investors
+1. Qualified Institutional Buyers (Anchor investors)
+=> Mutual Funds
+=> Insurance/ Pension Company
+=> FPI
+
+2. Not Qualified Institutional Buyers
+=> Retail Investors
+
+3. Depending on Buying Behaviour
+=> Jobbers
+=> STAG(Male Deer)
+=> Bull
+=> Bear"	1#C2
+414	"Style of Trading / Investing based on duration and risk
+=> Margin Trading
+=> Day trading / Intra-day trading
+=> Swing Trader
+=> Long term investor
+=> Block deal
+=> Contra Trading / investing"	1#C2
+415	Dividend Yeild	1#C2
+416	Sensitive Index	1#C2
+417	Free Float Market Capitalization	1#C2
+418	Bombay Stock Exchange's Sensitive Index	1#C2
+419	National Stock Exchange	1#C2
+420	Force Majeure	1#C2
+421	Efficient Market Hypothesis /Theory	1#C2
+422	Beta Value to monitor price volatility or risk of an asset	1#C2
+423	Alpha value to compare performance of Mutual Funds	1#C2
+424	Fundamental Analysis	1#C2
+425	Technical Ananlysis	1#C2
+426	Financial Portfolio	1#C2
+427	"Financial Portfolio Types depending on risk
+=> Conservative Portfolio
+=> Balanced Portfolio
+=> Growth / Aggressive"	1#C2
+428	"Financial Portfolio diversification
+=> Low Diversity
+=> High Diversity"	1#C2
+429	Non Financial Debt	1#C2
+430	"Securities and Exchange Board of India
+=> SEBI Board Composition
+=> Chairman
+=> Regulates Process
+=> Regulates Places
+=> Regulates Persons"	1#C2
+431	Securities Appellate Tribunal	1#C2
+432	Securities Market Code	1#C2
+433	Deepening the capital market	1#C2
+434	"Investor Charter
+=> protect investors & increase investors participation
+=>  retail investors participation- 25% public holding in Govt Companies
+=> Tulip Mania
+=> Volatility  / ViX"	1#C2
+435	Share price rigging(pump & dump)	1#C2
+436	Circuit Breaker	1#C2
+437	"T+1 Settlement instead of T+2
+=> Badla System/Carry forward system"	1#C2
+438	T+1 hour settlement	1#C2
+439	"Illegal Trading:
+=> Dabba Trading / Bucketing / Box Trading
+=> Insider Trading
+=> Front Running"	1#C2
+440	Algo Trading & Co-Location	1#C2
+441	"Sharemarket company-related documents
+=> Guidance
+=> Prospectus"	1#C2
+442	Bussiness Continuity Plan	1#C2
+443	Disaster Recovery Site	1#C2
+444	Investor Risk Reduction Access	1#C2
+445	Investor Protection Fund	1#C2
+446	"Types of Losses
+=> Speculative loss
+=> Non-speculative loss"	1#C2
+447	LAMA - IT monitoring system/framework	1# C2
+448	Adani Hindenburg controversy (2023) & Flash Crash	1#C2
+449	Short selling (make profit from falling share price)	1#C2
+450	Finfluencers	1#C2
+451	RBI E-Kuber Core Banking Solution	1#C2
+452	"G-Sec Trading - RBI's Negotiated Dealing System
+=> Telephonic
+=> Over the Counter
+=> Negotiated Dealing System-Order Matching system "	1#C2
+453	Retail Direct Gilt	1#C2
+454	Bid-Ask Spread	1#C2
+455	Arbitrage	1#C2
+456	Commodity Market	1#C2
+457	Forward Market Commission	1#C2
+458	Gold exchanges	1#C2
+459	Warehousing Development and Regulatory Authority	1#C2
+460	Electronic Gold Receipts	1#C2
+461	India’s first bullion exchange (2022)	1#C2
+462	India International Bullion Exchange	1#C2
+463	Financial Stability & Development Council	1#C2
+464	Financial Stability Board	1#C2
+465	Financial Action Task Force	1#C2
+466	International Organization of Securities Commissions	1#C2
+467	National Institute of Securities Markets	1#C2
+468	"Mutual Fund (Investment Funds) For Aam-Aadmi
+=> Entry Load
+=> Exit Load"	1#C2
+469	"Hybrid mutual funds
+=> Equity-MF Shares
+=> Debt-MF Bonds, G-Sec, T-Bill etc.
+=> Hybrid-MF
+=> Multi-asset"	1#C2
+470	ESG Mutual Funds	1#C2
+471	Shariya Mutual Fund	1#C2
+472	Traditional Mutual Fund	1#C2
+473	Systematic Investment Plan	1#C2
+474	Equity Linked Savings Scheme	1#C2
+475	Unit linked insurance policy	1#C2
+476	Mutual fund risk-o-meter	1#C2
+477	Hedge Fund (Investment Funds) For Rich-Aadmi	1#C2
+478	Real Estate Investment Trusts	1#C2
+479	Infrastructure Investment Trusts	1#C2
+480	Sovereign Wealth Fund	1#C2
+481	"CPSE-Exchange Traded Funds
+=> Disinvestment
+=> Privatization / Strategic Disinvestment"	1#C2
+482	Bharat Bond (Debt) ETF	1#C2
+483	Passive Fund / index-ETF	1#C2
+484	Bitcoin-ETF	1#C2
+485	Exchange Traded Fund Bitcoin-ETF	1#C2
+486	Alternative Investment Funds	1#C2
+487	Sell, purchase, execute instantly 	1#C2
+488	Forward / Future contract	1#C2
+489	Call Option and Put Option	1#C2
+490	Hedging	1#C2
+491	Over-Financialisation & Sachetisation	1#C2
+492	Future Option (FnO) Market	1#C2
+493	Derivative	1#C2
+494	Swap	1#C2
+495	"Sectors of economy
+=> real sector
+=> financial sector"	1#C2
+496	Bell- shaped relationship	1#C2
+497	"Participatory Notes
+Offshore Derivative Instruments "	1#C2
+498	Bharat-DR	1#C2
+499	ADR/GDR	1#C2
+500	Masala/Panda/ Kangaroo Bonds	1#C2
+501	Credit Default Swap	1#C2
+502	Tax On Investment / Financial Assets	1#C2
+503	Corporate Governance	1#C2
+504	"Company types based on incorporation
+=> Chartered Companies
+=> Statutory  Companies
+=> Registered Companies"	1#C2
+505	Company types based on number of members	1#C2
+506	"Company types based on Ownership
+=> Government / Public Sector
+=> Private Sector"	1#C2
+507	Holding Company	1#C2
+508	Subsidiary Company	1#C2
+509	Company Types: Misc	1#C2
+510	"Under Companies Act
+=> One Person Company
+=> Not for Profit Company
+=> Dormant Companies"	1#C2
+511	Limited Liability Partnership Company	1#C2
+512	Statutory Bodies In Ministry Of Corporate Affairs	1#C2
+513	Competition Commission of India	1#C2
+514	Insolvency and Bankruptcy Board of India	1#C2
+515	"Insolvency and Bankruptcy Board of India: features
+=> National Company Law Tribunal (NCLT)
+=> National Financial Reporting Authority (NFRA)
+=> Investor Education & Protection Fund
+=> Serious Fraud Investigation Office (SFIO)"	1#C2
+516	Unclaimed shares and dividends of IEPF	1#C2
+517	Chartered Accountants Act 1949	1#C2
+518	Company Secretaries Act, 1980	1#C2
+519	Cost and Works Accountants Act, 1959	1#C2
+520	Legislative Responsibilities of MCA	1#C2
+521	E-governance initiatives of MCA	1#C2
+522	Corporate Governance	1#C2
+523	Corporate Social Responsibility	1#C2
+524	NSE Prime regulation for corporate governance (2022)	1#C2
+525	Friendly Takeover	1#C2
+526	Hostile Takeover	1#C2
+527	Leverage Buy-Out	1#C2
+528	Poison Pill against Takeover by Twitter	1#C2
+529	"Insurance Policy
+=> 1) Insured / client
+=> 2) Insurer / Underwriter"	1#D1
+530	Indemnification	1#D1
+531	Insurance Principles	1#D1
+532	Uberrima fides	1#D1
+533	Indemnity	1#D1
+534	Subrogation	1#D1
+535	Causa Proxima	1#D1
+536	Insurable interest	1#D1
+537	Bancassurance	1#D1
+538	Life Insurance	1#D1
+539	Whole life= Longer policy: (e.g. 35-40 yrs)	1#D1
+540	Endowment= Shorter policy: (e.g. 10-20)	1#D1
+541	Term life= Short Policy, Low Premium e.g. PM Jeevan Jyoti Bima Yojana	1#D1
+542	Unit Linked Insurance Plans	1#D1
+543	Post Office Life Insurance (Public Sector)	1#D1
+544	Postal Life Insurance	1#D1
+545	Rural Postal Life Insurance	1#D1
+546	"Post Offices Services
+=> G2C (Government to Citizen)
+=> B2C (Business to Citizens)"	1#D1
+547	Life Insurance Corporation Of India	1#D1
+548	LIC’s Aam Aadmi Bima Yojana (AABY) for BPL (2007)	1#D1
+549	LIC’s Disinvestment (2020)	1#D1
+550	Pradhan Mantri Jeevan Jyoti Bima Yojana	1#D1
+551	Pradhan Mantri Suraksha  Bima Yojana	1#D1
+552	General Insurance	1#D1
+553	Public Sector General Insurance Entities: Timeline	1#D1
+554	General Insurance Business (Nationalisation) Amendment Bill, 2021	1#D1
+555	General Insurance Nationalisation Act 1972	1#D1
+556	General Insurance Business (Nationalisation) Amendment Bill, 2021	1#D1
+557	Employees' State Insurance Corporation	1#D1
+558	Employees' Provident Fund Organisation	1#D1
+559	Seasonal establishment	1#D1
+560	Casual worker	1#D1
+561	Unorganized sector worker	1#D1
+562	Organized sector workers	1#D1
+563	Informal worker	1#D1
+564	Formal worker 	1#D1
+565	Atal Bimit Vyakti Kalyan Yojna	1#D1
+566	One IP-Two Dispensaries	1#D1
+567	E-Pehchan	1#D1
+568	Abhiyan Indradhanush 	1#D1
+569	Nirman Se Shakti/ ESIC 2.0	1#D1
+570	Project Panchdeep 	1#D1
+571	Project Arrow 	1#D1
+572	Health Insurance	1#D1
+573	Individual health insurance policy	1#D1
+574	Floater health insurance policy	1#D1
+575	Fixed Benefit	1#D1
+576	Indemnity Based	1#D1
+577	Arogya Sanjeevani Policy – standardized health insurance policies	1#D1
+578	SARAL JEEVAN BIMA-Standardized term Life Insurance policy	1#D1
+579	AYUSHMAN BHARAT / PM JAN AROYGA YOJANA (PMJAY)	1#D1
+580	Pradhan Mantri Fasal Bima Yojana (2016)	1#D1
+581	Niryat Rin Vikas Yojana	1#D1
+582	Third Party Motor Insurance	1#D1
+583	Own Damage Insurance	1#D1
+584	De-tariffication	1#D1
+585	Title Insurance	1#D1
+586	Clinical Trial Liability Insurance 	1#D1
+587	Bharat Griha Raksha & other: Standardized home/factory insurance	1#D1
+588	Catastrophe Insurance (Proposed)	1#D1
+589	Catastrophe Bonds, Surety Bonds	1#D1
+590	Cyber Insurance	1#D1
+591	e-Insurance account	1#D1
+592	Re-Insurance	1#D1
+593	Pandemic Risk Pool  proposal by IRDAI	1#D1
+594	Insurance Regulatory and Development Authority	1#D1
+595	Domestic Systemically Important Insurers	1#D1
+596	Bima Sugam Portal (2023)  - IRDAI	1#D1
+597	Insurance progress indicators	1#D1
+598	Insurance penetration (%)	1#D1
+599	Insurance Density ($)	1#D1
+600	"Foreign Direct Investment
+ => US FDI limits in Insurance sector"	1#D1
+601	Pension	1#D2
+602	Employees Deposit Linked Insurance Scheme	1#D2
+603	Employee Pension Scheme	1#D2
+604	Universal Account Number	1#D2
+605	Labour Identification Number	1#D2
+606	UMANG App	1#D2
+607	EPF Pension commutation (2020)	1#D2
+608	National Pension System	1#D2
+609	NPS-Lite (Swavlamban) (2010)	1#D2
+610	Old Pension Scheme (OPS) in Non-BJP States	1#D2
+611	Guaranteed Pension Scheme (GPS)	1#D2
+612	Minimum Assured Return Scheme (MARS)	1#D2
+613	T V Somanathan committee (2023)	1#D2
+614	Jeevan Pramaan (2014)	1#D2
+615	Pradhan Mantri Vaya Vandana Yojana (2017-DFS, LIC) 	1#D2
+616	"Pension For Poor People With Capacity To Invest
+=> Atal Pension Yojana
+=> Pradhan Mantri  Shram-Yogi Maandhan"	1#D2
+617	"Pension: Three Maan Dhan Yojanas
+=> Pradhan Mantri Shram-Yogi Maan-dhan (Feb’19)
+=> PM Laghu Vyapari Maan dhan Yojana (Jul’19)# also known as ‘NPS-Traders’
+=> Pradhan Mantri KISAN Maan-dhan Yojana (Aug’19)"	1#D2
+618	"Pension For Poor People Without Capacity To Invest
+=> Indira Gandhi Old age pension @60
+=> Indira Gandhi  Widow pension Aged 40 onwards
+=> Indira Gandhi  Disability pension:  Aged 18 onwards
+=> National Family Benefit INSURANCE
+=> Annapurna (2001)"	1#D2
+619	"Pension types:
+=> Defined Contribution
+=> Defined Benefit"	1#D2
+620	Pension Fund Regulatory and Development Authority	1#D2
+621	"Social Security For Overseas Indians (Pension / Insurance)
+=> Pravasi Bharatiya Bima Yojana, 2017"	1#D2
+622	Financial Inclusion	1#D3
+623	Social Security	1#D3
+624	Social Justice	1#D3
+625	Pradhan Mantri Jan Dhan Yojana	1#D3
+626	Jan Dhan Darshak App (2018)	1#D3
+627	Investments Other Than Bank	1#D3
+628	Small Savings: Mahila Samman Bachat Patra (2023)	1#D3
+629	Sampoorna Bima Gram Yojana (2017)	1#D3
+630	Model Insurance Villages (MIV) proposal by IRDAI (2021)	1#D3
+631	Chit Funds	1#D3
+632	Refinance	1#D3
+633	Credit Guarantee	1#D3
+634	Credit Guarantee Fund for Education Loans	1#D3
+635	Subordinate Debt	1#D3
+636	Equity infusion via Fund of Funds	1#D3
+637	Micro Units Development & Refinance Agency	1#D3
+638	Jan Samarth Portal	1#D3
+639	Kisan Credit Card (1998)	1#D3
+640	Interest Subvention	1#D3
+641	Farm Loan Waiver	1#D3
+642	Micro Insurance	1#D3
+643	Gig Workers’ social security code	1#D3
+644	UNORGANISED WORKERS’ SOCIAL SECURITY ACT, 2008	1#D3
+645	Financial Inclusion: Various Reports	1#D3
+646	Fiscal Policy	2# A1
+647	"Fiscal Policy: betterment of country
+=> Full Employment
+=> Price control
+=> Boost Economy Growth
+=> Boost Inclusive Growth
+=> Boost Regionally Balanced Growth
+=> Exchange Rate Stability"	2# A1
+648	Budget	2# A1
+649	"Budget: Funds
+=> Consolidated Fund of India (Article 266)
+=> Public Account of India (Article 266)
+=> Contingency Fund of India (Article 267)"	2# A1
+650	Donation Funds	2# A1
+651	Prime Minister’s National Relief Fund  by Nehru 1948	2# A1
+652	"Prime Minister’s Citizen Assistance and Relief
+in Emergency Situations Fund by Modi 2020"	2# A1
+653	National Defence Fund under PM	2# A1
+654	"Budget: Documents
+=> Annual Financial Statement (Article 112)
+=> Finance Bill (Article 265, 117)
+=> Appropriation Bill ( Article 114)"	2# A1
+655	Money Bill (Article 110)	2# A1
+656	"Budget In Parliament: 6 Stages
+1. Presentation of budget
+2. General Discussion
+3. Scrutiny by departmental committees
+4. Voting on demands for grants, cut motions, and guillotine
+5. Passing of Appropriation Bill
+6. Passing of Finance Bill"	2# A1
+657	"Financial Year
+=> Shankar Acharya Committee"	2# A1
+658	Vote On Account	2# A1
+659	Interim Budget	2# A1
+660	Budget’s Theme (बजट को तिर्वेषीयर्वेस्तु)	2# A1
+661	"Budget
+=> Revenue
+  => Revenue-Receipt
+  => Revenue-Expenditure
+
+=> Capital
+  => Capital-Receipt
+  => Capital-Expenditure"	2# A1
+662	"Economic Survey
+=> Chief Economic Advisor"	2# A1
+663	Finance Ministry And Its Departments	2# A1
+664	"Department of Economic Affairs [Finance Ministry Department #1]
+=> Functions
+=> Body "	2# A1
+665	"Department of Expenditure [Finance Ministry Department #2]
+=> Controller General of Account
+=> Funtions
+
+Web Portals of Expenditure Department
+=> Public Financial Management System (PFMS)
+=> Bharatkosh- Non Tax Receipts Portal (NTRP)
+=> PARAS"	2# A1
+666	"Department of Revenue [Finance Ministry Department #3]
+=> Central Board of Direct Taxes
+=> Central Board of Indirect Taxes and Customs
+=> Enforcement Directorate
+=> Central Economic Intelligence Bureau
+=> Central Bureau of Narcotics
+=> Financial Intelligence Unit"	2# A1
+667	"Department of Financial Services [Finance Ministry Department #4]
+=> Financial Services Institutions Bureau"	2# A1
+668	Department of Investment and Public Asset Management [Finance Ministry Department #5]	2# A1
+669	"Department of Public Enterprises [Finance Ministry Department #6]
+=>  National Land Monetization Corporation (NLMC-2022)"	2# A1
+670	Indian Audit And Accounts Department	2# A1
+671	One Indian Audit & Accounts Department (IAAD) One System (OIOS)	2# A1
+672	"Taxes: Types
+=> Direct Tax
+
+=> Indirect Tax
+      => Ad-Valorem Tax
+      => Specific Tax per unit"	2# A1
+673	Regressive Tax (Indirect Tax)	2# A1
+674	Progressive Tax (Direct Tax)	2# A1
+675	Degressive Tax (Direct Tax)	2# A1
+676	Proportional Tax (Direct Tax)	2# A1
+677	"Adam Smith’s 4 canons of taxation
+1. Canon of Equality
+2. Canon of Certainty
+3. Canon of Convenience
+4. Canon of Economy"	2# A1
+678	Principle of taxation	2# A1
+679	"Direct Tax: Types
+=> Income
+    - Corporation Tax, Minimum Alternate Tax (MAT)
+     - Income Tax on income except agriculture
+     - Capital Gains Tax (CGT)
+
+=> On assets, transactions
+    - Securities Transaction Tax (STT)  & Commodities Transaction Tax (CTT)
+
+=> On expenditure"	2# A1
+680	Paper Taxes	2# A1
+681	Direct Taxes:  Merits And Demerits	2# A1
+682	Union Tax	2# A1
+683	"Cess
+=> Pradhan Mantri Swasthya Suraksha Nidhi (PMSSN)"	2# A1
+684	Surcharge	2# A1
+685	Corporation Tax/ Corporate Income Tax	2# A1
+686	Minimum Alternate Tax	2# A1
+687	Angel Tax on Startup Investments (2012)	2# A1
+688	Dept for Promotion of Industry and Internal Trade (DPIIT) under Commerce Ministry	2# A1
+689	"Equalisation Levy / Google Tax
+=> Double Taxation Avoidance Agreement"	2# A1
+690	Significant Economic Presence	2# A1
+691	GAFA Tax	2# A1
+692	Dividend Distribution Tax	2# A1
+693	Buyback Tax	2# A1
+694	"Capital Gains Tax
+=> Long Term Capital Gains tax
+=> Short Term Capital Gains tax"	2# A1
+695	Indexation benefit / cost inflation index benefit	2# A1
+696	"Income Tax On Individuals
+=> Old Tax Regime
+=> New Tax Regime"	2# A1
+697	Revenue Forgone / Tax Expenditure	2# A1
+698	Income Tax: no tax upto ₹7 lakh after Budget-2023 = Boosting Economy	2# A1
+699	Income Tax: switching between NTR vs OTR after Budget-2023	2# A1
+700	Surcharge on Income Tax	2# A1
+701	Effective Tax on super-rich person earning >5 cr	2# A1
+702	Hindu Undivided Family	2# A1
+703	"Presumptive Taxation
+=> Presumptive Taxation System"	2# A1
+704	Income Tax on income other than agriculture (self-employed/freelance professionals)	2# A1
+705	Advance Tax	2# A1
+706	Tax Deducted At Source	2# A1
+707	Tax Collected At Source	2# A1
+708	TDS on influencers / influencer tax	2# A1
+709	Tax Refund	2# A1
+710	Deferred Tax Assets	2# A1
+711	Tobin Tax / Robinhood Tax (Concept)	2# A1
+712	Securities Transaction Tax (Union Government)	2# A1
+713	Commodities Transaction Tax (Union Government)	2# A1
+714	Stamp Duty (State Government)	2# A1
+715	Tax incidence	2# A2
+716	Tax impact	2# A2
+717	"Indirect Tax: Types
+=> Ad- Valorem tax
+=> Specific Tax per unit"	2# A2
+718	" Burden of Indirect tax –
+=> Foward  shifting
+=> Backward shifting"	2# A2
+719	"Indirect Taxes:  Merits And Demerits
+=> Sales tax system"	2# A2
+720	Pigouvian Tax (Concept)	2# A2
+721	Sin tax	2# A2
+722	Customs Duty in Budget-2023	2# A2
+723	"Tax on petroleum
+=> Basic Excise Duty
+=> Additional Excise Duty
+=> Special Additional Excise Duty"	2# A2
+724	Social Welfare Surcharge on Customs	2# A2
+725	Health Cess On Customs	2# A2
+726	Agriculture Infrastructure and Development Cess On Customs	2# A2
+727	Indirect Tax → additional differential excise duty on Unblended Petrol	2# A2
+728	Windfall Tax on export of petrol/diesel/ATF fuel (2022)	2# A2
+729	"Petrol-Diesel:
+=> Dynamic Fuel Pricing System
+=> Oil bond repayment"	2# A2
+730	"MISC. ISSUES RELATED TO INDIRECT TAXES
+=> Minerals: royalty not tax. States can demand separate tax- says SC (2024)"	2# A2
+731	Cascading Effect of Indirect Taxes	2# A2
+732	Goods and Services Tax	2# A2
+733	Integrated Goods and Services Tax	2# A2
+734	Central Goods and Services Tax	2# A2
+735	"GST:
+=> Council
+=> Composition"	2# A2
+736	"GST Input Tax Credit
+=> Intra-state suppply
+=> Inter-state supply"	2# A2
+737	Inverted Duty Structure Problem in GST on Textile	2# A2
+738	GST Zero Rated	2# A2
+739	GST Exempt	2# A2
+740	Non-GST supply	2# A2
+741	Centre’s Indirect Taxes Subsumed in CGST	2# A2
+742	Indirect Tax of Union	2# A2
+743	State's Indirect Taxes Subsumed in GST	2# A2
+744	Indirect Tax of State Govt	2# A2
+745	Tax Collection: Highest to Lowest in  Budget-2025 (amt in lakh crores)	2# A2
+746	GST Rates on Services	2# A2
+747	GST Rates on Goods	2# A2
+748	"GST on Actionable Claims
+=> Lottery / Online Gaming"	2# A2
+749	GST on Extra Neutral Alcohol (ENA)	2# A2
+750	GST 2.0: Intro *& Origin	2# A2
+751	GST Composition Scheme	2# A2
+752	Reverse Charge Mechanism	2# A2
+753	E-Way Bill System (2018)	2# A2
+754	GST Compensation to States	2# A2
+755	GST Related Organizations	2# A2
+756	National Anti-Profiteering Authority	2# A2
+757	Competition Commission of India	1#C2
+758	GST tribunal (2023)	2# A2
+759	Customs, Excise and Service Tax Appellate Tribunal	2# A2
+760	GST Fitment Committee	2# A2
+761	"GSTN Network (Not for Profit Company)
+=> Project Saksham: Digital integration"	2# A2
+762	Service Accounting Code	2# A2
+763	Harmonized System of Nomenclature	2# A2
+764	Business Identification Number	2# A2
+765	GST Benefit: Zero Rated Exports	2# A2
+766	"GST: EASE OF DOING BIZ (EOD): DECRIMINALISATION
+=> criminal prosecution threshold
+=> obstructing officers"	2# A2
+767	Finance Commission (Article 280)	2# B
+768	"Finance Commission: 15th Vs 16th
+=> Membership
+=> Timelines
+=> Term of reference"	2# B
+769	Finance Commission : Vertical Tax Devolution From Union To States	2# B
+770	Finance Commission : Horizontal Tax Devolution Among States	2# B
+771	"Finance Commission: Grants
+=> Grants from Union to States : 14th  FC
+=> Grants from Union to States : 15th  FC
+=> Local Bodies Grants
+‍=> Post-Devolution Revenue Deficit Grants
+=> Disaster Management Grants
+=> Sector Specific Grants
+=> Prformance-based incentives
+=> State specific grants for tourism, historical monuments, infrastructure, water etc.
+=> Special Grants
+=> Defence and Internal Security Fund for Union(Non-lapsable Fund)"	2# B
+772	Planning Commission	2# B
+773	National Institution for Transforming India	2# B
+774	Special Category States	2# B
+775	Vertical Fiscal Imbalance	2# B
+776	Black Money	2# B
+777	Tax Planning / Tax Mitigation	2# B
+778	Parallel Economy	2# B
+779	Tax Evasion	2# B
+780	Tax Avoidance	2# B
+781	Tax Haven	2# B
+782	Money Laundering	2# B
+783	Hawala	2# B
+784	Shell firms,  Post-box/ Letter-box  companies	2# B
+785	"Black Money:
+=> Panama Papers (2016)
+=> Paradise Papers (2017)
+=> Mauritius papers (2018)
+=> Pandora Papers (2021)"	2# B
+786	Tax Terrorism	2# B
+787	"Black Money: Notable Organisations
+=> Enforcement Directorate
+=> Directorate of Revenue Intelligence
+=> Central Bureau of Narcotics
+=> Central Economic Intelligence Bureau
+=> Economic Intelligence Council
+=> Financial Intelligence unit (2004)
+=> Customs, Excise and Service Tax Appellate Tribunal
+=> Financial Action Task Force (1989: HQ@Paris)
+=> Organisation for Economic Co-operation and Development (1961: HQ@Paris)"	2# B
+788	Tax Evasion  (Hiding Income / Transaction)	2# B
+789	Prevention of Money Laundering Act (2002)	2# B
+790	"Burden Of Proof & PMLA
+=> Burden of Proof: Public Prosecutor
+=> Reverse Burden of Proof "	2# B
+791	PMLA Amendments via Finance Bill = Money Bill?	2# B
+792	Undisclosed Foreign Income & Assets Act (UFIA-2015)	2# B
+793	Benami Transactions Prohibition Act (1988, 2016)	2# B
+794	"Tax Evasion: Govt  Announcements
+=> Tax (Evasion) “Surrender” schemes
+     => Income Declaration Scheme (IDS) from 2016 JuntoSept
+     =>  Pradhan Mantri Garib Kalyan Yojana (PMGKY)
+            Launched after Demonetization Validity?2016-Dec:To 2017-April
+    => Sabka Vishwas L.D.S Scheme 2019 In budget-2019
+=> Vivad se Vishwas Scheme for Direct Taxes (Budget-2020)
+=> Dispute Resolution Committee  (DRC) in 💼Budget-2021
+=> Amnesty for Small Tax Payers / Case withdrawal (Interim-Budget-2024)"	2# B
+795	"Tax Evasion: Other Initiatives before Corona-2020
+=> Banking Cash Transaction Tax  (2005-2009)
+=> Banking Transaction Tax (Suggested)
+=> SC’s special investigation team (SIT) on Black Money 2014
+=> Operation Clean Money
+=> Restrictions on Cash Transactions, 2017
+=> Electoral Bonds, 2017"	2# B
+796	"Tax Avoidance
+=> Double Taxation Avoidance Agreement
+=> Round Tripping
+=>  International Law: Monism and Dualism & application of DTAA
+=> Tax Avoidance through Non-Resident Status"	2# B
+797	Place of Effective Management	2# B
+798	Base Erosion and Profit Shifting	2# B
+799	Safe Harbour Rules	2# B
+800	Transfer Pricing & Authority for Advance Rulings	2# B
+801	General Anti-Avoidance Rules	2# B
+802	"Retrospective Tax
+=> Indirect Transfer of Assets"	2# B
+803	"Global Minimum Tax
+=> G7 Framework"	2# B
+804	G7-OECD “Two” Pillar Solution for Global Minimum Tax	2# B
+805	"Reforms To Reduce Tax Terrorism / Harassment
+=> Pre-filled online forms for Tax Payers
+=> Updated Return Form to correct errors- in 👜🥻Budget-2022
+=> Faceless interaction between Tax payers and Tax official
+=> Time limit on opening of past cases"	2# B
+806	Document Identification Number	2# B
+807	Taxpayers’ Charter In Budget-2020	2# B
+808	Tax Ombudsman In Economic Survey 2021	2# B
+809	"Reducing Tax Terrorism / Harassment: online portals/Apps
+=> Aaykar Setu
+=> Ease in paying Customs Duty : Portals/Apps by CBIC
+=> Transparent Taxation
+=> Honouring the Honest
+=> Turant Customs"	2# B
+810	Income tax return form	2# B
+811	"Income Tax : E-Governance Initiatives in Modi-Raj
+=> Non- Filers Monitoring System
+=> TDS: TRACES Portal / Refund Banker SBI
+=> Project Insight 2017 [(Related) Project Saksham 2016]
+=> Computer Assisted Scrutiny Selection"	2# B
+812	Direct Tax Code Task Force (2017-2019)	2# B
+813	"Taxation: Global Treaties, Agreements & Indexes
+=> Tax Information Exchange Agreement
+=> USA’s Foreign Account Tax Compliance Act 2010
+=> Intl.Coop: Tax Inspectors Without Borders
+      => United Nations Development Programme (UNDP) & Organisation for
+Economic Co-operation and Development (OECD)
+=> Global Financial Secrecy Index [Prepared by London based Think Tank ‘Tax Justice Network (TJN)]"	2# B
+814	Demonetisation	2# B
+815	Revenue Shortfall	2# B
+816	Laffer Curve	2# B
+817	Tax elasticity	2# B
+818	Tax buoyancy	2# B
+819	Gross Tax Revenue of Union	2# B
+820	Net Tax Revenue of Union	2# B
+821	Tax Receipt	2# B
+822	Non-Tax Receipt	2# B
+823	Revenue Expenditure	2# C
+824	Notable Revenue Expenditures	2# C
+825	Subsidies	2# C
+826	"Subsidies:
+=> Food Subsidies
+=> Fertilizers
+=> Fuel
+=> Interest Subsidies on loans: Farmers (highest),
+     MSME, Affordable Housing, LIC Vay Vandana Yojana etc
+=> Others"	2# C
+827	Subsides vs Tax	2# C
+828	"Subsides Types:
+=> Given in direct cash (or bank transfer)
+=> Given in kind
+=> Indirect subsidies
+=> Implicit Subsidies
+=> Cross-Subsidization
+=>  Regulatory subsidies
+=> Procurement subsides
+=> Inteterest Subsides/ subvention"	2# C
+829	Subsidy leakage	2# C
+830	National Recruitment Agency	2# C
+831	"Subsides: Salaries => 7th Pay Commission
+=> 8th Pay Commission in Budget-2025"	2# C
+832	"Pay Commission:
+=> Dearness Allowance
+=> Bonus to govt employees
+     => Productivity Linked Bonus
+     => Non-Productivity Linked
+=> House Rent Allowance
+=> Gratuity
+=> One Rank One Pension"	2# C
+833	"Salary Reforms In Atmanirbharat 2.0
+=> Atma-Nirbhar 2.0: Festival Advance Scheme
+=>  Atma-Nirbhar 2.0: LTC Cash Voucher Scheme"	2# C
+834	Average Revenue per User Minimum Dividend Rule	2# C
+835	Capital Budget	2# D1
+836	"Capital Debt Receipts
+=> Internal Borrowing
+=> External borrowing"	2# D1
+837	"Capital Non-Debt Receipts
+=> Loan Principal recovered
+=>  Disinvestment"	2# D1
+838	"Foreign Borrowing in Foreign Currency
+=> Budget: Foreign/ external Borrowing DATA"	2# D1
+839	Exchange Rate	2# D1
+840	"Disinvestment:
+=> Departmental Undertakings
+=> Statutory Corporations
+=> Govt. Companies"	2# D1
+841	Central Public Sector Enterprises	2# D1
+842	Public sector Undertaking	2# D1
+843	"Ratna Companies: Categories
+=> Miniratna (Category-I and Category-II)
+=> Navratna
+=> Maharatna"	2# D1
+844	Privatization / Divestment / Strategic Disinvestment	2# D1
+845	"Disinvestment & Privatization in the Modi Raj (2014-19)
+=> Converting Private Limited Company
+=> Exchange Traded Funds
+=> Institutional placement Programme (IPP)
+=> Offer for sale
+=> Share Buyback"	2# D1
+846	"New Public Sector Enterprise Policy (2021)
+=>  Strategic sectors
+=> Non strategic sectors"	2# D1
+847	National Monetisation Pipeline (NMP 2021)	2# D1
+848	National Land Monetization Corporation	2# D1
+849	Capital Expenditure	2# D1
+850	Indian Development and Economic Assistance Scheme	2# D1
+851	State Special Assistance to States for Capital Expenditure Loans	2# D1
+852	Effective Capital Expenditure	2# D1
+853	"Capital expenditure for a Company
+=> Tangible Asset
+=> Intangible Asset"	2# D1
+854	Deficits	2# D2
+855	"Budgets Types:
+=> Surplus
+=> Deficits
+=> Balanced"	2# D2
+856	Budget Deficit	2# D2
+857	Fiscal Deficit (Types of Deficits - 1)	2# D2
+858	Gross Fiscal Deficit	2# D2
+859	Net Fiscal Deficit	2# D2
+860	Primary Deficit (Types of Deficits - 2)	2# D2
+861	"Gross Primary Deficit
+=> Net interest liabilities"	2# D2
+862	Revenue Deficit (Types of Deficits - 3)	2# D2
+863	Effective Revenue Deficit (Types of Deficits - 4)	2# D2
+864	Fiscal glide	2# D2
+865	Extra-Budgetary Resources / Off-budget resources	2# D2
+866	Debt Composition: Amount-Wise	2# D2
+867	Outstanding Loan	2# D2
+868	"Internal Debt (Outstanding Loan)
+=> Marketable debt
+=> Non-marketable debt"	2# D2
+869	"External Debt (Outstanding Loan)
+=> Public Debt
+=> Public Accounts): Other Liabilities such as Post Office
+Savings, Postal Insurance, Provident Fund etc. small savings schemes"	2# D2
+870	"Debt Composition: Type-wise
+=> Majority Debt
+=> Minority Debt"	2# D2
+871	Financing The Deficit: Its Negative Consequences On Economy	2# D2
+872	"Financing The Deficit: How to fill deficit?
+=> Demanding more taxes (Laffer Curve)
+=> Borrowing more money (Ricardian Equivalence)
+=> Printing More money / Monetising the deficit - inflating away of debt"	2# D2
+873	"Crowding Out (private borrowers)
+Crowding-in "	2# D2
+874	India sovereign rating	2# D2
+875	"Countercyclical Policy
+=> Counter cyclical Fiscal policy
+=> Pro-Cyclical fiscal policy
+=> Interest Rate Growth Rate Differential & Debt Sustainability"	2# D2
+876	Interest Rate Growth Rate Differential	2# D2
+877	Growth Rate Interest Rate Differential	2# D2
+878	Domar Condition of Debt Sustainability (Countercyclical)	2# D2
+879	Automatic Stabilizers(Income Tax)	2# D2
+880	Tax multiplier	2# D2
+881	Disposable income & marginal propensity to consume	2# D3
+882	Autonomous expenditure multiplier	2# D3
+883	Government expenditure multiplier	2# D3
+884	Balanced budget multiplier	2# D3
+885	"Govt Budget: Functions
+=> Allocation
+=> Redistribution(Welfare schemes)
+=> Stabilisation(Counter cyclic policy)"	2# D3
+886	Effects of Budget/Fiscal policy on Demand & Savings	2# D3
+887	Redemption	2# D3
+888	Sinking Fund	2# D3
+889	Conversion / restructuring	2# D3
+890	Evergreening	2# D3
+891	Repudiation	2# D3
+892	"Fiscal Consolidation / Prudence
+=> Shutting down loss making PSU(Public Sector Undertaking)
+=> Privatization of loss making PSU/PSBs
+=> Austerity Measures"	2# D3
+893	Fiscal Stimulus	2# D3
+894	"Fiscal Responsibility & Budget Management Act, 2003
+=> NK Singh’s FRBM review Committee(2016-17)
+=> Trigger Mechanism to escape Deficit Control"	2# D3
+895	Fiscal Profligacy	2# D3
+896	Fiscal Slippage	2# D3
+897	"FRBM Act: Documents
+=> Macroeconomic Framework Statement
+=> Medium Term Fiscal Policy Statement
+=> Fiscal Policy Strategy Statement
+=> Medium-term Expenditure Framework"	2# D3
+898	"Fiscal Federalism: Helping the States in Atmanirbhar
+=> Tax devolution & grants
+=> State's fiscal deficit limits(Fiscal deficit target for States)"	2# D3
+899	Budget marksmanship	2# D3
+900	Fiscal Responsibility: Freebies / Revdi Culture	2# D3
+901	Expenditure Management Commission (2014)	2# D3
+902	Public Debt Management Agency	2# D3
+903	Fiscal Council(Propsed, not yet setup)	2# D3
+904	Budget	2# A1
+905	"Budget: Working
+=> Revenue budget
+=> Capital Budget"	2# D3
+906	General Budget Versus Railway Budget	2# D3
+907	Plan Vs Non Plan Expenditure Budget	2# D3
+908	"Plan (expenditure) budget
+=> Central Plans
+=> Central assistance for State Five Year Plans
+=> Revenue Expenditure
+=> Capital Expenditure"	2# D3
+909	Budgeting	2# D3
+910	Traditional / Line-item 	2# D3
+911	"Performance budgeting
+=> Output outcome framework"	2# D3
+912	"Zero based budgeting
+=> Traditional Budgeting(automatic & incremental approach to expenditure)"	2# D3
+913	Sunset Budgeting	2# D3
+914	Gender Budget	2# D3
+915	Scheduled Castes Sub-Plan	2# D3
+916	Tribal Sub plan	2# D3
+917	"Lapsable Funds
+=> Rule of Lapse
+=> March Rush"	2# D3
+918	Non Lapsable Funds & No Rush	2# D3
+919	Schemes	2# D3
+920	"Schemes: Types
+=> Central Sector Schemes
+=> Centrally Sponsored Schemes
+      => Core Schemes
+      => Core of the Core Schemes"	2# D3
+921	CSS rationalisation	2# D3
+922	Ministry-wise Highest Allocation (amt in ₹  crore) in  Budget-2025	2# D3
+923	Govt Schemes: Result Based Financing instead of input based financing	2# D3
+924	"Types of Economies
+=> Open Economy
+=> Closed Economy"	3# A
+925	"Open Economy: Linkage
+=> Output Market( Import/Export)
+=> Financial Market(FDI/FPI/Loans)
+=> Labour Market(Workers/Remittance)"	3# A
+926	"Circular Flow of Income
+=> Import: Leakage
+=> Export: Injection"	3# A
+927	"International Business/Trade
+=> import export
+=> Contract manufacturing / outsourcing
+=>  Franchising (services)
+=> Licensing (goods manufacture)
+=> Joint venture
+=> Wholly Owned Subsidiaries"	3# A
+928	"Import/export: Documents
+=> quotation / proforma invoice
+=>  indent / Receipt of order
+=> Importer-Exporter Code
+=> Certificate of Inspection
+=> Certificate of origin
+=> End-user certificate
+=> Shipping/Courier related docx
+=> Demurrages"	3# A
+929	"Loans:
+=> Importer/ Debtor/ Drawee
+=> Exporter/ Creditor/ Drawer
+=> Payee"	3# A
+930	"Loans: Documents
+=> Bill of Exchange
+=> Export Credit Guarantee /Export Credit Insurance
+=> Letter of Credit / Letter of Undertaking for importer (Ref: Pillar#1B2-NPA)"	3# A
+931	Balance of Payment	3# A
+932	"Balance of Payment: RBI’s (Actual/Real) Method Of Classifying BOP
+=> Current Account
+=> Capital & Financial Accout"	3# A
+933	"Balance of Payment: Economic Transactions
+=> Residence
+=> Non- Residence"	3# A
+934	"Current Account:
+=> Visible Goods
+=> Invisible
+     => Service
+     => Transfer
+           > Remittance
+           > Gift
+           > Donantion
+     => Income
+           > Interest
+           > Profit
+           > Dividend"	3# A
+935	"Capital Account:
+=> Investment(Equity)
+     => FDI
+     => FPI
+=> Debt/ Loans
+     =>  Sovereign
+     =>  Pvt(ECB)
+=> Bank Deposit"	3# A
+936	Current Account Surplus	3# A
+937	Current Account Deficit	3# A
+938	"Balance Of Trade
+=> Goods
+=> Services"	3# A
+939	Net Terms of Trade/ Commodity terms of trade (Money Value)	3# A
+940	Gross (Barter) Terms of Trade (Physical Quantity)	3# A
+941	Income terms of trade	3# A
+942	"Top Import And Exports Of Goods For India
+=> Notable Import / Export Goods as per ES23
+=> Goods Export Before Corona: Notable items
+=> India’s TOP Agriculture Exports
+=> Services Import Export Before Corona
+=> India’s trade partners: Import / Export as per ES23
+=> India’s trade partners: Trade Surplus / Deficit With Notable Countries"	3# A
+943	Trade Surplus	3# A
+944	Trade Deficit	3# A
+945	Service Sector Exports → Global Capacity Centres	3# A
+946	Remittance	3# A
+947	Remittance /Migrant workers :Pravasi Bharatiya Diwas	3# A
+948	Current Account: Import of Oil 	3# A
+949	"Oil Exploration Policy
+=> New Exploration Licensing Policy
+=> Hydrocarbon Exploration and Licensing Policy
+=> Open Acreage Licensing Policy"	3# A
+950	Strategic Oil Reserves	3# A
+951	"India Strategic Petroleum Reserves
+=> Leasing out the 1 million tonnes of vacant strategic crude oil storage"	3# A
+952	Organization of the Petroleum Exporting Countries	3# A
+953	"Crude Oil: Map
+=> Supply Side Factor
+=> Demand Side Factor"	3# A
+954	"Crude Oil: Types
+=> High Sulphur content  (Sour)
+=> Low Sulphur content (Sweet)"	3# A
+955	Cartel	3# A
+956	Sweet Crude Oil	3# A
+957	Brent Index	3# A
+958	Barrel	3# A
+959	West Texas Intermediate	3# A
+960	Price cap Russian oil (2022)	3# A
+961	"Current Account: Import of Gold
+=> RBI’s 80:20 Scheme (2013-14)
+=> Sovereign Gold Bond Scheme (2015)
+=> Gold Monetization Scheme  (2015)
+=> Indian (Sovereign) Gold Coins (2015)
+=> customs duty  (2022)"	3# A
+962	Gold investment schemes pe taxes	3# A
+963	"Gold-related GK Data
+=> Mines
+=> Producers
+=> Exporters
+=> Gold as in Central Bank reserve"	3# A
+964	"Diamonds:
+=> Natural Diamonds
+=> Lab grown Diamonds"	3# A
+965	"Current Account: Export: Geographical Indication
+=> World Intellectual Property Organization
+=> GI Logo(Invaluable Treasures of Incredible India)
+=> Unity Malls for selling GI, Handicraft, etc. in Budget-2023
+      => One District One Product
+           > District as Export Hubs
+           > Towns of Export Excellence"	3# A
+966	"Current Account: Export: Special Economic Zone
+=> Sunset Clause in Income Tax Act
+=> Development Enterprise and Services Hub Bill, 2022
+
+=> Challenges"	3# A
+967	"Current Account: Export: Foreign Trade Policy
+=> 4 Pillars
+     => Incentive to Remission /Tax Remission
+     => Ease of doing Business
+     => Focus on Emerging sectors
+     => Collaboration of Stakeholders"	3# A
+968	"Foreign Trade Policy: Pillar#1: Incentive to Remission
+=> Remission of Duties and Taxes on Exported Products (Agri Mandi Tax)
+=> Export Promotion Capital Goods / Duty-free import of capital goods
+=> Advance Authorisation Scheme"	3# A
+969	"Foreign Trade Policy: Pillar#2: Ease of doing Business
+=> One-time Amnesty Scheme on Default on Export Obligations"	3# A
+970	"Foreign Trade Policy: Pillar#3: Emerging Areas
+=> Special Chemicals, Organisms, Materials, Equipment and Technologies & Dual-use Export
+=> E-Commerce Exports
+=> E-Governance initiatives
+     => Single Window Interface  for Facilitating Trade
+     => India Trade webportal and Niryat Mitra App
+=> Merchanting trade @Gift City"	3# A
+971	"Foreign Trade Policy: Pillar#4: Collaboration of Stakeholders
+=> One District One Product
+=> District as Export Hubs
+=> Towns of Export Excellence
+=> Niryat Bandhu Scheme (2013)"	3# A
+972	"Current Account: Export
+=> Interest Equalisation Scheme for Exporters Ref: Pillar#1D3
+=> Tax Credit for Exporters
+      => Services Exports from India Scheme
+      => Merchandise Exports from India Scheme
+      => Remission of Duties and Taxes on Exported Products
+=> Port Logistics: Authorised Economic Operator
+=> Krishi Udan Scheme v 2.0 (Civil Aviation Ministry, 2020)
+
+=> Export Promotion Mission in Budget-2025
+=> BharatTradeNet (BTN) Portal in Budget-2025
+=> Trade Connect e-Platform by DGFT(Directorate General of Foreign Trade)"	3# A
+973	"Current Account: Export Problems: Canals in Negative News
+=> Red Sea Attacks by Houthi Rebels (2023-Dec)
+=> Panama Canal Drying (2023)
+"	3# A
+974	"GLOBAL UNCERTAINTY HARMING GLOBAL TRADE- ES25
+=> Global Policy uncertainty
+      => consequences of risk
+      => measurement by RBI’s India-GUI Index"	3# A
+975	"Current Account: Investment
+=> Foreign Portfolio Investors
+=> Foreign Direct Investment"	3# A
+976	Hot money	3# A
+977	"FDI:
+=> Inward Direct Investment
+=> Outward Direct Investment"	3# A
+978	"FDI: Types
+=> Physical FDI
+=> Digital FDI"	3# A
+979	FPI to FDI conversion - new rules (2024)	3# A
+980	"FDI Permission
+=> Sectors having 100% permission
+=> Sectors having limited permission"	3# A
+981	Gross vs NET FDI inflow	3# A
+982	Real Estate	3# A
+983	Brownfield Project	3# A
+984	Greenfield Project	3# A
+985	Inventory based E-commerce	3# A
+986	India's FDI rules for E-commerce	3# A
+987	Hot money effect by FPIs	3# A
+988	Golden Visa	3# A
+989	MINISTRY OF COMMERCE AND INDUSTRY	3# A
+990	Commerce Ministry: Export Inspection Council	3# A
+991	Department for  Promotion of Industry and Internal Trade	3# A
+992	Cabinet Committee on Economic Affairs	3# A
+993	"International Financial Services Centre
+=> IFSC Authority Act, 2019"	3# A
+994	Gujarat International Finance Tec	3# A
+995	Variable Capital Companies	3# A
+996	Data Embassy @Gift city in Budget-2023	3# A
+997	Capital : Debt(Loans & Non Resident Bank Deposits)	3# A
+998	Capital Account: Net International Investment Position	3# A
+999	Asset liability ratio	3# A
+1000	External Debt overhang Problem	3# A
+1001	Autonomous transaction	3# B
+1002	Accommodating transaction	3# B
+1003	Sterilization	3# B
+1004	Mundell-Fleming Trilemma	3# B
+1005	India’s Balance Of Payment Crisis (1991)	3# B
+1006	"Disequilibrium in BoP: Factors responsible
+=> Development disequilibrium
+=> Secular or Long-term Disequilibrium
+=> Consumerism and Demonstration Effect
+=> Structural Disequilibrium
+=> Cyclical Disequilibrium"	3# B
+1007	International Monetary Fund	3# B
+1008	RBI's Forex Reserve	3# B
+1009	"Forex Reserve: compoenents
+=> Foreign Currency Assets
+=> Gold
+=> Reserve Tranche Position
+=> Special Drawing Right of International Monetary Fund"	3# B
+1010	"Forex Reserve: goes up or down: when / how?: Factors responsible
+=> BoP accommodating transaction
+=> RBI interventions
+=> Valuation Effect"	3# B
+1011	Significance of Foreign Exchange Reserves	3# B
+1012	Large Forex Reserve	3# B
+1013	"Indicators to find forex adequacy- as per IMF(ideal size)
+=> Ratio of forex-reserve to imports(RBI’s S.S.Tarapore committee)
+=> Ratio of forex-reserve to external debt(IMF’s Guidotti–Greenspan rule)
+=> Ratio of forex-reserve to monetary aggregates(M3)"	3# B
+1014	Weak Currency	3# B
+1015	Strong Currency	3# B
+1016	"Currency Exchange Rate/Nominal Exchange Rate
+=> Foreign Exchange Market"	3# B
+1017	Exchange Rate Regime	3# B
+1018	"Exchange Rate Regime: Theory
+=> Appreciation (Revaluation)
+=> Depreciation (Devaluation)"	3# B
+1019	Runaway inflation	3# B
+1020	Runaway depriciation	3# B
+1021	Fixed / Pegged System	3# B
+1022	Managed Float System	3# B
+1023	Currency Manipulation	3# B
+1024	Currency speculation and interest rates	3# B
+1025	Currency War 2018	3# B
+1026	Trump wants dollar weakened with Mar-a-Lago Accord (2025)	3# B
+1027	RBI lets The Rupee depreciate (2025)	3# B
+1028	Reverse Currency war	3# B
+1029	Soft Currency(less stable)	3# B
+1030	Hard Currency (more stable)	3# B
+1031	"Soft currency - factors affecting
+=> Income of customers
+=> Demand vs Supply of Forex
+=> Interest Rate Arbitrage
+=> Speculation"	3# B
+1032	Soft Dollar	3# B
+1033	Hard Dollar	3# B
+1034	Bad Money	3# B
+1035	Good Money	3# B
+1036	Bad Money Drives Out Good Money / Tughluq / Gresham	3# B
+1037	"Exchange Rate Regime: Historic
+=> Fixed exchange rate system
+     => Gold Standard (1870-1914)
+     =>  Bretton Woods System (1946-1971)"	3# B
+1038	Triffin Dilemma (Bretton Woods System)	3# B
+1039	Dollarisation	3# B
+1040	"Currency Exchange in India:
+=> Fixed Fiduciary System (1860 onwards)
+=> Proportional Reserve(1935 onwards)"	3# B
+1041	Minimum Reserve system	3# B
+1042	"Liberalisation of currency exchange:
+=> 1991's balance of payment crisis
+=> Dual Exchange Rate
+      => Market Rate
+      => Fixed Rate(RBI's style)"	3# B
+1043	Managed Float system	3# B
+1044	"Special Drawing Right / Paper gold / Accounting norm
+=>  Reserve Tranche Position
+=> IMF SDR Formula weightage"	3# B
+1045	IMF Quota Reform	3# B
+1046	IMF Governors	3# B
+1047	"Currency Convertibility
+=> RBI restriction on convertibility of rupee"	3# B
+1048	"Capital Account: Borrowing
+=> External commercial borrowing"	3# B
+1049	"Capital Account: Investment
+=> FPI"	3# B
+1050	"Capital Account: Trade
+=> Import of gold"	3# B
+1051	"Full convertibility of Rupee
+Anit Argument: Hot Money"	3# B
+1052	"Convertibility:
+=> S.S.  Tarapore Committee (1997)
+=> RBI reforms (2004-2019)"	3# B
+1053	Liberalised Remittance Scheme(2014)	3# B
+1054	FEMA Rules for Indian resident’s overseas investment (2022-Aug)	3# B
+1055	"Forex Card:
+=> Prepaid Forex Card
+=> Zero Forex Card"	3# B
+1056	LRS: TCS on Foreign: Trip / Shopping / Investment  (2023-Oct)	3# B
+1057	"Foreign Contribution Regulation Act 2010
+=> Donation
+=> Remittance"	3# B
+1058	Currency War: Fall of Indian rupee & RBI's response	3# B
+1059	Currency Swap	3# B
+1060	"RBI's Currency Swap:
+=>  RBI’s Currency Swap Agreement with Japan
+=> RBI Currency Swap with Indian Bankers
+=> Foreign Currency Non-Resident Account"	3# B
+1061	Voluntary Retention Route	3# B
+1062	Fully Accessible Route	3# B
+1063	Rupee Rouble Agreement	3# B
+1064	NOSTRO	3# B
+1065	VOSTRO	3# B
+1066	"Bank Documents:
+=> Bank Realisation Certificate (E-BRC)
+=> Foreign Inward Remittance Certificate"	3# B
+1067	FX-Retail platform: Clearing Corporation of India Limited (CCIL)	3# B
+1068	Internationalisation of Indian rupee	3# B
+1069	Euroization	3# B
+1070	"Dollarisation
+=> Pros
+=> De-dollarisation"	3# B
+1071	"Federal Tapering
+=> Taper Tantrum"	3# B
+1072	Quantitative Easing	3# B
+1073	Helicopter Money & Zero interest rate regimes	3# B
+1074	Nominal effective exchange rate	3# B
+1075	Real effective exchange rate	3# B
+1076	"Purchasing Power Parity
+GDP @ Nominal Exchange Rate
+GDP @ PPP Exchange Rate"	3# B
+1077	Big Mac Index	3# B
+1078	Twin Deficit	3# B
+1079	Bretton Woods Organizations	3# C
+1080	International Bank for Reconstruction and Development	3# C
+1081	International Monetary Fund	3# B
+1082	"World Bank Group:
+=>  International Bank for Reconstruction and Development
+=> International Development Association
+=> International Finance Corporation
+=> Multilateral Investment Guarantee Agency
+=> International Centre for the Settlement of Investment Disputes"	3# C
+1083	"Non-Bretton Woods:  Multilateral Development Banks
+=>  BRICS Bank
+=> Asian Infrastructure Investment Bank "	3# C
+1084	"Multilateral Development Banks: Others
+=> Bank for International Settlements
+=> African Development Bank
+=> Asian Development Bank
+=>  European Bank for Reconstruction & Development
+=>  Indian Development and Economic Assistance Scheme"	3# C
+1085	"IMF:
+=> Rapid Financing Instrument
+=>  Stand-By Arrangement
+=> Extended Fund Facility"	3# C
+1086	"International Trade: Theories
+=> Bullionism
+=> Mercantilist Theory
+=> Adam Smith’s Theory of Absolute Cost Advantage (1776)
+=> David Ricardo’s Theory of Comparative/Relative Cost Advantage (1817)
+     =>  Revealed Comparative Advantage (RCA) index
+=> Heckscher and Ohlin’s Factor - Proporations Theory  (1919)
+=> "	3# C
+1087	General Agreement for Tariffs and Trade	3# C
+1088	General Agreement on Trade in Services	3# C
+1089	World Trade Organization	3# C
+1090	"WTO:
+=> Ministerial Conference
+=> General Council
+=> Functions
+     => Tariff Barriers against international trade
+     => Non-tariff barriers against international trade
+     => Non-Tariff Barrier: Laptop import ban/license by Indian govt (2023)
+=> Notable Agreements
+     => Reduce tariff barriers
+          > GATT
+          > GATS
+     => Reduce non-tariff barriers
+          > Agreement on Technical Barriers to Trade
+          > Agreement on  Sanitary and Phytosanitary Measures
+      => Reduce non-tariff barriers: Subsidies
+             > Subsidies and Countervailing Measures(non-food)
+             > Agreement on Agriculture(food)
+     => Misc
+          > Trade-Related Aspects of Intellectual Property Rights
+          >  Trade-Related Investment Measures on Foreigners
+          > WTO's Agreement on Fisheries Subsidies (AFS-2022)
+          >  Plurilateral agreements"	3# C
+1091	Dumping	3# C
+1092	Countervailing Duty	3# C
+1093	Anti-Dumping Duty	3# C
+1094	WHO's Dispute Settlement Body	3# C
+1095	WTO’s Appellate Body (AB) Crisis	3# C
+1096	WTO Multiparty Interim Arbitration (MPIA) mechanism	3# C
+1097	"WTO: Negotiations/Summits/Packages
+=> Most Favoured Nation
+=> Least Developed Countries(duty free, quota free)
+=> Aid for Trade Initiative by WTO
+          > First-world countries, Advanced Economies, Developed Countries
+          >  Second world countries
+          >  Third world countries, developing countries, Emerging market economies (EME)
+=> Doha Development Round (Qatar 2001)"	3# C
+1098	"WTO: Ministerial Conferences
+=> Food subsidies & peace clause
+=> Food subsidies: Cairns Group
+=> Bali Package & Trade Facilitation Agreement / TFA (2013)
+     > Trade Facilitation Agreement
+=> Social and development subsidies
+=> Nairobi Package & SSM (2015)"	3# C
+1099	Signing vs ratification	3# C
+1100	Women Exporters in the Digital Economy (WEIDE) Fund by WTO (2024)	3# C
+1101	"Conventional Gravity Model
+=> Economic size/GDP
+=> Geographical distance"	3# C
+1102	Trade Agreements	3# C
+1103	"Classification of Trade Agreements
+#1 Depending upon number of participants:
+=> Bi-lateral
+=> Regional
+=> Multi-lateral
+
+#2Integrated level: Types
+=> Partial Scope Agreement (PSA)
+=> Preferential Trade Agreement (PTA)
+=> Customs Union (CU)
+=> Common Market (CM)
+=> Economic Union (EU)"	3# C
+1104	Free Trade Agreement	3# C
+1105	"Free Trade Agrement: Types
+=> CEPA = Comprehensive Economic Partnership Agreement
+=> CECA = Comprehensive Economic Cooperation Agreement
+=> CECPA = Comprehensive Economic Cooperation and Partnership Agreement
+=> ECTA = Economic Cooperation and Trade Agreement"	3# C
+1106	India-EFTA Trade and Economic Partnership Agreement (TEPA) 2024-Mar	3# C
+1107	Interim (early harvest) trade agreement 	3# C
+1108	"Free Trade Agreements: Agreements
+=> Transatlantic Trade and Investment Pact (TTIP) #NOT-yet-Signed
+=> U.S.-E.U. Trade and Technology Council (TTC) (2021)
+=> Atlantic Declaration - USA-UK (2023-June)
+=> Trans Pacific Partnership (TPP) #FAIL
+=> Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)"	3# C
+1109	"Indo-Pacific Economic Framework: Pillars
+Pillar I:  Trade(Observer)
+Pillar II: Supply Chain Resilience(Signed and Ratified)
+Pillar III: Clean Economy( Signed 2024-Sept)
+Pillar IV: Fair Economy: combat corruption, tax-evasion(Signed 2024-Sept)"	3# C
+1110	 Clean Economy Investor Forum	3# C
+1111	Regional Comprehensive Economic Partnership	3# C
+1112	"Trade agreements losing shine:
+=> North American Free Trade Agreement (NAFTA)
+=> South Asian Free Trade Area (SAFTA)
+=> African Continental Free Trade Agreement (AFCFTA)"	3# C
+1113	Protectionism, Trade war in Trump 1.0 (2017-21)	3# C
+1114	"Trump's Reciprocal Tariff- 2025 April
+=> Impact on India"	3# C
+1115	Re-shoring	3# C
+1116	Friend-shoring	3# C
+1117	HomeShoring	3# C
+1118	USA’s Generalized System of Preferences (GSP) list	3# C
+1119	"BREXIT = Britain Exit
+=> How will affect India?"	3# C
+1120	Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation	3# C
+1121	Mekong- Ganga Cooperation	3# C
+1122	Shanghai Cooperation Organization	3# C
+1123	Association of Southeast Asian Nations	3# C
+1124	Indian Ocean Rim Association	3# C
+1125	Asia-Pacific Economic Cooperation	3# C
+1126	Quadrilateral Security Dialogue	3# C
+1127	"G20 Summit
+3 main tracks
+=> Finance Track
+=> Sherpa Track
+=> Engagement Groups"	3# C
+1128	G7 - Group of Seven (1975)	3# C
+1129	NB8 - Nordic Group- 8 nation from Nordic-Baltic region	3# C
+1130	iCET between India and USA (2022)	3# C
+1131	"Minerals related groups
+=> RISE by World Bank and Japan(Resilient and Inclusive Supply-chain Enhancement)
+=> Minerals Security Partnership
+=> Minerals Security Finance Network"	3# C
+1132	"Infrastructure related notable groups:
+=> Belt and Road Initiative (BRI) / One belt one road (OBOR)
+=> Blue Dot Network (BDN)
+=> Global Gateway Initiative
+=> Partnership for Global Infrastructure Investment (PGII)
+=> India-Middle East-Europe corridor (IMEC)
+=> Partnership for Resilient and Inclusive Supply-chain Enhancement (RISE)"	3# C
+1133	"Grouping - Middle East
+=>  Gulf Cooperation Council
+=> Organisation of Islamic Cooperation"	3# C
+1134	Abraham Accords  (2020-Sept)	3# C
+1135	I2U2: Middle Eastern / West Asian QUAD	3# C
+1136	World Economic Forum - 1971	3# C
+1137	"UN specialized agencies related to Economy
+=> UNCTAD: United Nations Conference on Trade and Development
+=> UNDP: United Nations Development Programme
+=> UNIDO: UN Industrial Development Organization
+=> WIPO: World Intellectual Property Organization"	3# C
+1138	Andean Community	3# C
+1139	Mercosur	3# C
+1140	Pacific Alliance	3# C
+1141	Visegrád Group	3# C
+1142	Organization of Turkic States	3# C
+1143	World Government Summit 	3# C
+1144	Nuclear Suppliers Group - 1974	3# C
+1145	Australia Group 1984	3# C
+1146	Missile Technology Control Regime - 1987	3# C
+1147	Wassenaar Arrangement - 1996	3# C
+1148	"Russia related organization/ agreements
+=> Black Sea Grain Initiative (2022)
+=> CTBT Nuke Treaty: Putin Exit (2023)"	3# C
+1149	"USA related Arms Treaties
+=> Intermediate-Range Nuclear Forces - 1987
+=> New Strategic Arms Reduction Treaty - 1991
+=> Open Skies Treaty - 1992"	3# C
+1150		0
+1151		0
+1152		0
+1153		0
+1154		0
+1155		0
+1156		0
+1157		0
+1158		0
+1159		0
+1160		0
+1161		0
+1162		0
+1163		0
+1164		0
+1165		0
+1166		0
+1167		0
+1168		0
+1169		0
+1170		0
+1171		0
+1172		0
+1173		0
+1174		0
+1175		0
+1176		0
+1177		0
+1178		0
+1179		0
+1180		0
+1181		0
+1182		0
+1183		0
+1184		0
+1185		0
+1186		0
+1187		0
+1188		0
+1189		0
+1190		0
+1191		0
+1192		0
+1193		0
+1194		0
+1195		0
+1196		0
+1197		0
+1198		0
+1199		0
+1200		0
+1201		0
+1202		0
+1203		0
+1204		0
+1205		0
+1206		0
+1207		0
+1208		0
+1209		0
+1210		0
+1211		0
+1212		0
+1213		0
+1214		0
+1215		0
+1216		0
+1217		0
+1218		0
+1219		0
+1220		0
+1221		0
+1222		0
+1223		0
+1224		0
+1225		0
+1226		0
+1227		0
+1228		0
+1229		0
+1230		0
+1231		0
+1232		0
+1233		0
+1234		0
+1235		0
+1236		0
+1237		0
+1238		0
+1239		0
+1240		0
+1241		0
+1242		0
+1243		0
+1244		0
+1245		0
+1246		0
+1247		0
+1248		0
+1249		0
+1250		0
+1251		0
+1252		0
+1253		0
+1254		0
+1255		0
+1256		0
+1257		0
+1258		0
+1259		0
+1260		0
+1261		0
+1262		0
+1263		0
+1264		0
+1265		0
+1266		0
+1267		0
+1268		0
+1269		0
+1270		0
+1271		0
+1272		0
+1273		0
+1274		0
+1275		0
+1276		0
+1277		0
+1278		0
+1279		0
+1280		0
+1281		0
+1282		0
+1283		0
+1284		0
+1285		0
+1286		0
+1287		0
+1288		0
+1289		0
+1290		0
+1291		0
+1292		0
+1293		0
+1294		0
+1295		0
+1296		0
+1297		0
+1298		0
+1299		0
+1300		0
+1301		0
+1302		0
+1303		0
+1304		0
+1305		0
+1306		0
+1307		0
+1308		0
+1309		0
+1310		0
+1311		0
+1312		0
+1313		0
+1314		0
+1315		0
+1316		0
+1317		0
+1318		0
+1319		0
+1320		0
+1321		0
+1322		0
+1323		0
+1324		0
+1325		0
+1326		0
+1327		0
+1328		0
+1329		0
+1330		0
+1331		0
+1332		0
+1333		0
+1334		0
+1335		0
+1336		0
+1337		0
+1338		0
+1339		0
+1340		0
+1341		0
+1342		0
+1343		0
+1344		0
+1345		0
+1346		0
+1347		0
+1348		0
+1349		0
+1350		0
+1351		0
+1352		0
+1353		0
+1354		0
+1355		0
+1356		0
+1357		0
+1358		0
+1359		0
+1360		0
+1361		0
+1362		0
+1363		0
+1364		0
+1365		0
+1366		0
+1367		0
+1368		0
+1369		0
+1370		0
+1371		0
+1372		0
+1373		0
+1374		0
+1375		0
+1376		0
+1377		0
+1378		0
+1379		0
+1380		0
+1381		0
+1382		0
+1383		0
+1384		0
+1385		0
+1386		0
+1387		0
+1388		0
+1389		0
+1390		0
+1391		0
+1392		0
+1393		0
+1394		0
+1395		0
+1396		0
+1397		0
+1398		0
+1399		0
+1400		0
+1401		0
+1402		0
+1403		0
+1404		0
+1405		0
+1406		0
+1407		0
+1408		0
+1409		0
+1410		0
+1411		0
+1412		0
+1413		0
+1414		0
+1415		0
+1416		0
+1417		0
+1418		0
+1419		0
+1420		0
+1421		0
+1422		0
+1423		0
+1424		0
+1425		0
+1426		0
+1427		0
+1428		0
+1429		0
+1430		0
+1431		0
+1432		0
+1433		0
+1434		0
+1435		0
+1436		0
+1437		0
+1438		0
+1439		0
+1440		0
+1441		0
+1442		0
+1443		0
+1444		0
+1445		0
+1446		0
+1447		0
+1448		0
+1449		0
+1450		0
+1451		0
+1452		0
+1453		0
+1454		0
+1455		0
+1456		0
+1457		0
+1458		0
+1459		0
+1460		0
+1461		0
+1462		0
+1463		0
+1464		0
+1465		0
+1466		0
+1467		0
+1468		0
+1469		0
+1470		0
+1471		0
+1472		0
+1473		0
+1474		0
+1475		0
+1476		0
+1477		0
+1478		0
+1479		0
+1480		0
+1481		0
+1482		0
+1483		0
+1484		0
+1485		0
+1486		0
+1487		0
+1488		0
+1489		0
+1490		0
+1491		0
+1492		0
+1493		0
+1494		0
+1495		0
+1496		0
+1497		0
+1498		0
+1499		0
+1500		0
+1501		0
+1502		0
+1503		0
+1504		0
+1505		0
+1506		0
+1507		0
+1508		0
+1509		0
+1510		0
+1511		0
+1512		0
+1513		0
+1514		0
+1515		0
+1516		0
+1517		0
+1518		0
+1519		0
+1520		0
+1521		0
+1522		0
+1523		0
+1524		0
+1525		0
+1526		0
+1527		0
+1528		0
+1529		0
+1530		0
+1531		0
+1532		0
+1533		0
+1534		0
+1535		0
+1536		0
+1537		0
+1538		0
+1539		0
+1540		0
+1541		0
+1542		0
+1543		0
+1544		0
+1545		0
+1546		0
+1547		0
+1548		0
+1549		0
+1550		0
+1551		0
+1552		0
+1553		0
+1554		0
+1555		0
+1556		0
+1557		0
+1558		0
+1559		0
+1560		0
+1561		0
+1562		0
+1563		0
+1564		0
+1565		0
+1566		0
+1567		0
+1568		0
+1569		0
+1570		0
+1571		0
+1572		0
+1573		0
+1574		0
+1575		0
+1576		0
+1577		0
+1578		0
+1579		0
+1580		0
+1581		0
+1582		0
+1583		0
+1584		0
+1585		0
+1586		0
+1587		0
+1588		0
+1589		0
+1590		0
+1591		0
+1592		0
+1593		0
+1594		0
+1595		0
+1596		0
+1597		0
+1598		0
+1599		0
+1600		0
+1601		0
+1602		0
+1603		0
+1604		0
+1605		0
+1606		0
+1607		0
+1608		0
+1609		0
+1610		0
+1611		0
+1612		0
+1613		0
+1614		0
+1615		0
+1616		0
+1617		0
+1618		0
+1619		0
+1620		0
+1621		0
+1622		0
+1623		0
+1624		0
+1625		0
+1626		0
+1627		0
+1628		0
+1629		0
+1630		0
+1631		0
+1632		0
+1633		0
+1634		0
+1635		0
+1636		0
+1637		0
+1638		0
+1639		0
+1640		0
+1641		0
+1642		0
+1643		0
+1644		0
+1645		0
+1646		0
+1647		0
+1648		0
+1649		0
+1650		0
+1651		0
+1652		0
+1653		0
+1654		0
+1655		0
+1656		0
+1657		0
+1658		0
+1659		0
+1660		0
+1661		0
+1662		0
+1663		0
+1664		0
+1665		0
+1666		0
+1667		0
+1668		0
+1669		0
+1670		0
+1671		0
+1672		0
+1673		0
+1674		0
+1675		0
+1676		0
+1677		0
+1678		0
+1679		0
+1680		0
+1681		0
+1682		0
+1683		0
+1684		0
+1685		0
+1686		0
+1687		0
+1688		0
+1689		0
+1690		0
+1691		0
+1692		0
+1693		0
+1694		0
+1695		0
+1696		0
+1697		0
+1698		0
+1699		0
+1700		0
+1701		0
+1702		0
+1703		0
+1704		0
+1705		0
+1706		0
+1707		0
+1708		0
+1709		0
+1710		0
+1711		0
+1712		0
+1713		0
+1714		0
+1715		0
+1716		0
+1717		0
+1718		0
+1719		0
+1720		0
+1721		0
+1722		0
+1723		0
+1724		0
+1725		0
+1726		0
+1727		0
+1728		0
+1729		0
+1730		0
+1731		0
+1732		0
+1733		0
+1734		0
+1735		0
+1736		0
+1737		0
+1738		0
+1739		0
+1740		0
+1741		0
+1742		0
+1743		0
+1744		0
+1745		0
+1746		0
+1747		0
+1748		0
+1749		0
+1750		0
+1751		0
+1752		0
+1753		0
+1754		0
+1755		0
+1756		0
+1757		0
+1758		0
+1759		0
+1760		0
+1761		0
+1762		0
+1763		0
+1764		0
+1765		0
+1766		0
+1767		0
+1768		0
+1769		0
+1770		0
+1771		0
+1772		0
+1773		0
+1774		0
+1775		0
+1776		0
+1777		0
+1778		0
+1779		0
+1780		0
+1781		0
+1782		0
+1783		0
+1784		0
+1785		0
+1786		0
+1787		0
+1788		0
+1789		0
+1790		0
+1791		0
+1792		0
+1793		0
+1794		0
+1795		0
+1796		0
+1797		0
+1798		0
+1799		0
+1800		0
+1801		0
+1802		0
+1803		0
+1804		0
+1805		0
+1806		0
+1807		0
+1808		0
+1809		0
+1810		0
+1811		0
+1812		0
+1813		0
+1814		0
+1815		0
+1816		0
+1817		0
+1818		0
+1819		0
+1820		0
+1821		0
+1822		0
+1823		0
+1824		0
+1825		0
+1826		0
+1827		0
+1828		0
+1829		0
+1830		0
+1831		0
+1832		0
+1833		0
+1834		0
+1835		0
+1836		0
+1837		0
+1838		0
+1839		0
+1840		0
+1841		0
+1842		0
+1843		0
+1844		0
+1845		0
+1846		0
+1847		0
+1848		0
+1849		0
+1850		0
+1851		0
+1852		0
+1853		0
+1854		0
+1855		0
+1856		0
+1857		0
+1858		0
+1859		0
+1860		0
+1861		0
+1862		0
+1863		0
+1864		0
+1865		0
+1866		0
+1867		0
+1868		0
+1869		0
+1870		0
+1871		0
+1872		0
+1873		0
+1874		0
+1875		0
+1876		0
+1877		0
+1878		0
+1879		0
+1880		0
+1881		0
+1882		0
+1883		0
+1884		0
+1885		0
+1886		0
+1887		0
+1888		0
+1889		0
+1890		0
+1891		0
+1892		0
+1893		0
+1894		0
+1895		0
+1896		0
+1897		0
+1898		0
+1899		0
+1900		0
+1901		0
+1902		0
+1903		0
+1904		0
+1905		0
+1906		0
+1907		0
+1908		0
+1909		0
+1910		0
+1911		0
+1912		0
+1913		0
+1914		0
+1915		0
+1916		0
+1917		0
+1918		0
+1919		0
+1920		0
+1921		0
+1922		0
+1923		0
+1924		0
+1925		0
+1926		0
+1927		0
+1928		0
+1929		0
+1930		0
+1931		0
+1932		0
+1933		0
+1934		0
+1935		0
+1936		0
+1937		0
+1938		0
+1939		0
+1940		0
+1941		0
+1942		0
+1943		0
+1944		0
+1945		0
+1946		0
+1947		0
+1948		0
+1949		0
+1950		0
+1951		0
+1952		0
+1953		0
+1954		0
+1955		0
+1956		0
+1957		0
+1958		0
+1959		0
+1960		0
+1961		0
+1962		0
+1963		0
+1964		0
+1965		0
+1966		0
+1967		0
+1968		0
+1969		0
+1970		0
+1971		0
+1972		0
+1973		0
+1974		0
+1975		0
+1976		0
+1977		0
+1978		0
+1979		0
+1980		0
+1981		0
+1982		0
+1983		0
+1984		0
+1985		0
+1986		0
+1987		0
+1988		0
+1989		0
+1990		0
+1991		0
+1992		0
+1993		0
+1994		0
+1995		0
+1996		0
+1997		0
+1998		0
+1999		0
