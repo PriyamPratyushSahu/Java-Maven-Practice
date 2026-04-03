@@ -1,4 +1,5 @@
 package dailyNeedClass;
+
 import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
@@ -25,7 +26,8 @@ public class ExtractUniqueWords {
         uniqueItems.remove("SBI Liquid Fund");                      //9
 
         uniqueItems.remove("Task");                                 //10
-        uniqueItems.remove("Panner");                                 //10
+        uniqueItems.remove("Panner");                               //11
+        uniqueItems.remove("");                                   //12
 
 
         // Step 4: Print the unique items in ascending order
