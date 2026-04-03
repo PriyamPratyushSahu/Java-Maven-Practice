@@ -27,7 +27,7 @@ public class ExtractUniqueWords {
 
         uniqueItems.remove("Task");                                 //10
         uniqueItems.remove("Panner");                               //11
-        uniqueItems.remove("");                                   //12
+        uniqueItems.remove("");                                     //12
 
 
         // Step 4: Print the unique items in ascending order
