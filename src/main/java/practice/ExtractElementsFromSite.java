@@ -25,13 +25,12 @@ public class ExtractElementsFromSite {
         driver.get(site);//
         int ch;
         //Manual Login
-        while (true) {
+        do {
             System.out.println("Press 1 to continue: ");
             ch = Integer.parseInt(br.readLine());
-            if (ch == 1) break;
 
 
-        }
+        } while (ch != 1);
         System.out.println("Login Successful");
 
         // Find all elements with the given class
