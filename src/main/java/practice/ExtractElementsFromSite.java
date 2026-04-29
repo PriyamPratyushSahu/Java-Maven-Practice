@@ -10,18 +10,19 @@ import java.io.InputStreamReader;
 import java.util.List;
 
 public class ExtractElementsFromSite {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
         // Set path to chromedriver (update path if needed)
         WebDriver driver;
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+
         driver = new ChromeDriver();
         driver.manage().window().maximize();
 
-
-
-        // Open your target URL
-        String site = "";
+        String site;
+        System.out.println("Paste the site name:");
+        site = br.readLine();
         driver.get(site);//
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int ch;
         //Manual Login
         while (true) {
