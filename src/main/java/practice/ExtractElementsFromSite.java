@@ -28,8 +28,6 @@ public class ExtractElementsFromSite {
         do {
             System.out.println("Press 1 to continue: ");
             ch = Integer.parseInt(br.readLine());
-
-
         } while (ch != 1);
         System.out.println("Login Successful");
 
