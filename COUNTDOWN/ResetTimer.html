@@ -10,111 +10,46 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap" rel="stylesheet">
 
     <style>
-        * {
-          margin: 0;
-          padding: 0;
-          box-sizing: border-box;
-          font-family: 'Inter', -apple-system, sans-serif;
-        }
-
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
         body {
-          height: 100vh;
-          background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          overflow: hidden;
+            height: 100vh;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            display: flex; justify-content: center; align-items: center; overflow: hidden;
         }
 
-        .timer-container {
-          position: relative;
-          width: 98vmin;
-          height: 98vmin;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
+        .timer-container { position: relative; width: 98vmin; height: 98vmin; display: flex; justify-content: center; align-items: center; }
 
-        .progress-ring {
-          position: absolute;
-          width: 100%;
-          height: 100%;
-          transform: rotate(-90deg);
-          overflow: visible;
-        }
+        .progress-ring { position: absolute; width: 100%; height: 100%; transform: rotate(-90deg); overflow: visible; }
 
-        .progress-ring__bg {
-          fill: none;
-          stroke: #161618;
-          stroke-width: 16;
-        }
+        /* Background Track */
+        .progress-ring__bg { fill: none; stroke: #161618; stroke-width: 16; }
 
+        /* Remaining Time (Neon Cyan) */
         .progress-ring__circle {
-          fill: none;
-          stroke: #00e5ff;
-          stroke-width: 16;
-          stroke-linecap: round;
-          transition: stroke-dashoffset 0.3s linear;
-          filter: drop-shadow(0 0 15px rgba(0, 229, 255, 0.7));
-          z-index: 10;
+            fill: none; stroke: #00e5ff; stroke-width: 16; stroke-linecap: round;
+            transition: stroke-dashoffset 0.5s linear;
+            filter: drop-shadow(0 0 15px rgba(0, 229, 255, 0.7));
         }
 
-        /* ========================================= */
-        /* RIPPLE EFFECTS - Shrinking Border & Reach */
-        /* ========================================= */
-        .ripple-circle {
-          fill: none;
-          stroke-linecap: round;
+        /* Continuous Minute Progress (White Line) */
+        .progress-ring__minute {
+            fill: none; stroke: #ffffff; stroke-width: 4; stroke-linecap: round;
+            filter: drop-shadow(0 0 5px #ffffff);
+            /* Removed the CSS dasharray so we can control the full fill via JS */
         }
 
+        .ripple-circle { fill: none; stroke-linecap: round; }
         .ripple-second { stroke: #00e5ff; animation: ripple-anim-sec 1s ease-out forwards; }
         .ripple-minute { stroke: #ffffff; animation: ripple-anim-min 2s ease-out forwards; }
         .ripple-hour   { stroke: #00e5ff; animation: ripple-anim-hr 3s ease-out forwards; }
 
-        /* Expanding the radius to exactly 230px while decreasing stroke-width */
-        @keyframes ripple-anim-sec {
-          0%   { r: 20px; stroke-width: 8px; opacity: 0.8; }
-          100% { r: 230px; stroke-width: 0.5px; opacity: 0; }
-        }
+        @keyframes ripple-anim-sec { 0% { r: 20px; stroke-width: 8px; opacity: 0.8; } 100% { r: 230px; stroke-width: 0.5px; opacity: 0; } }
+        @keyframes ripple-anim-min { 0% { r: 20px; stroke-width: 16px; opacity: 0.9; } 100% { r: 230px; stroke-width: 1px; opacity: 0; } }
+        @keyframes ripple-anim-hr  { 0% { r: 20px; stroke-width: 32px; opacity: 1; } 100% { r: 230px; stroke-width: 2px; opacity: 0; } }
 
-        @keyframes ripple-anim-min {
-          0%   { r: 20px; stroke-width: 16px; opacity: 0.9; filter: drop-shadow(0 0 8px #ffffff); }
-          100% { r: 230px; stroke-width: 1px; opacity: 0; filter: drop-shadow(0 0 0px #ffffff); }
-        }
-
-        @keyframes ripple-anim-hr {
-          0%   { r: 20px; stroke-width: 32px; opacity: 1; filter: drop-shadow(0 0 15px #00e5ff); }
-          100% { r: 230px; stroke-width: 2px; opacity: 0; filter: drop-shadow(0 0 0px #00e5ff); }
-        }
-
-        .center-content {
-          position: absolute;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-          text-align: center;
-          width: 100%;
-          z-index: 20;
-          pointer-events: none; /* Let clicks pass through to background */
-        }
-
-        .countdown-time {
-          color: #ffffff;
-          font-size: 18vmin;
-          font-weight: 800;
-          letter-spacing: -2px;
-          line-height: 1;
-        }
-
-        .target-label {
-          color: rgba(255, 255, 255, 0.6);
-          font-size: 4vmin;
-          font-weight: 500;
-          margin-top: 20px;
-          letter-spacing: 2px;
-          text-transform: uppercase;
-        }
+        .center-content { position: absolute; text-align: center; color: white; z-index: 20; pointer-events: none; }
+        .countdown-time { font-size: 18vmin; font-weight: 800; letter-spacing: -2px; }
+        .target-label { color: rgba(255, 255, 255, 0.6); font-size: 4vmin; font-weight: 500; margin-top: 20px; letter-spacing: 2px; text-transform: uppercase; }
     </style>
 </head>
 <body>
@@ -123,6 +58,7 @@
     <svg class="progress-ring" viewBox="0 0 500 500">
         <circle class="progress-ring__bg" cx="250" cy="250" r="230" />
         <circle class="progress-ring__circle" id="progressCircle" cx="250" cy="250" r="230" />
+        <circle class="progress-ring__minute" id="minuteIndicator" cx="250" cy="250" r="230" />
     </svg>
 
     <div class="center-content">
@@ -134,72 +70,55 @@
 <script>
     const DAILY_TARGET_TIME = "20:45:00";
     const circle = document.getElementById('progressCircle');
-    const radius = circle.r.baseVal.value;
+    const minuteIndicator = document.getElementById('minuteIndicator');
+    const radius = 230;
     const circumference = 2 * Math.PI * radius;
 
+    // Apply the full circumference to both rings
     circle.style.strokeDasharray = `${circumference} ${circumference}`;
-    circle.style.strokeDashoffset = circumference;
+    minuteIndicator.style.strokeDasharray = `${circumference} ${circumference}`;
 
     function triggerRipple(type) {
         const svg = document.querySelector('.progress-ring');
         const ripple = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-        ripple.setAttribute('cx', '250');
-        ripple.setAttribute('cy', '250');
-        // Initial r matches keyframes
+        ripple.setAttribute('cx', '250'); ripple.setAttribute('cy', '250');
         ripple.setAttribute('r', '20');
         ripple.classList.add('ripple-circle', `ripple-${type}`);
-
-        // Add before the main ring so it appears behind it
         svg.insertBefore(ripple, circle);
-
-        const duration = type === 'hour' ? 3000 : (type === 'minute' ? 2000 : 1000);
-        setTimeout(() => ripple.remove(), duration);
+        setTimeout(() => ripple.remove(), type === 'hour' ? 3000 : 2000);
     }
 
-    function formatTo12Hour(timeStr) {
-        const [hh, mm] = timeStr.split(':');
-        let hours = parseInt(hh, 10);
-        const ampm = hours >= 12 ? 'PM' : 'AM';
-        hours = hours % 12;
-        hours = hours ? hours : 12;
-        return `${hours}:${mm} ${ampm}`;
-    }
-
-    document.getElementById('targetDisplay').innerText = `Target: ${formatTo12Hour(DAILY_TARGET_TIME)}`;
-
-    function setCircleProgress(percent) {
-        circle.style.strokeDashoffset = circumference - (percent / 100) * circumference;
-    }
-
-    let prevSeconds, prevMinutes, prevHours;
-
-    function updateTimer() {
+    function update() {
         const now = new Date();
-        const [targetHours, targetMinutes, targetSeconds] = DAILY_TARGET_TIME.split(':').map(Number);
-        let targetDate = new Date(now.getFullYear(), now.getMonth(), now.getDate(), targetHours, targetMinutes || 0, targetSeconds || 0);
+        const [targetH, targetM, targetS] = DAILY_TARGET_TIME.split(':').map(Number);
+        let target = new Date(now.getFullYear(), now.getMonth(), now.getDate(), targetH, targetM, targetS);
+        if (now >= target) target.setDate(target.getDate() + 1);
 
-        if (now >= targetDate) targetDate.setDate(targetDate.getDate() + 1);
+        const diff = target - now;
+        const h = Math.floor(diff / 3600000), m = Math.floor((diff/60000)%60), s = Math.floor((diff/1000)%60);
 
-        const diffInMs = targetDate - now;
-        const hours = Math.floor(diffInMs / (1000 * 60 * 60));
-        const minutes = Math.floor((diffInMs % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((diffInMs % (1000 * 60)) / 1000);
+        document.getElementById('timerDisplay').innerText = `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+        circle.style.strokeDashoffset = circumference - ((diff / 86400000) * circumference);
 
-        document.getElementById('timerDisplay').innerText =
-            String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0') + ":" + String(seconds).padStart(2, '0');
+        // Update Minute Indicator (Continuous white line filling up)
+        // Adding milliseconds makes the fill completely liquid and smooth
+        const exactSeconds = now.getSeconds() + (now.getMilliseconds() / 1000);
+        const secProgress = exactSeconds / 60;
+        minuteIndicator.style.strokeDashoffset = circumference - (secProgress * circumference);
 
-        setCircleProgress((diffInMs / (24 * 60 * 60 * 1000)) * 100);
-
-        if (prevSeconds !== undefined) {
-            if (seconds !== prevSeconds) triggerRipple('second');
-            if (minutes !== prevMinutes) triggerRipple('minute');
-            if (hours !== prevHours) triggerRipple('hour');
+        // Ripple logic
+        if (window.prevS !== undefined) {
+            if (s !== window.prevS) triggerRipple('second');
+            if (m !== window.prevM) triggerRipple('minute');
+            if (h !== window.prevH) triggerRipple('hour');
         }
-        prevSeconds = seconds; prevMinutes = minutes; prevHours = hours;
+        window.prevS = s; window.prevM = m; window.prevH = h;
     }
 
-    updateTimer();
-    setInterval(updateTimer, 1000);
+    document.getElementById('targetDisplay').innerText = `Target: 8:45 PM`;
+
+    // Set to roughly 60fps (16ms) for a buttery smooth continuous line animation
+    setInterval(update, 16);
 </script>
 </body>
 </html>
