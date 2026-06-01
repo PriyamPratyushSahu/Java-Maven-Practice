@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Full-Screen Ring Timer</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Inter', -apple-system, sans-serif;
+        }
+
+        body {
+          height: 100vh;
+          background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          overflow: hidden;
+
+        }
+
+        .timer-container {
+          position: relative;
+          /* vmin ensures it scales responsively to fill the screen without clipping */
+          width: 82vmin;
+          height: 82vmin;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        /* SVG Ring Styling */
+        .progress-ring {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          transform: rotate(-90deg); /* Rotates circle so it drains starting from 12 o'clock */
+        }
+
+        .progress-ring__bg {
+          fill: none;
+          stroke: #161618; /* Minimalist sleek track guide */
+          stroke-width: 16;
+        }
+
+        .progress-ring__circle {
+          fill: none;
+          stroke: #00e5ff; /* Vibrant neon cyan from your image */
+          stroke-width: 16;
+          stroke-linecap: round;
+          transition: stroke-dashoffset 0.3s linear;
+          /* High-end neon ambient glow */
+          filter: drop-shadow(0 0 15px rgba(0, 229, 255, 0.7));
+        }
+
+        /* Central Content Area */
+        .center-content {
+          position: absolute;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          width: 100%;
+        }
+
+        /* Main Countdown Timer */
+        .countdown-time {
+          color: #ffffff;
+          font-size: 12.5vmin; /* Beautiful bold presentation scaled to viewport */
+          font-weight: 800;    /* Ultra Bold */
+          letter-spacing: -2px;
+          line-height: 1;
+        }
+
+        /* Target Display Label */
+        .target-label {
+          color: #66666e;
+          font-size: 4vmin;
+          font-weight: 500;
+          margin-top: 20px;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+
+<div class="timer-container">
+    <svg class="progress-ring" viewBox="0 0 500 500">
+        <circle class="progress-ring__bg" cx="250" cy="250" r="230" />
+        <circle class="progress-ring__circle" id="progressCircle" cx="250" cy="250" r="230" />
+    </svg>
+
+    <div class="center-content">
+        <div class="countdown-time" id="timerDisplay">00:00:00</div>
+        <div class="target-label" id="targetDisplay">TARGET: --:--</div>
+    </div>
+</div>
+
+<script>
+    // ========================================================
+    // 1. INPUT TARGET TIME HERE (24-Hour Format -> HH:MM:SS)
+    // Examples: "22:00:00" for 10 PM, "08:30:00" for 8:30 AM
+    // ========================================================
+    const DAILY_TARGET_TIME = "20:45:00";
+
+    // Setup circular geometry math
+    const circle = document.getElementById('progressCircle');
+    const radius = circle.r.baseVal.value;
+    const circumference = 2 * Math.PI * radius;
+
+    circle.style.strokeDasharray = `${circumference} ${circumference}`;
+    circle.style.strokeDashoffset = circumference;
+
+    // Helper utility converting 24h format into a clean 12h format display string
+    function formatTo12Hour(timeStr) {
+        const [hh, mm] = timeStr.split(':');
+        let hours = parseInt(hh, 10);
+        const ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12;
+        hours = hours ? hours : 12;
+        return `${hours}:${mm} ${ampm}`;
+    }
+
+    // Set the static reference point text inside the circle frame
+    document.getElementById('targetDisplay').innerText = `Target: ${formatTo12Hour(DAILY_TARGET_TIME)}`;
+
+    function setCircleProgress(percent) {
+        const offset = circumference - (percent / 100) * circumference;
+        circle.style.strokeDashoffset = offset;
+    }
+
+    function updateTimer() {
+        const now = new Date();
+        const [targetHours, targetMinutes, targetSeconds] = DAILY_TARGET_TIME.split(':').map(Number);
+
+        let targetDate = new Date(
+            now.getFullYear(),
+            now.getMonth(),
+            now.getDate(),
+            targetHours,
+            targetMinutes || 0,
+            targetSeconds || 0
+        );
+
+        // Reset check: If current time surpassed today's window, switch context to tomorrow
+        if (now >= targetDate) {
+            targetDate.setDate(targetDate.getDate() + 1);
+        }
+
+        const diffInMs = targetDate - now;
+
+        const hours = Math.floor(diffInMs / (1000 * 60 * 60));
+        const minutes = Math.floor((diffInMs % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((diffInMs % (1000 * 60)) / 1000);
+
+        // Render zero-padded numerical tracking units
+        document.getElementById('timerDisplay').innerText =
+            String(hours).padStart(2, '0') + ":" +
+            String(minutes).padStart(2, '0') + ":" +
+            String(seconds).padStart(2, '0');
+
+        // Ring logic evaluation relative over a full 24hr loop timeframe
+        const totalDayMs = 24 * 60 * 60 * 1000;
+        const percentRemaining = (diffInMs / totalDayMs) * 100;
+
+        setCircleProgress(percentRemaining);
+    }
+
+    // Initialize animation execution thread loops
+    updateTimer();
+    setInterval(updateTimer, 1000);
+</script>
+
+</body>
+</html>
