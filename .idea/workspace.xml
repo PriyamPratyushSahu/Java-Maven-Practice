@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb3c0351-97ee-44bf-ae0a-197297f64bfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Delhi Sultanate.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,28 +22,69 @@
     "assignee": "PriyamPratyushSahu"
   }
 }]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PriyamPratyushSahu/Java-Maven-Practice.git",
-    "accountId": "c6c7f976-d593-4e4b-9734-f6595643b2fb"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PriyamPratyushSahu/Java-Maven-Practice.git&quot;,
+    &quot;accountId&quot;: &quot;c6c7f976-d593-4e4b-9734-f6595643b2fb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="3Efq4cPU3Qk9RWLsPhfwNhcYkbn" />
+  <component name="ProjectId" id="3EhfAmUp5N10eJR4yZZqtDnZjUJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExtractGroceryAmount.executor": "Run",
+    "Application.ExtractUniqueWords.executor": "Run",
+    "Maven.Java_Maven_Practice [clean,install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ExtractGroceryAmount">
+    <configuration name="ExtractGroceryAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyNeedClass.ExtractGroceryAmount" />
+      <module name="Java_Maven_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dailyNeedClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtractUniqueWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyNeedClass.ExtractUniqueWords" />
+      <module name="Java_Maven_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dailyNeedClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExtractGroceryAmount" />
+        <item itemvalue="Application.ExtractUniqueWords" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,10 +95,10 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bb3c0351-97ee-44bf-ae0a-197297f64bfa" name="Changes" comment="" />
-      <created>1780579781774</created>
+      <created>1780635584002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1780579781774</updated>
+      <updated>1780635584002</updated>
     </task>
     <servers />
   </component>
