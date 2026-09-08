@@ -35,7 +35,6 @@ public class ExtractElementsFromSite {
         List<WebElement> lessons = driver.findElements(
                 By.cssSelector(".css-k6can1-H6-LessonName.e1jho88x11")
         );
-
         // Print text of each element
         for (WebElement lesson : lessons) {
             System.out.println(lesson.getText());
