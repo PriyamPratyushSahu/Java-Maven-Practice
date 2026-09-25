@@ -23,7 +23,7 @@ public class ExtractGroceryAmount {
             else
                 totalFormula = totalFormula.concat(" + "+priceSplit[1]);
         }
-        System.out.println(totalPrice);
+        System.out.printf("%.2f\n", totalPrice);
         System.out.println("\nFormula Print");
         System.out.println(totalFormula);
 
