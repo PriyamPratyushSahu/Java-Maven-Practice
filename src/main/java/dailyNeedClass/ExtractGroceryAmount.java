@@ -8,7 +8,7 @@ public class ExtractGroceryAmount {
         Double totalPrice = 0.0;
         System.out.println("Individual Price print");
         for(String i :eachItem){
-            // Spliting string into two parts - Item name, Price
+            // Splitting string into two parts - Item name, Price
             String priceSplit[] = i.split("₹ ");
 
             //Extracting the bracket content
