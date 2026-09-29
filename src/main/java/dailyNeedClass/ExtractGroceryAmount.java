@@ -5,7 +5,7 @@ public class ExtractGroceryAmount {
         String groceryString = "";
         String eachItem[] = groceryString.split("\n");
         String totalFormula = "= ";
-        Double totalPrice = 0.0;
+        double totalPrice = 0.0;
         System.out.println("Individual Price print");
         for(String i :eachItem){
             // Splitting string into two parts - Item name, Price
