@@ -1,0 +1,23 @@
+Project Name: CFRI- Credit Risk Fraud Index File Transfer RBC to TSYS-New Files.
+Project Description:
+This project is part of ADT program under Fraud Management. We will be creating a Risk Index called CFRI that would be passed to TSYS for ingestion via file transfer. We require 5Q assistance to pass this file to TSYS and receive a response file from TSYS.
+
+This Risk Index would be used to build fraud rules within TSYS system
+for credit cards for client IDs: 2430, 3357, 8880, 8945.
+
+QE Sign Off Date : 16™ October
+Implementation Date: 22TH October
+
+
+
+
+Project Name: 4680-68-Overdraft Delinquency Counter Reset
+
+Project Description:
+
+The primary objective of this project is to ensure compliance with policy and regulatory requirements by enhancing the accuracy of the delinquency counter logic in the CACS system for overdraft accounts.
+
+The updated logic will accurately track the number of consecutive days an account remains more than its Authorized Overdraft Limit (AOL), addressing gaps in the current process and ensuring proper classification of accounts that exceed the 90-day delinquency threshold. This includes replacing the use of the Last Deposit Date with a more reliable calculation based on the Overdraft Start Counter (O/D START CNTR) and Excess Counter (EXCESS CNTR).
+
+QE Sign Off Date : 13 October, 2026
+Implementation Date:
