@@ -3,7 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Doomsday Countdown</title>
+  <title>DOOMSDAY IS COMING</title>
+  <!-- Sharp Cinematic Sci-Fi / Avengers-Style Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+
   <style>
     * {
       box-sizing: border-box;
@@ -12,9 +17,9 @@
     }
 
     body {
-      background: radial-gradient(circle at 50% 42%, #07223d 0%, #031120 55%, #020912 100%);
+      background: radial-gradient(circle at 50% 45%, #062849 0%, #031528 52%, #010811 100%);
       color: #ffffff;
-      font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-family: "Rajdhani", sans-serif;
       height: 100vh;
       display: flex;
       flex-direction: column;
@@ -22,92 +27,218 @@
       align-items: center;
       user-select: none;
       overflow: hidden;
+      position: relative;
+    }
+
+    /* Subtle atmospheric light beam & scanline grid */
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 65% 32% at 50% 50%, rgba(0, 166, 251, 0.22) 0%, transparent 70%),
+        repeating-linear-gradient(
+          0deg,
+          rgba(255, 255, 255, 0.015) 0px,
+          rgba(255, 255, 255, 0.015) 1px,
+          transparent 1px,
+          transparent 4px
+        );
+      pointer-events: none;
+    }
+
+    /* Cinematic Widescreen Letterbox Bars */
+    .letterbox-top,
+    .letterbox-bottom {
+      position: fixed;
+      left: 0;
+      width: 100%;
+      height: 6vh;
+      background: #000000;
+      z-index: 10;
+      border-color: rgba(0, 166, 251, 0.25);
+    }
+
+    .letterbox-top {
+      top: 0;
+      border-bottom: 1px solid rgba(0, 166, 251, 0.25);
+    }
+
+    .letterbox-bottom {
+      bottom: 0;
+      border-top: 1px solid rgba(0, 166, 251, 0.25);
+    }
+
+    /* Main Avengers-Style Title */
+    .title-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      margin-bottom: 2rem;
+      z-index: 2;
+    }
+
+    .title-line {
+      width: clamp(30px, 7vw, 110px);
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #00a6fb, #ffffff);
+      box-shadow: 0 0 12px #00a6fb;
+    }
+
+    .title-line.right {
+      background: linear-gradient(270deg, transparent, #00a6fb, #ffffff);
     }
 
     .title {
-      font-size: clamp(1.25rem, 2.6vw, 2.1rem);
-      font-weight: 800;
-      letter-spacing: 0.16em;
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(1.2rem, 2.8vw, 2.35rem);
+      font-weight: 900;
+      letter-spacing: 0.28em;
       text-transform: uppercase;
-      color: #ffffff;
-      margin-bottom: 1.5rem;
       text-align: center;
-      text-shadow: 0 0 18px rgba(0, 166, 251, 0.55);
+      background: linear-gradient(180deg, #ffffff 0%, #e0f5ff 55%, #79cfff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter:
+        drop-shadow(0 2px 0 #034078)
+        drop-shadow(0 0 18px rgba(0, 166, 251, 0.75));
     }
 
+    /* Armored HUD Bezel Container */
     .countdown-container {
+      position: relative;
       display: flex;
       align-items: flex-start;
-      gap: clamp(0.5rem, 1.4vw, 1.2rem);
-      padding: clamp(1.4rem, 2.8vw, 2.4rem) clamp(1.8rem, 3.8vw, 3.4rem);
-      border-radius: 14px;
-      background: linear-gradient(180deg, rgba(3, 64, 120, 0.28) 0%, rgba(2, 24, 48, 0.45) 100%);
-      border: 1px solid rgba(0, 166, 251, 0.35);
+      gap: clamp(0.6rem, 1.8vw, 1.6rem);
+      padding: clamp(1.8rem, 3.4vw, 2.8rem) clamp(2.2rem, 4.5vw, 4.2rem);
+      background: linear-gradient(180deg, rgba(3, 64, 120, 0.36) 0%, rgba(2, 20, 42, 0.65) 100%);
+      border: 1px solid rgba(0, 166, 251, 0.45);
+      /* Angled Avengers / Stark-tech chamfered corners */
+      clip-path: polygon(
+        22px 0, calc(100% - 22px) 0,
+        100% 22px, 100% calc(100% - 22px),
+        calc(100% - 22px) 100%, 22px 100%,
+        0 calc(100% - 22px), 0 22px
+      );
       box-shadow:
-        0 0 35px rgba(0, 166, 251, 0.14),
-        inset 0 0 25px rgba(0, 166, 251, 0.08);
+        0 25px 65px rgba(0, 0, 0, 0.9),
+        inset 0 0 40px rgba(0, 166, 251, 0.16);
+      z-index: 2;
     }
+
+    /* Inner glowing top & bottom accent bars */
+    .countdown-container::before,
+    .countdown-container::after {
+      content: "";
+      position: absolute;
+      left: 15%;
+      width: 70%;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #00a6fb, #ffffff, #00a6fb, transparent);
+      box-shadow: 0 0 14px #00a6fb;
+    }
+
+    .countdown-container::before { top: 0; }
+    .countdown-container::after { bottom: 0; }
 
     .time-block {
       display: flex;
       flex-direction: column;
       align-items: center;
+      min-width: clamp(58px, 11vw, 145px);
     }
 
+    /* Heavy 3D Beveled Avengers Digits */
     .number {
-      font-size: clamp(2.6rem, 6.2vw, 4.8rem);
-      font-weight: 800;
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(2.3rem, 5.8vw, 4.8rem);
+      font-weight: 900;
       line-height: 1;
       font-variant-numeric: tabular-nums;
-      letter-spacing: 0.04em;
-      color: #ffffff;
-      text-shadow:
-        0 0 16px rgba(0, 166, 251, 0.65),
-        0 3px 10px rgba(3, 64, 120, 0.9);
+      letter-spacing: 0.06em;
+      /* Crisp bright white face with subtle icy-blue bottom bevel */
+      background: linear-gradient(
+        180deg,
+        #ffffff 0%,
+        #ffffff 52%,
+        #bce8ff 78%,
+        #5ec8ff 100%
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      /* Multi-layered 3D steel/cobalt extrusion + cinematic cyan aura */
+      filter:
+        drop-shadow(0 1px 0 #70d0ff)
+        drop-shadow(0 2px 0 #0088d1)
+        drop-shadow(0 3px 0 #034078)
+        drop-shadow(0 4px 0 #022b52)
+        drop-shadow(0 5px 0 #011930)
+        drop-shadow(0 0 22px rgba(0, 166, 251, 0.65));
     }
 
+    /* Sharp Tactical Labels */
     .label {
-      font-size: clamp(0.58rem, 1vw, 0.82rem);
+      font-family: "Rajdhani", sans-serif;
+      font-size: clamp(0.7rem, 1.25vw, 1rem);
       font-weight: 700;
-      letter-spacing: 0.18em;
+      letter-spacing: 0.32em;
       text-transform: uppercase;
-      color: #ffffff;
-      opacity: 0.92;
-      margin-top: 0.75rem;
-      text-shadow: 0 0 10px rgba(0, 166, 251, 0.4);
+      color: #bce8ff;
+      margin-top: 1rem;
+      padding-top: 0.45rem;
+      border-top: 1px solid rgba(0, 166, 251, 0.35);
+      width: 85%;
+      text-align: center;
+      text-shadow: 0 0 10px rgba(0, 166, 251, 0.6);
     }
 
+    /* 3D Extruded Colons */
     .colon {
-      font-size: clamp(2.6rem, 6.2vw, 4.8rem);
-      font-weight: 800;
-      line-height: 0.92;
-      color: #ffffff;
-      text-shadow: 0 0 16px rgba(0, 166, 251, 0.65);
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(2.1rem, 5.2vw, 4.3rem);
+      font-weight: 900;
+      line-height: 0.98;
+      background: linear-gradient(180deg, #ffffff 0%, #66ccff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter:
+        drop-shadow(0 2px 0 #034078)
+        drop-shadow(0 4px 0 #011930)
+        drop-shadow(0 0 16px rgba(0, 166, 251, 0.7));
+      animation: pulseColon 1s infinite ease-in-out;
     }
 
+    @keyframes pulseColon {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.55; }
+    }
+
+    /* Glossy #00a6fb / #034078 Audio Button */
     #sound-btn {
       position: fixed;
-      bottom: 20px;
-      right: 20px;
+      bottom: calc(6vh + 16px);
+      right: 24px;
+      z-index: 20;
+      font-family: "Orbitron", sans-serif;
       background: linear-gradient(180deg, #00a6fb 0%, #034078 58%, #012547 100%);
       color: #ffffff;
       border: 1px solid #00a6fb;
-      padding: 10px 22px;
+      padding: 11px 22px;
       border-radius: 6px;
-      font-size: 0.82rem;
+      font-size: 0.75rem;
       font-weight: 700;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       cursor: pointer;
       box-shadow:
-        0 4px 14px rgba(0, 0, 0, 0.75),
-        0 0 14px rgba(0, 166, 251, 0.3),
-        inset 0 1px 1px rgba(255, 255, 255, 0.45);
+        0 4px 14px rgba(0, 0, 0, 0.8),
+        0 0 16px rgba(0, 166, 251, 0.35),
+        inset 0 1px 1px rgba(255, 255, 255, 0.5);
       transition: transform 0.15s ease, filter 0.15s ease;
     }
 
     #sound-btn:hover {
-      filter: brightness(1.15);
+      filter: brightness(1.18);
     }
 
     #sound-btn:active {
@@ -117,128 +248,128 @@
 </head>
 <body>
 
-  <div class="title">DOOMSDAY IS COMING</div>
+<div class="title">DOOMSDAY IS COMING</div>
 
-  <div class="countdown-container">
-    <div class="time-block">
-      <div class="number" id="months">00</div>
-      <div class="label">MONTHS</div>
-    </div>
-    <div class="colon">:</div>
-    <div class="time-block">
-      <div class="number" id="days">00</div>
-      <div class="label">DAYS</div>
-    </div>
-    <div class="colon">:</div>
-    <div class="time-block">
-      <div class="number" id="hours">00</div>
-      <div class="label">HOURS</div>
-    </div>
-    <div class="colon">:</div>
-    <div class="time-block">
-      <div class="number" id="minutes">00</div>
-      <div class="label">MINUTES</div>
-    </div>
-    <div class="colon">:</div>
-    <div class="time-block">
-      <div class="number" id="seconds">00</div>
-      <div class="label">SECONDS</div>
-    </div>
+<div class="countdown-container">
+  <div class="time-block">
+    <div class="number" id="months">00</div>
+    <div class="label">MONTHS</div>
   </div>
+  <div class="colon">:</div>
+  <div class="time-block">
+    <div class="number" id="days">00</div>
+    <div class="label">DAYS</div>
+  </div>
+  <div class="colon">:</div>
+  <div class="time-block">
+    <div class="number" id="hours">00</div>
+    <div class="label">HOURS</div>
+  </div>
+  <div class="colon">:</div>
+  <div class="time-block">
+    <div class="number" id="minutes">00</div>
+    <div class="label">MINUTES</div>
+  </div>
+  <div class="colon">:</div>
+  <div class="time-block">
+    <div class="number" id="seconds">00</div>
+    <div class="label">SECONDS</div>
+  </div>
+</div>
 
-  <button id="sound-btn">Enable Tick Audio</button>
+<button id="sound-btn">Enable Tick Audio</button>
 
-  <script>
-    // ==========================================
-    // 1. SET YOUR TARGET DATE & TIME HERE
-    // ==========================================
-    const targetDate = new Date("2026-12-18T00:00:00");
+<script>
+  // ==========================================
+  // 1. SET YOUR TARGET DATE & TIME HERE
+  // ==========================================
+  const targetDate = new Date("2026-12-18T00:00:00");
 
-    // ==========================================
-    // 2. AUDIO FILE PLAYER (TICK SOUND)
-    // ==========================================
-    const tickAudio = new Audio("tick.mp3");
-    tickAudio.loop = true; // Repeats the full file seamlessly
+  // ==========================================
+  // 2. AUDIO FILE PLAYER (TICK SOUND)
+  // ==========================================
+  const tickAudio = new Audio("tick.mp3");
+  tickAudio.loop = true; // Repeats the full file seamlessly
 
-    let soundEnabled = false;
-    const soundBtn = document.getElementById("sound-btn");
+  let soundEnabled = false;
+  const soundBtn = document.getElementById("sound-btn");
 
-    soundBtn.addEventListener("click", () => {
-      soundEnabled = !soundEnabled;
-      soundBtn.textContent = soundEnabled ? "Mute Tick Audio" : "Enable Tick Audio";
+  soundBtn.addEventListener("click", () => {
+    soundEnabled = !soundEnabled;
+    soundBtn.textContent = soundEnabled ? "Mute Tick Audio" : "Enable Tick Audio";
 
-      if (soundEnabled) {
-        tickAudio.play().catch(() => {});
-      } else {
-        tickAudio.pause();
-      }
-    });
+    if (soundEnabled) {
+      tickAudio.play().catch(() => {});
+    } else {
+      tickAudio.pause();
+    }
+  });
 
-    function playTick() {
-      // Leave empty since tickAudio is looping automatically
+  function playTick() {
+    // Leave empty since tickAudio is looping automatically
+  }
+
+
+  // ==========================================
+  // 3. COUNTDOWN CALCULATION LOGIC
+  // ==========================================
+  let lastSecond = -1;
+
+  function pad(num) {
+    return String(num).padStart(2, "0");
+  }
+
+  function updateCountdown() {
+    const now = new Date();
+
+    if (now >= targetDate) {
+      document.getElementById("months").textContent = "00";
+      document.getElementById("days").textContent = "00";
+      document.getElementById("hours").textContent = "00";
+      document.getElementById("minutes").textContent = "00";
+      document.getElementById("seconds").textContent = "00";
+      return;
     }
 
-    
-    // ==========================================
-    // 3. COUNTDOWN CALCULATION LOGIC
-    // ==========================================
-    let lastSecond = -1;
+    let months = (targetDate.getFullYear() - now.getFullYear()) * 12 + (targetDate.getMonth() - now.getMonth());
+    let tempDate = new Date(now.getTime());
+    tempDate.setMonth(tempDate.getMonth() + months);
 
-    function pad(num) {
-      return String(num).padStart(2, "0");
-    }
-
-    function updateCountdown() {
-      const now = new Date();
-
-      if (now >= targetDate) {
-        document.getElementById("months").textContent = "00";
-        document.getElementById("days").textContent = "00";
-        document.getElementById("hours").textContent = "00";
-        document.getElementById("minutes").textContent = "00";
-        document.getElementById("seconds").textContent = "00";
-        return;
-      }
-
-      let months = (targetDate.getFullYear() - now.getFullYear()) * 12 + (targetDate.getMonth() - now.getMonth());
-      let tempDate = new Date(now.getTime());
+    if (tempDate > targetDate) {
+      months--;
+      tempDate = new Date(now.getTime());
       tempDate.setMonth(tempDate.getMonth() + months);
-
-      if (tempDate > targetDate) {
-        months--;
-        tempDate = new Date(now.getTime());
-        tempDate.setMonth(tempDate.getMonth() + months);
-      }
-
-      let diffMs = targetDate - tempDate;
-
-      const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-      diffMs -= days * (1000 * 60 * 60 * 24);
-
-      const hours = Math.floor(diffMs / (1000 * 60 * 60));
-      diffMs -= hours * (1000 * 60 * 60);
-
-      const minutes = Math.floor(diffMs / (1000 * 60));
-      diffMs -= minutes * (1000 * 60);
-
-      const seconds = Math.floor(diffMs / 1000);
-
-      document.getElementById("months").textContent = pad(months);
-      document.getElementById("days").textContent = pad(days);
-      document.getElementById("hours").textContent = pad(hours);
-      document.getElementById("minutes").textContent = pad(minutes);
-      document.getElementById("seconds").textContent = pad(seconds);
-
-      if (seconds !== lastSecond) {
-        if (lastSecond !== -1) {
-          playTick();
-        }
-        lastSecond = seconds;
-      }
     }
 
-    updateCountdown();
-    setInterval(updateCountdown, 100);
-  </script>
+    let diffMs = targetDate - tempDate;
+
+    const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    diffMs -= days * (1000 * 60 * 60 * 24);
+
+    const hours = Math.floor(diffMs / (1000 * 60 * 60));
+    diffMs -= hours * (1000 * 60 * 60);
+
+    const minutes = Math.floor(diffMs / (1000 * 60));
+    diffMs -= minutes * (1000 * 60);
+
+    const seconds = Math.floor(diffMs / 1000);
+
+    document.getElementById("months").textContent = pad(months);
+    document.getElementById("days").textContent = pad(days);
+    document.getElementById("hours").textContent = pad(hours);
+    document.getElementById("minutes").textContent = pad(minutes);
+    document.getElementById("seconds").textContent = pad(seconds);
+
+    if (seconds !== lastSecond) {
+      if (lastSecond !== -1) {
+        playTick();
+      }
+      lastSecond = seconds;
+    }
+  }
+
+  updateCountdown();
+  setInterval(updateCountdown, 100);
+</script>
 </body>
 </html>
